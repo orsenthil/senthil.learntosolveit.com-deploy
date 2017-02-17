@@ -1,0 +1,10 @@
+.. id: 137
+.. status: approved
+.. approved: True
+.. author: Senthil
+.. author_url: http://anythingisfine.wordpress.com/
+.. date_utc: 2007-06-05 13:11:15
+.. parent_id: 136
+.. wordpress_user_id: 4116355
+
+Yes , I realized about struct datatype in C and unfortunately forgot the mention that in the post. All I was thinking about is, it was so out-of-mind (due to out-of-sight) and all obj.property and obj.method was what coming up.

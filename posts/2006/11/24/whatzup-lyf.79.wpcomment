@@ -1,0 +1,54 @@
+.. id: 79
+.. status: approved
+.. approved: True
+.. author: Senthil
+.. author_url: http://anythingisfine.wordpress.com/
+.. date_utc: 2006-11-28 09:20:19
+.. parent_id: 78
+.. wordpress_user_id: 4116355
+
+Hi Atul,
+
+Yeah, I was bit hard in using that word. But my first day's general feeling was about some talks missing 'quality'. The quality we have come to expect at FOSS with speakers like Alan Cox, Nat, Mugiel and Naba Kumar delivering excellent presentations at previous meets.
+
+I replied to your comment on the second day while watching Christoph Hellwig speaking on Linux Kernel, but the connection failed and the reply did not come up.
+
+So the talks which did not particularly impress me (and many of my friends too):
+
+<i>sUSBix - stick to it !:</i>
+
+Seriously dont know what he was trying to say! He didn't have knowhow on the related area as well.
+
+USB boot of Belenix, nearly covered his whole topic with much ease on the last day.
+
+But, you see sUSBBix was the first talk after the intro by Suparna, got to be careful when audience will be flocking for a good talk at the peak timings.
+
+<i>A FOSS Bridge to Cross the Digital Divide </i>
+
+Man, he did not talk anything related to Digital Divide! Explaining about language, search technology etc etc.
+
+Few the panel discussions at FOSS.IN 2005, with sunil from mahiti.org and others were much better!
+
+<i>Open Source Product Documentation Framework </i>
+
+Another guy beating around the bush. Says OSS guys have all the time in the world discussing on forums, having blogs etc etc, so we should provide them a 'wiki' like thing to write! Excellent thought! But why 2 hours!??
+
+<i>Creating a Flexible Robot Controller using Python </i>
+
+Python is portable, so we are using it. Knowledge!
+
+Well,I know from python.org that it is used in industrial automation and  I am not wrong in expecting to know in which processes and how python is plugged into ABB. I didnt get an answer for first 30+ minutes I attended.
+
+These were the few talks on the first day which did not particularly get good reception and might have left a bad impression also.
+
+Few good ones were:
+
+Russell Nelson's on hacking, Philip's share of thoughts in contributing to OSS through his libyahoo experience, Suparnas thought software engineering and it ok ( am not into linux kernel so).
+
+Second and Third day talks were much better ( I choose speakers over the topic).
+
+But there is a long way to go before we can think of anything like what CCC does. Tim Pritlove's talk was amazing!
+
+Thanks,
+
+Senthil

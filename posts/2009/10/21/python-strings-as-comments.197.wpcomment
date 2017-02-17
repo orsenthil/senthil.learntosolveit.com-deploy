@@ -1,0 +1,9 @@
+.. id: 197
+.. status: approved
+.. approved: True
+.. author: Anonymous
+.. date_utc: 2009-10-24 17:55:13
+
+But docstrings are something else
+
+You would need to add specific options to python to stop it from byte-compiling docstrings though.

@@ -1,0 +1,54 @@
+.. id: 199
+.. status: approved
+.. approved: True
+.. author: Senthil
+.. author_url: http://anythingisfine.wordpress.com/
+.. date_utc: 2009-11-26 15:25:55
+.. parent_id: 197
+.. wordpress_user_id: 4116355
+
+Re: But docstrings are something else
+
+Sorry, for the late reply, I myself had do some experimentations to understand this stuff. In the above snippet as you saw, the compiler discards any string which is not referenced. But it is still available as a __doc__ attribute of the test object.
+
+&gt;&gt;&gt; def test():
+
+...     """This is string"""
+
+...     x = 1
+
+...     return x
+
+...
+
+&gt;&gt;&gt; import dis
+
+&gt;&gt;&gt; dis.dis(test)
+
+  3           0 LOAD_CONST               1 (1)
+
+              3 STORE_FAST               0 (x)
+
+  4           6 LOAD_FAST                0 (x)
+
+              9 RETURN_VALUE
+
+&gt;&gt;&gt; print test.__doc__
+
+This is string
+
+&gt;&gt;&gt; 
+
+But create a python snippet 'foo.py' like this:
+
+def test():
+
+    """This is a docstring"""
+
+    print test.__doc__
+
+    return True
+
+test()
+
+and do python foo.py vs python -OO foo.py you will see the .__doc__ attribute itself is discarded while doing optimization using -OO.

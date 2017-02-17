@@ -1,0 +1,10 @@
+.. id: 88
+.. status: approved
+.. approved: True
+.. author: Senthil
+.. author_url: http://anythingisfine.wordpress.com/
+.. date_utc: 2006-12-04 08:39:30
+.. parent_id: 86
+.. wordpress_user_id: 4116355
+
+thanks sajith. :) Time for lispljemacs? btw, I did not completely write it from scratch, 0.0.1 was implemented by <a href="http://www.vim.org/scripts/script.php?script_id=584" rel="nofollow"> Wartan Hachturow</a> and I took the maintainer ship from from and enhanced it further. Hope to make it more usable.

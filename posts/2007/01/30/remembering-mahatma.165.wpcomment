@@ -1,0 +1,15 @@
+.. id: 165
+.. status: approved
+.. approved: True
+.. author: Anonymous
+.. date_utc: 2007-12-18 23:28:32
+
+Thanks
+
+Your post inspired me to yet again give this a go too!
+
+I found that I turned all other proxies off, then opened Synaptic and configure the proxy it worked!!! My Firefox was off too, so it is likely a conflict between the gnome proxy settings and the Synaptic proxy settings.
+
+Note to others, if you need to configure your Gnome proxy settings, ensure you then restart Synaptic ;)
+
+-E
