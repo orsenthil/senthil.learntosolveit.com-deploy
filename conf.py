@@ -20,6 +20,8 @@ NAVIGATION_LINKS = {
     ),
 }
 
+NEW_POST_DATE_PATH = True
+
 # Name of the theme to use.
 THEME = "custom"
 

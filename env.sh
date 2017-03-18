@@ -1,3 +1,3 @@
 #!/bin/bash
-. /Users/senthil/python_virtualenvs/nikola_venv/bin/activate
+. /Users/senthil/py/py36/bin/activate
 
