@@ -7,10 +7,11 @@
 .. description:
 .. type: text
 
-I earned `Benjamin Franklin`_ badge.
+I earned a `Benjamin Franklin`_ badge.
 
 .. image:: https://dl.dropbox.com/s/c4huwavt9q7ttac/Screenshot%202017-03-16%2023.20.32.png?dl=0
-   :align: center
+   :height: 300
+   :width: 650
 
 That was very motivating.
 
