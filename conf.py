@@ -14,8 +14,8 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/projects/", "Projects"),
         ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
     ),
 }
@@ -41,9 +41,10 @@ PAGES = (
     ("stories/*.txt", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.html", "stories", "story.tmpl"),
+	("projects/*.rst", "projects", "project.tmpl"),
 )
 
-
+PROJECT_PATH = 'projects'
 
 # Below this point, everything is optional
 
