@@ -44,6 +44,13 @@ PAGES = (
 	("projects/*.rst", "projects", "project.tmpl"),
 )
 
+# Add the orgmode compiler to your COMPILERS dict.
+#COMPILERS["orgmode"] = ('.org',)
+
+# Add org files to your POSTS, PAGES
+POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
+PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
+
 PROJECT_PATH = 'projects'
 
 # Below this point, everything is optional
@@ -113,6 +120,7 @@ COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "html": ('.html', '.htm'),
+    "orgmode": ('.org',),
 }
 
 # Create by default posts in one file format?

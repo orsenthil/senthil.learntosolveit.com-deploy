@@ -2,15 +2,15 @@
 
 
 
-Transcendental Meditation is one of them and Maharishi Mahesh Yogi pioneered it. I learned it when I was in 10th  standard,16 years old and practiced it till my first year at job when I was in tech-support department at Dell, 23 years old. I feel, I had started meditation, because I wanted to improve my marks and achieve big things :-) and pursued it for 7 years intermittently, constantly getting confused with many things, without achieving the purpose of marks and big things. During this time, the Meditation activity also took me into religion and other spiritual activities in the related sphere and I got easily influenced by them also. My interests included, Sri Ramakrishna Mutt, Swami Vivekananda, Osho, temples and various different philosophical reading. 
+Transcendental Meditation is one of them and Maharishi Mahesh Yogi pioneered it. I learned it when I was in 10th  standard,16 years old and practiced it till my first year at job when I was in tech-support department at Dell, 23 years old. I feel, I had started meditation, because I wanted to improve my marks and achieve big things :-) and pursued it for 7 years intermittently, constantly getting confused with many things, without achieving the purpose of marks and big things. During this time, the Meditation activity also took me into religion and other spiritual activities in the related sphere and I got easily influenced by them also. My interests included, Sri Ramakrishna Mutt, Swami Vivekananda, Osho, temples and various different philosophical reading.
 
 
 
-It was when doing night-shifts at work that I did not get time for these and because during the day time with whatever time  I got, I wanted to study and prepare for a move to software department that my interests in these started to fade away. I think, being in Bangalore than in Madurai (where you have lot of temples and average interest in spiritual things is very high) and away from some friends who had shared my previous interests also led to this change. I was also disgusted with wrong paths which people might follow, if they just pray to god and not do the required work in trying to achieve what they wanted. So many nearby examples and sometimes myself included were in my mind. So, I simply kind of gave it up.
+It was when doing night-shifts at work that I did not get time for these and because during the day time with whatever time  I got, I wanted to study and prepare for a move to software development that my interests in meditation started to fade away. I think, being in Bangalore than in Madurai (where you have lot of temples and average interest in spiritual things is very high) and away from some friends who had shared my previous interests also led to this change. I was also disgusted with wrong paths which people might follow, if they just pray to god and not do the required work in trying to achieve what they wanted. So many nearby examples and sometimes myself included were in my mind. So, I simply kind of gave it up.
 
 
 
-Our interests change at different points in time. Right now, I do physical exercises everyday, enjoy it without any aim for marks or achieving big things.
+Our interests change at different points in time. Right now, I do <a href="https://photos.app.goo.gl/mXsw1QhEnuio4b4DA">physical exercises</a> everyday, enjoy it without any aim for marks or achieving big things.
 
 
 
