@@ -15,6 +15,7 @@ DEFAULT_LANG = "en"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/projects/", "Projects"),
+        ("http://news.xtoinfinity.com", "News"),
         ("/archive.html", "Archives"),
         ("/rss.xml", "RSS feed"),
     ),
@@ -44,12 +45,12 @@ PAGES = (
 	("projects/*.rst", "projects", "project.tmpl"),
 )
 
-# Add the orgmode compiler to your COMPILERS dict.
+#  Add the orgmode compiler to your COMPILERS dict.
 #COMPILERS["orgmode"] = ('.org',)
 
 # Add org files to your POSTS, PAGES
-POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
-PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
+# POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
+# PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
 
 PROJECT_PATH = 'projects'
 
@@ -76,6 +77,16 @@ TIMEZONE = "US/Pacific"
 # Date format used to display post dates, if local dates are used. (translatable)
 # (str used by moment.js)
 # JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
+
+# Use date-based path when creating posts?
+# Can be enabled on a per-post basis with `nikola new_post -d`.
+# The setting is ignored when creating pages.
+NEW_POST_DATE_PATH = True
+
+# What format to use when creating posts with date paths?
+# Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
+
+NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
 
 # Date fanciness.
 #
@@ -120,7 +131,6 @@ COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "html": ('.html', '.htm'),
-    "orgmode": ('.org',),
 }
 
 # Create by default posts in one file format?
