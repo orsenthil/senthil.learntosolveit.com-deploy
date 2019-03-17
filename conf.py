@@ -21,7 +21,6 @@ NAVIGATION_LINKS = {
     ),
 }
 
-NEW_POST_DATE_PATH = True
 
 # Name of the theme to use.
 THEME = "custom"
@@ -127,6 +126,7 @@ NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
 # 'rest' is reStructuredText
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
+
 COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
@@ -147,7 +147,9 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
+# LOGO_URL = 'https://dl.dropboxusercontent.com/s/1iewg2le17sf0pq/xtoinfinity_300_100.png'
 #LOGO_URL = 'http://dl.dropbox.com/s/bd3ghra88e765q5/xtoinfinity_300_100.svg'
+LOGO_URL = 'https://dl.dropboxusercontent.com/s/9wfngl1x5h25309/xtoinfinity-logo2.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
