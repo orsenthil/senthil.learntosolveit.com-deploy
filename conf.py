@@ -14,7 +14,6 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/projects/", "Projects"),
         ("http://news.xtoinfinity.com", "News"),
         ("/archive.html", "Archives"),
         ("/rss.xml", "RSS feed"),
@@ -23,7 +22,7 @@ NAVIGATION_LINKS = {
 
 
 # Name of the theme to use.
-THEME = "custom"
+THEME = "bootblog4"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -41,7 +40,6 @@ PAGES = (
     ("stories/*.txt", "stories", "story.tmpl"),
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.html", "stories", "story.tmpl"),
-	("projects/*.rst", "projects", "project.tmpl"),
 )
 
 #  Add the orgmode compiler to your COMPILERS dict.
@@ -50,8 +48,6 @@ PAGES = (
 # Add org files to your POSTS, PAGES
 # POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
 # PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
-
-PROJECT_PATH = 'projects'
 
 # Below this point, everything is optional
 
