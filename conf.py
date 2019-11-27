@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 import time
 
 BLOG_AUTHOR = "Senthil Kumaran"
-BLOG_TITLE = "Senthil Kumaran's thoughts."
+BLOG_TITLE = "Senthil Kumaran"
 SITE_URL = "http://www.xtoinfinity.com/"
 
 BLOG_EMAIL = "orsenthil@gmail.com"
-BLOG_DESCRIPTION = "Senthil Kumaran's thoughts."  # (translatable)
+BLOG_DESCRIPTION = "Senthil Kumaran"  # (translatable)
 
 DEFAULT_LANG = "en"
 
