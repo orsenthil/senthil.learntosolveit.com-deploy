@@ -18,6 +18,7 @@ NAVIGATION_LINKS = {
          "CV"),
         ("/rss.xml", "Blog RSS feed"),
         ("http://news.xtoinfinity.com", "My News Reader"),
+        ("http://xtoinfinity.com/stories/cheatsheet.html", "Cheatsheet"),
         ("/archive.html", "Blog Archives"),
     ),
 }
