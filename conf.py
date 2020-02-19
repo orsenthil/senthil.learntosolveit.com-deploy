@@ -14,9 +14,11 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("http://news.xtoinfinity.com", "News"),
-        ("/archive.html", "Archives"),
-        ("/rss.xml", "RSS feed"),
+        ("https://dl.dropbox.com/s/kmlas1kjkvu0vx3/Senthil_Kumaran_Feb_2020.pdf",
+         "CV"),
+        ("/rss.xml", "Blog RSS feed"),
+        ("http://news.xtoinfinity.com", "My News Reader"),
+        ("/archive.html", "Blog Archives"),
     ),
 }
 
