@@ -16,6 +16,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("https://dl.dropbox.com/s/kmlas1kjkvu0vx3/Senthil_Kumaran_Feb_2020.pdf",
          "Curriculum Vitae"),
+        ("https://scholar.google.com/citations?user=wkveFyQAAAAJ",
+         "Google Scholar"),
         ("http://news.xtoinfinity.com", "News Reader"),
         ("http://xtoinfinity.com/stories/cheatsheet.html", "Quick References"),
         ("/rss.xml", "Blog RSS"),
