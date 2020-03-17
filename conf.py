@@ -14,14 +14,15 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("https://dl.dropbox.com/s/kmlas1kjkvu0vx3/Senthil_Kumaran_Feb_2020.pdf",
+        ("https://www.xtoinfinity.com/resume/Senthil_Kumaran.pdf",
          "Curriculum Vitae"),
         ("https://scholar.google.com/citations?user=wkveFyQAAAAJ",
          "Google Scholar"),
-        ("http://news.xtoinfinity.com", "News Reader"),
-        ("http://xtoinfinity.com/stories/cheatsheet.html", "Quick References"),
+        ("https://news.xtoinfinity.com", "News Reader"),
+        ("https://xtoinfinity.com/stories/quickrefs.html", "Quick References"),
         ("/rss.xml", "Blog RSS"),
         ("/archive.html", "Blog Archives"),
+        ("/stories/about-me.html", "About"),
     ),
 }
 
