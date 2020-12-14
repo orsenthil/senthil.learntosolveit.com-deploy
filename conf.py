@@ -18,10 +18,7 @@ NAVIGATION_LINKS = {
          "Curriculum Vitae"),
         ("https://scholar.google.com/citations?user=wkveFyQAAAAJ",
          "Google Scholar"),
-        ("https://news.xtoinfinity.com", "News Reader"),
-        ("https://xtoinfinity.com/stories/quickrefs.html", "Quick References"),
         ("/rss.xml", "Blog RSS"),
-        ("/archive.html", "Blog Archives"),
         ("/stories/about-me.html", "About"),
     ),
 }
