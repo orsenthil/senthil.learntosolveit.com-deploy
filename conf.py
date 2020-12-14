@@ -18,8 +18,8 @@ NAVIGATION_LINKS = {
          "Curriculum Vitae"),
         ("https://scholar.google.com/citations?user=wkveFyQAAAAJ",
          "Google Scholar"),
-        ("/rss.xml", "Blog RSS"),
-        ("/stories/about-me.html", "About"),
+        ("/stories/about-me.html", "About Me"),
+        ("/rss.xml", "RSS Feeds")
     ),
 }
 
@@ -722,7 +722,7 @@ STRIP_INDEXES = False
 # if SITE_URL points to server root. The list is used to exclude resources from
 # /robots.txt and /sitemap.xml, and to inform search engines about /sitemapindex.xml.
 
-ROBOTS_EXCLUSIONS = ["/"]
+# ROBOTS_EXCLUSIONS = ["/"]
 
 # Instead of putting files in <slug>.html, put them in <slug>/index.html.
 # No web server configuration is required. Also enables STRIP_INDEXES.
