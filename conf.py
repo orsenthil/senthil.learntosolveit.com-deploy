@@ -8,24 +8,22 @@ BLOG_TITLE = "Senthil Kumaran"
 SITE_URL = "http://www.xtoinfinity.com/"
 
 BLOG_EMAIL = "orsenthil@gmail.com"
-BLOG_DESCRIPTION = "Senthil Kumaran"  # (translatable)
+BLOG_DESCRIPTION = ""  # (translatable)
 
 DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("https://www.xtoinfinity.com/resume/Senthil_Kumaran.pdf",
-         "Curriculum Vitae"),
-        ("https://scholar.google.com/citations?user=wkveFyQAAAAJ",
-         "Google Scholar"),
-        ("/stories/about-me.html", "About Me"),
+        ("/index.html", "Home"),
+        ("/archive.html", "Archives"),
+        ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS Feeds")
     ),
 }
 
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootblog-jinja"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -148,7 +146,7 @@ COMPILERS = {
 # The URL may be relative to the site root.
 # LOGO_URL = 'https://dl.dropboxusercontent.com/s/1iewg2le17sf0pq/xtoinfinity_300_100.png'
 #LOGO_URL = 'http://dl.dropbox.com/s/bd3ghra88e765q5/xtoinfinity_300_100.svg'
-LOGO_URL = 'https://dl.dropboxusercontent.com/s/9wfngl1x5h25309/xtoinfinity-logo2.png'
+# LOGO_URL = 'https://dl.dropboxusercontent.com/s/9wfngl1x5h25309/xtoinfinity-logo2.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -1020,7 +1018,28 @@ DEMOTE_HEADERS = 1
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+
+GLOBAL_CONTEXT = {'blog_sidebar': """\
+<div class="sidebar-module sidebar-module-inset">
+  <h4>Hello!</h4>
+  <p>My name is Senthil, and this is my personal website. Amongst many things, I am a Software
+Developer,a CPython Hacker,and a curious person.
+</div>
+<div class="sidebar-module">
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="https://scholar.google.com/citations?user=wkveFyQAAAAJ">Google Scholar</a></li>
+    <li><a href="https://www.xtoinfinity.com/resume/Senthil_Kumaran.pdf">Curriculum Vitae</a></li>
+    <li><a href="https://twitter.com/phoe6">Twitter @phoe6</a></li>
+    <li><a href="https://github.com/orsenthil/">Github @orsenthil</a></li>
+  </ol>
+  <h4>Projects</h4>
+  <ol class="list-unstyled">
+    <li><a href="http://www.learntosolveit.com/">Learn To Solve It</a></li>
+  </ol>
+</div>
+"""}
+
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
