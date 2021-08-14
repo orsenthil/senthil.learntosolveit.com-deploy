@@ -1021,15 +1021,15 @@ DEMOTE_HEADERS = 1
 
 GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
-  <h4>Hello!</h4>
-  <p>My name is Senthil, and this is my personal website. Amongst many things, I am a Software
-Developer,a CPython Hacker,and a curious person.
-</div>
+<p>
+There are far, far better things ahead than any we leave behind. -- C.S.Lewis
+</p>
+
 <div class="sidebar-module">
   <h4>Links</h4>
   <ol class="list-unstyled">
-    <li><a href="https://scholar.google.com/citations?user=wkveFyQAAAAJ">Google Scholar</a></li>
     <li><a href="https://www.xtoinfinity.com/resume/Senthil_Kumaran.pdf">Curriculum Vitae</a></li>
+    <li><a href="https://scholar.google.com/citations?user=wkveFyQAAAAJ">Google Scholar</a></li>
     <li><a href="https://twitter.com/phoe6">Twitter @phoe6</a></li>
     <li><a href="https://github.com/orsenthil/">Github @orsenthil</a></li>
   </ol>
