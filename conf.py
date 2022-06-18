@@ -402,7 +402,7 @@ REDIRECTIONS = [["2007/02/28/lost-and-found/index.html", "/posts/2007/02/28/lost
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
      'default': [
-         "rsync -rav --delete output/ orsenthi@xtoinfinity.com:/home/orsenthi/public_html",
+         "cd output && surfer put --token apib7922c966a439ca5d05f4c96a1a8606c --server senthil.learntosolveit.com * /"
      ]
 }
 
