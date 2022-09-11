@@ -2,6 +2,7 @@
 
 from __future__ import unicode_literals
 import time
+import os
 
 BLOG_AUTHOR = "Senthil Kumaran"
 BLOG_TITLE = "Senthil Kumaran"
@@ -14,16 +15,20 @@ DEFAULT_LANG = "en"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS Feeds")
-    ),
+        ('/index.html', 'Home', 'fa fa-home'),
+        ('/archive.html', 'Archives', 'fa fa-folder-open'),
+        ('/categories/index.html', 'Tags', 'fa fa-tags'),
+        ('/rss.xml', 'RSS', 'fa fa-rss'),
+        ('https://twitter.com/phoe6', 'My Twitter', 'fa fa-twitter'),
+        ('https://github.com/orsenthil', 'My Github', 'fa fa-github'),
+    )
 }
+
+DATE_FANCINESS = 2
 
 
 # Name of the theme to use.
-THEME = "readable"
+THEME = "zen-forkawesome"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -400,10 +405,14 @@ REDIRECTIONS = [["2007/02/28/lost-and-found/index.html", "/posts/2007/02/28/lost
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
+
+
+deploy_token = os.getenv('SENTHIL_LEARN_TO_SOLVE_IT_TOKEN')
+
+deploy_command = "cd output && surfer put --token " + deploy_token + "  --server senthil.learntosolveit.com * /"
+
 DEPLOY_COMMANDS = {
-     'default': [
-         "cd output && surfer put --token apib7922c966a439ca5d05f4c96a1a8606c --server senthil.learntosolveit.com * /"
-     ]
+     'default': [ deploy_command ]
 }
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
@@ -674,7 +683,7 @@ CONTENT_FOOTER_FORMATS = {
     )
 }
 
-COMMENT_SYSTEM = "disqus"
+COMMENT_SYSTEM = False
 
 COMMENT_SYSTEM_ID = "xtoinfinity"
 
