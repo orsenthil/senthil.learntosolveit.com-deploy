@@ -9,7 +9,7 @@ BLOG_TITLE = "Senthil Kumaran"
 SITE_URL = "http://senthil.learntosolveit.com/"
 
 BLOG_EMAIL = "orsenthil@gmail.com"
-BLOG_DESCRIPTION = ""  # (translatable)
+BLOG_DESCRIPTION = "Senthil Kumaran"  # (translatable)
 
 DEFAULT_LANG = "en"
 
@@ -19,8 +19,9 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Archives', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://twitter.com/phoe6', 'My Twitter', 'fa fa-twitter'),
-        ('https://github.com/orsenthil', 'My Github', 'fa fa-github'),
+        ('https://twitter.com/phoe6', 'Twitter', 'fa fa-twitter'),
+        ('https://github.com/orsenthil', 'Github', 'fa fa-github'),
+        ('https://www.linkedin.com/in/orsenthil', 'LinkedIn', 'fa fa-linkedin'),
     )
 }
 
