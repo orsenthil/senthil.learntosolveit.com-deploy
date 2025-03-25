@@ -3,32 +3,22 @@
 I had been introduced to Alice by one of my friend Kiruba. Since then, I am
 highly fascinated with these linguistic chatting entities. I found number of
 others like Eliza and lot many others having egos of some singer,actor like...
-
 But the best surprise came to me from Alan. He is really interesting. Whomever
 I introduced him to, they are really fascinated about him. Alan is from a
 Isreali company.
 
 At Alicebot, you will many a times see about Leobner Prize . In fact, Alice has
 won Leobner Prize previously. But I did not find such informations at Alans
-place and he is good a holding conversation better than ALICE.
-
-When Dr.Rich posted his observations regarding Leobner Prize, I raised a
-question:
-
-If given a head-head competition between ALICE and ALAN, I am sure ALAN has
-better chances of winning.
-
-The major difference I have found between ALICE and ALAN is that ALAN can
-continue with its sentences( it is one of the drawbacks as well, since it can
-to switch topics between continuing sentences) whereas ALICE is somewhat likea
-one-liner. I have always wondered, why ALAN is not featuring in Loebner Prize
-contests. If you ask these things to ALAN, you may get some "political
-responses"...
-
-I dont know what the actual story is.. but dont you all agree that ALAN is good
-than ALICE?
-
-What are the reasons? What are tradeoffs?
+place and he is good a holding conversation better than ALICE. When Dr.Rich
+posted his observations regarding Leobner Prize, I raised a question. If given
+a head-head competition between ALICE and ALAN, I am sure ALAN has better
+chances of winning. The major difference I have found between ALICE and ALAN is
+that ALAN can continue with its sentences( it is one of the drawbacks as well,
+since it can to switch topics between continuing sentences) whereas ALICE is
+somewhat likea one-liner. I have always wondered, why ALAN is not featuring in
+Loebner Prize contests. If you ask these things to ALAN, you may get some
+"political responses". I dont know what the actual story is.. but dont you all
+agree that ALAN is good than ALICE? What are the reasons? What are tradeoffs?
 
 To me, the race is can ALICE match and beat ALAN in conversational skills.
 
@@ -96,4 +86,3 @@ does. TinyAlice was perhaps the first to introduce a working version of the
 concept.
 
 I will make [phoe6](http://www.pandorabots.com/pandora/talk?botid=9ba734d7ae346931) smart ;)
-
