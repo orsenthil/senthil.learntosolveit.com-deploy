@@ -13,27 +13,15 @@ BLOG_DESCRIPTION = "Senthil Kumaran"  # (translatable)
 
 DEFAULT_LANG = "en"
 
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ('/index.html', 'Home', 'fa fa-home'),
-        ('/archive.html', 'Archives', 'fa fa-folder-open'),
-        ('/categories/index.html', 'Tags', 'fa fa-tags'),
-        ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://twitter.com/phoe6', 'Twitter', 'fa fa-twitter'),
-        ('https://github.com/orsenthil', 'Github', 'fa fa-github'),
-        ('https://www.linkedin.com/in/orsenthil', 'LinkedIn', 'fa fa-linkedin'),
-    )
-}
-
 DATE_FANCINESS = 2
 
 
 # Name of the theme to use.
-THEME = "zen-forkawesome"
+THEME = "bootstrap3-gradients"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#7679d4'
 
 POSTS = (
     ("posts/*.rst", "posts", "post.tmpl"),
@@ -48,6 +36,12 @@ PAGES = (
     ("stories/*.md", "stories", "story.tmpl"),
     ("stories/*.html", "stories", "story.tmpl"),
 )
+
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ("/archive.html", "Archives"),
+    ),
+}
 
 #  Add the orgmode compiler to your COMPILERS dict.
 #COMPILERS["orgmode"] = ('.org',)
