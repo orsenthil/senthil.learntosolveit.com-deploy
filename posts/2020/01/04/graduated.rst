@@ -10,7 +10,7 @@
 .. image:: https://dl.dropboxusercontent.com/s/i6hs7kdz09ylgo3/IMG-20191213-WA0023.jpg
    :align: left
    :width: 400
-   :height: 600
+   :height: 500
 
 I graduated from OMSCS, the Online Master's in Computer Science Program at Georgia
 Tech. I achieved my personal goal of earning a Master's degree in Computer Science
@@ -54,7 +54,7 @@ because it was not in Computer Science.
 .. image:: https://dl.dropbox.com/s/x2x2zyk9rigcxck/IMG_20191213_180112.jpg
    :align: right
    :width: 400
-   :height: 600
+   :height: 500
 
 In 2014, the OMSCS program was launched, and it looked very promising. I applied
 and was admitted in its second offering. I started my classes in January 2015,
