@@ -1,39 +1,21 @@
-<html><body><pre>
+I added [clause](https://foldoc.org/clause) to FOLDOC
 
-<br>clause	
+**logic**
 
-<br>        1.  A {logical formula} in {conjunctive normal form},
+A logical formula in conjunctive normal form, which has the schema
 
-<br>         which has the {schema}
+`p1 ^ ...^ pm => q1 V ... V qn.`
 
-<br>			 p1 ^ ...^ pm =&gt; q1 V ... V qn.
+or, equivalently,
 
-<br>	or,equivalently
+`~p1 V ... V ~pn V q1 V ... V qn,`
 
-<br>			~p1 V ... V ~pn V q1 V ... V qn,
+where pi and qi are atoms.  The operators ~, ^, V, => are connectives, where ~
+stands for negation, ^ for conjunction, V for disjunction and => for
+implication.
 
-<br>	where pi and qi are {atoms}.
+**grammar**
 
-<br>	The operators ~,^,V,=&gt; are connectives,where ~ stands for a	                            
-
-<br>        {negation},^ for a {conjunction},V for a {disjunction} and =&gt;
-
-<br> 	for an {implication}.
-
-<br>
-
-<br>	2.  A part of a {SQL} statement that does not	constitute
-
-<br>        a full statement; for e.g. a "WHERE clause".
-
-<br>	(2004-5-15)
-
-<br></pre>
-
-<br>Was sent to me on <a href="http://usr.blogspot.com/2004/04/foldoc-entry-to-editclause.html">Apr 7</a>, took a little extra time to edit.
-
-<br>
-
-<br>Thanks <a href="http://foldoc.doc.ic.ac.uk/foldoc/index.html">FOLDOC</a>
-
-<br></body></html>
+A part of a sentence (or programming language statement) that does not
+constitute a full sentence, e.g. an adjectival clause in human language or a
+WHERE clause in a SQL statement.

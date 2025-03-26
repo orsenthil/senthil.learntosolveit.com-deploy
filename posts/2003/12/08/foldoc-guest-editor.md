@@ -1,2 +1,5 @@
-<html><body><p>Thanks to Denis Howe for giving me an oppurtunity to (guest) edit some of the definitions at <a href="http://www.foldoc.org/">The Free On-line Dictionary of Computing</a>
-<br>Right now, I am checking with <a href="http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?query=4gl">4GL</a> and <a href="http://foldoc.doc.ic.ac.uk/foldoc/foldoc.cgi?Report+Program+Generator">RPG-II</a>
+My first open source community contribution came through editing entries for
+FOLDOC. [FOLDOC](https://foldoc.org/Free+On-line+Dictionary) is a free online
+dictionary for computing. Denis Howe gave me an opportunity to (guest) edit some
+of the definitions at The Free On-line Dictionary of Computing. I added entries
+for [4GL](https://foldoc.org/4GL) and [RPG-II](https://foldoc.org/RPG-II).
