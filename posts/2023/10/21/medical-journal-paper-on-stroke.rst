@@ -14,10 +14,10 @@ I was motivated to read this as the topic is close to my heart. I approached
 and understood this paper using tools like `Fermat's Library`_, `histre` for annotation and
 ChatGPT to understand medical terms.
 
-Stroke was attributed to hypertension and an insult to psychology when patients
-with hypertension were subjected to hospital care for the first time. The
-prevention is possible by thickening the blood and working to reduce the hyper
-tension factors.
+Stroke was attributed to hypertension and psychological stress when patients
+with hypertension were subjected to hospital care for the first time. Prevention
+is possible by improving blood viscosity and addressing factors contributing to
+hypertension.
 
 .. _`Fermat's Library`: https://fermatslibrary.com/p/fa8e26bd
 .. _`histre`: https://histre.com/

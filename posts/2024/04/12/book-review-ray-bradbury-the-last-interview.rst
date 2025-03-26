@@ -2,9 +2,9 @@
 .. slug: book-review-ray-bradbury-the-last-interview
 .. date: 2024-04-12 09:59:27 UTC-07:00
 .. tags: books
-.. category: 
-.. link: 
-.. description: 
+.. category:
+.. link:
+.. description:
 .. type: text
 
 This book is a collection of interviews by Ray Bradbury's biographer, Sam
@@ -23,5 +23,5 @@ everyone to follow *their path of love* and to true to themselves.
 I got a glimpse into why Ray Bradbury wrote Fahrenheit 451, and how did he
 shape his characters.  I haven't read Fahrenheit 451, but I had watched the
 movie and listened to the short version called blink of that book. It seems
-funny in retrospect that I had approached Farenheit 451 in these media, and not
+funny in retrospect that I had approached Fahrenheit 451 in these media, and not
 read it. But I will certainly read it and appreciate it even more now.

@@ -1,1 +1,3 @@
-<html><body><p>On Friday I called home and Ashwini picked up the phone and immediately<br>I recognized the good mood and she said Vaishnavi got placed at<br>Futuresoft. <br>Thats very nice of her and Congratulations Vaish.<br>Cheers!<br><br>btw, her home page is &lt;a<br>href="http://geocities.com/orvaishnavi/"&gt;here.<br><br></p></body></html>
+On Friday, I called home, and Ashwini picked up the phone. Immediately, I
+recognized her good mood as she shared the news that Vaishnavi got placed at
+Futuresoft. That's very nice of her. Congratulations, Vaishnavi! Cheers!

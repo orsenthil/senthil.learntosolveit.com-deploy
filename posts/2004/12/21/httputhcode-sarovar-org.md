@@ -1,11 +1,7 @@
-<html><body><p>Uthcode is back!
+Uthcode is back!
 
-<br>I was finally able to upload the files to the sarovar server.
+I was finally able to upload the files to the sarovar server.
+So, uthcode can be accessed using a friendly, easy to remember URL http://uthcode.sarovar.org
 
-<br>So, uthcode can be accessed using a friendly, easy to remember URL <a href="http://uthcode.sarovar.org/"><h2>http://uthcode.sarovar.org</h2></a>Now,time for some more work.
+Edit: This is now https://www.learntosolveit.com
 
-<br>
-
-<br>
-
-<br></p></body></html>

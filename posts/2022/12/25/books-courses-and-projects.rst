@@ -2,9 +2,9 @@
 .. slug: books-courses-and-projects
 .. date: 2022-12-25 17:54:17 UTC-08:00
 .. tags: books
-.. category: 
-.. link: 
-.. description: 
+.. category:
+.. link:
+.. description:
 .. type: text
 
 
@@ -24,8 +24,8 @@ used even now.
 
 This book is about American Farming. I couldn't complete reading it as
 it is a lengthy one, but the premise was America needs to take care of
-farmiing as a personal profession which people can care about. The
-mechanization has lead to "unsettling of america" is the point of the book. I
+farming as a personal profession which people can care about. The
+mechanization has led to "unsettling of America" is the point of the book. I
 took this upon recommendation from Mr.Sridhar Venbu in a tweet.
 
 .. image:: https://senthil.learntosolveit.com/books2022/image5.png
