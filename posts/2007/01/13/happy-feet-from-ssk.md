@@ -1,2 +1,1 @@
-From the recreation club of the Spastics Society School ([Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org)), we are going to **Happy
-Feet** this morning at Inox. Hope to have a good time.
+From the Recreation Club of the Spastics Society School ([Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org)), we are heading to **Happy Feet** this morning at Inox. I hope we have a great time.

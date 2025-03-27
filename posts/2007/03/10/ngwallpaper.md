@@ -1,5 +1,9 @@
-<html><body><p>Got started with using code.google.com project hosting for <a href="http://code.google.com/p/ngwallpaper/source">ngwallpaper</a> project. When you execute this python script, it fetches the wallpaper of the day from National Geographic site and sets it up as your Desktop Wallpaper.
+I started using Google Code project hosting for the **ngwallpaper** project. This Python script fetches the wallpaper of the day from the National Geographic website and sets it as your desktop wallpaper.
 
-Currently works on Windows platform with python windows extensions installs ( it uses SETDESTOPWALLPAPER attribute of a particular windows call).
+It currently works on Windows by leveraging Python Windows Extensions (using the `SETDESKTOPWALLPAPER` attribute from a Windows API call).
 
-Desirable features for ngwallpaper is 1) Platform agnostic (Windows, Linux, Mac) 2)More structure code. One present is just a start version 3)the program as a service or scheduled service which will run a particular time everyday. 4) Fix the windows set wallpaper issue where after few hours the wallpaper gets reset.</p></body></html>
+Future improvements include:
+1. Making it platform-agnostic (support for Windows, Linux, and Mac).
+2. Refactoring the code for better structure.
+3. Implementing the program as a service or scheduled task.
+4. Fixing the issue where the wallpaper resets after a few hours on Windows.

@@ -1,25 +1,7 @@
-<html><body><p>First, Freed.in Conference.
+First, Freed.in Conference.
 
+Next, the fun-filled Manali trip with friends.
 
+Then, hacking something at the Y! Hackday.
 
-
-
-
-
-Next, the fun filled Manali Trip with friends,
-
-
-
-
-
-
-
-And then hacking something at the Y! Hackday.
-
-
-
-
-
-
-
-It was a fun filled week for me.</p></body></html>
+It was a week full of fun.

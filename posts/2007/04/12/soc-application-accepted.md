@@ -1,1 +1,1 @@
-<html><body><p>wow! <a href="http://code.google.com/soc/psf/appinfo.html?csaid=E73A6612F80229B6">my Google Soc application</a> to  Python Software Foundation got accepted. My mentor will be George D. Montana. Thank you G-SOC and PSF.</p></body></html>
+Wow! My Google Soc application to the Python Software Foundation got accepted. My mentor will be George D. Montana. Thank you, G-SOC and PSF.

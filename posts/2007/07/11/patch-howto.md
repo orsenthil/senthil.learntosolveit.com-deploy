@@ -1,3 +1,3 @@
-<html><body><p>1) diff -ruP original  <b>modified</b>  &gt; <i>patch</i>
+1) diff -ruP original modified > patch
 
-2) patch -p0 &lt; <i>patch</i></p></body></html>
+2) patch -p0 < patch

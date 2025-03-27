@@ -1,11 +1,5 @@
-<html><body><a href="http://vimplugin.sourceforge.net/">vimplugin for eclipse</a>.
+[vimplugin for Eclipse](http://vimplugin.sourceforge.net/)
 
-<ul>
-
-<li> Install it using the eclipse plugin installer, pointing the location to <a href="http://vimplugin.sf.net/update">http://vimplugin.sf.net/update</a>
-
-</li><li> In the Window Preferences, the vimplugin preferences should be available. Point the vimplugin to your vim install location (not gvim). Did not work for me. Set the General | Editor | File associations preferences also  the kind of files you wish to open in vim. 
-
-</li><li> Open the file, and focus on it using the mouse to use it. ( Yeah, I found this in the known issues)
-
-</li></ul></body></html>
+- Install it using the Eclipse plugin installer and point it to: [http://vimplugin.sf.net/update](http://vimplugin.sf.net/update)
+- In Window Preferences, locate the vimplugin settings and set the path to your Vim installation (not gVim). (Note: This might not work immediately—ensure you also configure General > Editor > File Associations for the file types you wish to open with Vim.)
+- Open a file and click to focus on it. (I found this workaround in the known issues.)
