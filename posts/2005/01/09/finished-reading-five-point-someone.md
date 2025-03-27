@@ -1,15 +1,17 @@
-<html><body><p>Well, it should have not taken so long to read it full. But had got that book when I was not in touch with reading books.
+Well, it shouldn't have taken so long to finish reading it. But I got the book
+at a time when I wasn't in the habit of reading.
 
-<br>Had met Manish at one of our BLUG meets and he had that book, I kindda wondered what this new book was and was looking through it. Just expected not another kind of  "<span style="font-style:italic;">Count your eggs before they chicken</span>" kindda crap. I have not read those, but really dont like to. Dont know why. Perhaps try to read them some time :)
+I met Manish at one of our BLUG meets, and he had the book. I was curious about
+this new book and started flipping through it. I just hoped it wasn't another
+"<em>Count Your Eggs Before They Hatch</em>" kind of self-help material. I
+haven't read those kinds of books, but I don't really like them for some reason.
+Maybe I should give them a try someday.
 
-<br>But Manish's review was, if you have enjoyed Dil Chata Hai, you might like this as well and he offered to lend this book to me to read.  I am sorry Manish it took this long and I have not met you next time.
+Manish's review was that if you enjoyed <em>Dil Chahta Hai</em>, you might like
+this book as well. He kindly offered to lend it to me. I'm sorry, Manish, that
+it took me so long to read it, and I haven't had the chance to meet you again
+since.
 
-<br>
-
-<br>Lot of friends seem to enjoyed this one. Indeed it was.  Gowri is having this, shall check with zulfi and pass on to him a copy if he has not one already.
-
-<br>
-
-<br>
-
-<br></p></body></html>
+A lot of friends seem to have enjoyed this book, and I did too. Gowri currently
+has it. I'll check with Zulfi and pass him a copy if he doesn't already have
+one.

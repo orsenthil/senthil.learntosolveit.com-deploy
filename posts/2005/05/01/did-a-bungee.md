@@ -1,1 +1,8 @@
-<html><body><img src="http://www.top.si/icons/jump.gif"><br>Did a Bungee Jump today. Me and Raj.<br><br>The first free fall from 140 meters above was terrific. I watched and felt the surroundings when I went up. The night lights, the traffic,the road and people far below. Just when I got ready, the guy incharge of the Jump pushed me down.<br>It was like <span style="font-size:180%;">Woah.....</span></body></html>
+I did a bungee jump today with Raj.
+
+The first free fall from 140 meters above was exhilarating. As I ascended, I
+looked at the surroundings—the night lights, the traffic, the roads, and the
+people far below. Just as I was preparing myself, the jump operator gave me a
+push.
+
+and it was like **Whoa...**

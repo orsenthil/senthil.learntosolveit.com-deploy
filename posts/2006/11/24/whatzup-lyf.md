@@ -1,19 +1,29 @@
-<html><body><p>I was trying to post entries directly from vim, the text is not coming up properly. Need to figure out the problem and fix it. Its been pending for some days now. Once its up, it will so comfortable to post to lj directly from vim.
+I was trying to post entries directly from Vim, but the text is not displaying
+properly. I need to figure out the problem and fix it. It's been pending for
+some days now. Once it's resolved, it will be so comfortable to post to
+LiveJournal directly from Vim.
 
+## Reviews
 
+I watched **The Departed**, and I liked it. It's a very good movie with a good
+story and excellent direction. It might keep you on the edge of your seat while
+watching. The actors Matt Damon, Leonardo DiCaprio, and others have done an
+outstanding job. Well, you're going to hear the 'F' word at least 100 times in
+that movie, but you won't mind it. The movie is a kind of chase where a rat is
+implanted on both sides (a gang and the police), and they try to find out who
+the rat is, while both rats are very clever.
 
-<b>Reviews</b>
+## FOSS.IN
 
-I watched <b>The Departed</b> and I liked it. Its a very good movie, a good story and very well directed. It might keep you at the edge of the seat while you are watching the movie. The actors Matt Damon, Leonardo Di Caprio and others have done some "fucking" good job. Well, you are going to hear that 'F' word at aleast a 100 times in that movie, but you wont mind it. The movie is kind of  chase, a rat is implanted at both sides (a gang and police) and they try to find out who is the rat, while both the rats are very clever.
+Visited FOSS.IN today. Well, I was a bit disappointed as the quality of talks
+seems to be going down. A few were good—I enjoyed
+[bluesmoon's](http://bluesmoon.livejournal.com/) talk, and the intro by Suparna
+was okay. But the rest were disappointing!
 
+Atul Chitnis, if I were you, I would just pick quality speakers and fit only as
+many as the schedule allows (one day or two days). I would not compromise
+quality in favor of "let's do grand" things. But hey, you're doing a fantastic
+job (a few quality talks spread over three days) for the minor amount you're
+collecting from the delegates.
 
-
-FOSS.IN
-
-
-
-Visited FOSS.IN today. Well, I was bit depressed at quality of talks going down. Few were good, I enjoyed <a href="http://bluesmoon.livejournal.com/" class="lj-user">bluesmoon</a> talk and the intro by Suparna was ok. But rest all were Bullshit! 
-
-Atul Chitnis, if I were you, I would just pick quality speakers and fit only so much that as the quality speakers would occupy ( One day/Two days). I would not let go quality in favor of 'lets do grand' things et al. But, hey you are doing a fanastic job (Few quality talks spread over 3 days) for the minor amount you are collecting frm the delegates.
-
-Kudoes, keep going, but check for quality now and then.</p></body></html>
+Kudos, keep going, but please check for quality now and then.

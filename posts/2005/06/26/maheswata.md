@@ -1,1 +1,15 @@
-<html><body><p>Maheswata is a story of a beautiful girl called Anupama, who suddenly has to face life in all its cruel possiblities. After suffering enough,she starts to take things in her stride, fights back with courage and finally takes on to bring meaning to her life.<br><br>There are too many life-lessons in this novel. This novel brings forth many subtle issues of human mind with regard to beauty; the issue of security of  a woman in this male dominated society of India;what does mans love for a beautiful woman might mean; the plight of talented, motherless girl when born in a poor family; how sometimes a good person has undergo a lot of suffering for no fault; even through all these bleaks there are ofcourse good people living in this world. There are many a issues presented which might lead you to introspect.<br><br>Thank you, dearest Madam Sudha Murthy for such a wonderful Novel.</p></body></html>
+Maheswata is a story of a beautiful girl named Anupama, who suddenly has to face
+life in all its cruel possibilities. After enduring immense suffering, she
+begins to take things in stride, fights back with courage, and ultimately finds
+meaning in her life.
+
+This novel is filled with numerous life lessons. It delves into many subtle
+issues of the human mind regarding beauty, the security of women in a
+male-dominated society in India, and what a man's love for a beautiful woman
+might signify. It also explores the plight of a talented, motherless girl born
+into a poor family and how sometimes good people endure immense suffering
+through no fault of their own. Despite these bleak circumstances, the novel
+reminds us that there are still good people in the world.
+
+The story encourages introspection on many issues. Thank you, dearest Madam
+Sudha Murthy, for such a wonderful novel.

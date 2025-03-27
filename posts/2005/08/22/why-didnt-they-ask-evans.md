@@ -1,1 +1,6 @@
-<html><body><a href="http://uk.agathachristie.com/site/home/"><img src="http://www.waidev4.com/php/IMAGES/AGATHA_Stories/89---Image.jpg"></a><br>Thats an Agatha Christie title! Read the book over the weekend and got a glimpse at the talent of Queen of Crime. this was my first entry into the world of agatha chritie. she has got a very nice writing style, attention to the details and seems an excellent story teller :)<br><a href="http://uk.agathachristie.com/site/home/"><br></a><a href="http://photos1.blogger.com/blogger/445/152/1600/OTE5.jpg"><img src="http://photos1.blogger.com/blogger/445/152/200/OTE5.jpg" border="0" alt=""></a></body></html>
+![Agatha Christie - Why Didn't They Ask Evans?](http://www.waidev4.com/php/IMAGES/AGATHA_Stories/89---Image.jpg)
+
+That's an Agatha Christie title! I read the book over the weekend and got a
+glimpse of the talent of the Queen of Crime. This was my first entry into the
+world of Agatha Christie. She has a very nice writing style, great attention to
+detail, and is an excellent storyteller. :)

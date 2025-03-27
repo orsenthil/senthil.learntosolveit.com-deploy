@@ -1,1 +1,12 @@
-<html><body><a style="font-family:times new roman;color:rgb(0,0,153);" href="http://sourceforge.net/projects/rapple/">Rapple </a><span style="font-family:times new roman;"><span style="color:rgb(0,0,153);">is Lightweight XML based transformation tool written in C that builds upon expat, tidylib and XSLT to tranform authored web content (incl. Word processor generated HTML) into styled web content suitable for publication. </span><br><span style="font-family:georgia;"><br>Its a nice feeling when becoming <a href="http://sourceforge.net/project/memberlist.php?group_id=129927">member</a> of a sourceforge project. <br>Thanks a  lot <a href="http://sourceforge.net/people/viewprofile.php?user_id=1206856">Alan</a>, for including me in the development list.</span></span><span class="" style="display:block;" id="formatbar_CreateLink" title="Link"></span>Try the <a href="http://rapple.sourceforge.net/demo/demo.html">Rapple Demo</a> now!!<span class="down" style="display:block;" id="formatbar_CreateLink" title="Link"></span><br><span class="down" style="display:block;" id="formatbar_CreateLink" title="Link"></span></body></html>
+[Rapple](http://sourceforge.net/projects/rapple/) is a lightweight XML-based
+transformation tool written in C. It builds upon Expat, TidyLib, and XSLT to
+transform authored web content (including word processor-generated HTML) into
+styled web content suitable for publication.
+
+It's a nice feeling to become a
+[member](http://sourceforge.net/project/memberlist.php?group_id=129927) of a
+SourceForge project.  Thanks a lot,
+[Alan](http://sourceforge.net/people/viewprofile.php?user_id=1206856), for
+including me in the development list.
+
+Try the [Rapple Demo](http://rapple.sourceforge.net/demo/demo.html) now!
