@@ -1,3 +1,10 @@
-<html><body><p>The history department of Middlebury College has taken measures to <a href="http://www.insidehighered.com/news/2007/01/26/wiki">stop CITATIONS from wikipedia</a> for the Student Research paper. Yeah, thats infact the correc thing to do. For research we always should go the primary source and if not possible well researched secondary source having a relation to the primary source. 
+The history department of Middlebury College has taken measures to [stop
+citations from Wikipedia](http://www.insidehighered.com/news/2007/01/26/wiki)
+for student research papers. Yeah, that's in fact the correct thing to do. For
+research, we should always go to the primary source, and if that's not possible,
+a well-researched secondary source related to the primary source.
 
-Wikipedia being so useful that students had ended citing that up in the their papers and when there was a mis-information in the wikipedia, the students did not know that and their papers went wrong. The teachers doing a correct move as they say cite wikipedia at your own peril.</p></body></html>
+Wikipedia is so useful that students ended up citing it in their papers.
+However, when there was misinformation on Wikipedia, the students were unaware,
+and their papers contained errors. The teachers made the correct move by saying,
+"Cite Wikipedia at your own peril."

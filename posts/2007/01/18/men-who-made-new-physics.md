@@ -1,1 +1,35 @@
-<html><body><a href="http://www.flickr.com/photos/phoe6/360451918/" title="photo sharing"><img src="http://farm1.static.flickr.com/157/360451918_d76024ef74_m.jpg" alt="" style="border:solid 2px #000000;"></a><br><span style="font-size:.9em;margin-top:0;"><a href="http://www.flickr.com/photos/phoe6/360451918/">FrontCover</a> <br></span><br><p>I finished reading this book on Monday. It is an excellent book which deals with the stories of many physicists working during the prime time of physics. It starts with RutherFords story about his rustic nature and how he used to work in his lab. <br>I was amazed by the story of Max Plank that I have decided to keep Max Plank as an example of being organized and disciplined in life.<br>Max Plank was very organized it seems. He used to come to lab, almost at the same time and daily he had set 1/2 hour of learning piano and work style was appreciated by many. Einstein and many others respected and loved him and addressed as "our plank". Later in Einsteins story came to know that Einstein resigned from post in Germany during the troubled Nazi area, as knew that it would come up on Plank to take the decision of removing Einstein and Plank would be feeling uncomfortable doing it. Einstein then had moved to Princeton and German political situation was bad under Hilter.<br>One funny thing, I can recollec is, in of the anti Einstein meetings, Einstein was present in the audience and enjoying it. <br>Niels Bohr is another scientist whom we come to know in detail. He along with Einstein was the primary characters in this book. Bohr had established an institute where lots of young physicists loved to study and conduct experiments. Physicists who ever had been there feel it was the golden era. The final topic is on Einstein and Bohrs debate, Einstein feels that there is an organized approach in God design of universe wherein Bohrs point of argument ( as I understood) is we have not understood the organization of universe yet to comment on it.<br>Bohr was an athelete and used to go for short sprints between scientific discussions and debates it seems. :-)<br><br>Many of my friends will enjoy this book. Jonathan gifted me this while at college and Kannapan feels this as one of the best book he has ever read.<br><br>I took some snaps of the middle page pictures using my nokia 6600.<br><br>http://www.flickr.com/photos/phoe6/tags/physics/show/</p></body></html>
+I finished reading this book on Monday. It is an excellent book that tells the
+stories of many physicists working during the prime era of physics. It starts
+with Rutherford's story about his rustic nature and how he used to work in his
+lab.
+
+I was amazed by the story of Max Planck, and I have decided to keep Max Planck
+as an example of being organized and disciplined in life. Max Planck was very
+organized, it seems. He used to come to the lab almost at the same time every
+day, and he had set aside half an hour daily for learning piano. His work style
+was appreciated by many. Einstein and others respected and loved him, addressing
+him as "our Planck." Later, in Einstein's story, I learned that Einstein
+resigned from his post in Germany during the troubled Nazi era, knowing that it
+would fall upon Planck to make the decision of removing Einstein. Einstein
+understood that Planck would feel uncomfortable doing it. Einstein then moved to
+Princeton as the political situation in Germany worsened under Hitler.
+
+One funny thing I can recall is that during one of the anti-Einstein meetings,
+Einstein was present in the audience and enjoying it.
+
+Niels Bohr is another scientist we come to know in detail. He, along with
+Einstein, was one of the primary characters in this book. Bohr had established
+an institute where many young physicists loved to study and conduct experiments.
+Physicists who had been there felt it was a golden era.
+
+The final topic is on Einstein and Bohr's debate. Einstein believed that there
+is an organized approach in God's design of the universe, whereas Bohr's point
+of argument (as I understood) was that we have not yet understood the
+organization of the universe enough to comment on it. Bohr was an athlete and
+used to go for short sprints between scientific discussions and debates, it
+seems. :-)
+
+Many of my friends will enjoy this book. Jonathan gifted it to me while I was in
+college, and Kannapan feels this is one of the best books he has ever read.
+
+I took some snaps of the middle-page pictures using my Nokia 6600.
