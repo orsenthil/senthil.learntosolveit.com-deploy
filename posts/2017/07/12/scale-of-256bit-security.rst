@@ -9,7 +9,7 @@
 
 This video, titled How Security is 256-bit Security, provides an intuitive
 understanding of the immense scale of 256-bit security. The discussion is framed
-in the context of {{% wikipedia article="Bitcoin" %}}, which uses the
+in the context of {{% wikipedia article="Bitcoin" text="Bitcoin" %}}, which uses the
 {{% wikipedia article="SHA-256" %}} cryptographic algorithm. Other cryptocurrencies,
 or alt-coins, may use different cryptographic algorithms, but the principles of
 scale and security remain relevant.
