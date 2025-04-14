@@ -1,4 +1,15 @@
-<html><body><p>Da Vinci's scientific writings, <a href="https://en.wikipedia.org/wiki/Codex_Leicester">Codex Leicester</a>, manuscript holds the record for the sale price of any book. Bill Gates bought it for $US30,802,500.
+.. title: Codex Leicester
+.. slug: codex-leicester
+.. date: 2014-02-11 13:34:24
+.. tags: Leonardo da Vinci, Codex Leicester, Science, History
+.. category: Historical Manuscripts
+.. description:
+.. categories: Incredibles
+.. wp-status: publish
+
+Leonardo da Vinci's scientific manuscript, the <a href="https://en.wikipedia.org/wiki/Codex_Leicester">Codex Leicester</a>, holds
+the record for the highest sale price of any book. It was purchased by Bill
+Gates for $30,802,500 USD.
 
 
 
@@ -6,4 +17,3 @@
 
 
 
-<a href="https://en.wikipedia.org/wiki/Codex_Leicester"><img class="aligncenter size-medium wp-image-1399" alt="Vinci_-_Hammer_2A" src="http://xtoinf.files.wordpress.com/2014/02/vinci_-_hammer_2a.jpg?w=300" width="300" height="204"></a></p></body></html>

@@ -1,1 +1,0 @@
-<html><body><img class="size-full" src="http://xtoinf.files.wordpress.com/2014/06/2014-06-27_23-17-03.png" alt="Minecraft tower in shapse"></body></html>
