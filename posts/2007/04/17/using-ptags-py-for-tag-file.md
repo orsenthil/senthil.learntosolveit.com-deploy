@@ -1,15 +1,7 @@
-<html><body><p>1) put the ptags.py file to your $PATH.
+1. Place the `ptags.py` file in your `$PATH`.
+2. From the project directory containing your Python project, run the following command:
 
-2) From the project directory containing your python project run the command.
-
-
-
-$find . - name \*.py -print |xargs ptags.py
-
-
-
-I was doing it previously in various different ( not so efficient ways)
-
-
-
-<a href="http://betabug.ch/blogs/ch-athens/569">credits</a></p></body></html>
+```bash
+find . -name "*.py" -print | xargs ptags.py
+```
+I was previously using various inefficient methods to achieve this.

@@ -1,10 +1,10 @@
 .. title: Solving Hard Problems
 .. slug: solving-hard-problems
 .. date: 2017-11-05 18:57:26 UTC-08:00
-.. tags:
-.. category:
+.. tags: problem-solving, education, learning
+.. category: Education
 .. link:
-.. description:
+.. description: Reflections on solving hard problems and the value of learning from others' solutions.
 .. type: text
 
 I have personally been annoyed when I cannot find solution to hard problem. I used to think that
