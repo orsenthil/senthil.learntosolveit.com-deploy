@@ -1,7 +1,7 @@
 .. title: Maker Faire 2014
 .. slug: maker-faire-2014
 .. date: 2014-06-19 23:00:10
-.. tags: Maker Faire, Technology, Robotics, Innovation, Family Activities
+.. tags: Maker Faire, technology, robotics, innovation, Family Activities
 .. category: Events
 .. description: A detailed trip report of Maker Faire 2014, featuring experiences and insights from children and adults, showcasing innovation, robotics, and family-friendly activities.
 .. categories: Events

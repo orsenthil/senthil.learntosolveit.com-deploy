@@ -1,7 +1,7 @@
 .. title: Codex Leicester
 .. slug: codex-leicester
 .. date: 2014-02-11 13:34:24
-.. tags: Leonardo da Vinci, Codex Leicester, Science, History
+.. tags: Leonardo da Vinci, Codex Leicester, science, history
 .. category: Historical Manuscripts
 .. description:
 .. categories: Incredibles

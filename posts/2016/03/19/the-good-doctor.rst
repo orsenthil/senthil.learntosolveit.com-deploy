@@ -1,7 +1,7 @@
 .. title: The Good Doctor
 .. slug: the-good-doctor
 .. date: 2016-03-19 13:34:02 UTC-07:00
-.. tags: science fiction, storytelling, Asimov
+.. tags: science fiction, storytelling, asimov
 .. category: literature
 .. link:
 .. description:

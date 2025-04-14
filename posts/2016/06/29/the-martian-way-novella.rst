@@ -2,9 +2,9 @@
 .. slug: the-martian-way-novella
 .. date: 2016-06-29 11:52:41 UTC-07:00
 .. tags: asimov
-.. category: 
-.. link: 
-.. description: 
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Enjoyed reading "The Martian Way" story by Asimov. Takes place in a future setting where there are dwellers in mars,
