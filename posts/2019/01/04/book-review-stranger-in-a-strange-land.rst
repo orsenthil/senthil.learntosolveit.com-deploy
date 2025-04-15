@@ -11,8 +11,10 @@ goes into multiple topics like being human, politics, religion, love, sex,
 community, spirituality, entrepreneurship, money, influence, negotiation,
 strategy and "understanding" of it all.
 
-This gave a new word {{% wikipedia article="Grok" %}} to English speaking people, which roughly means to
-"understand thoroughly" and becoming one with the concept.
+This gave a new word {{% wikipedia article="Grok" %}} to English speaking
+people, which roughly means to "understand thoroughly" and becoming one with the
+concept. I have used this phrase in Tamil "கரைச்சி குடிச்சிட்டான்" which means
+someone thoroughly understood to subject at hand.
 
 One interesting thing about this science fiction is, it combined the real world
 concepts of business, stocks, politics, and ownership with an imaginary
