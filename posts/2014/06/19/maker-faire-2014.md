@@ -124,11 +124,13 @@ new ideas.
 ### Senthil
 
 In general, this year's Maker Faire was awesome as usual. I had a chance meeting
-with Salman Khan of Khan Academy, and I was extremely happy. I took a photo with
-him and shared about some Sourashtra translations I had attempted. This made my
-day, and everything beyond was a bonus.
+with Salman Khan of {{% wikipedia article="Khan Academy" %}} , and I was
+extremely happy. I took a photo with him and shared about some Sourashtra
+translations I had attempted. This made my day, and everything beyond was a
+bonus.
 
-![Meet your hero moment](http://t.co/B3FdfRjm9R)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Meet your hero moment for me at <a href="https://twitter.com/hashtag/MakerFaire?src=hash&amp;ref_src=twsrc%5Etfw">#MakerFaire</a> I talked with Sal about sourashtra language &amp; translation I&#39;ve attempted <a href="http://t.co/B3FdfRjm9R">pic.twitter.com/B3FdfRjm9R</a></p>&mdash; Senthil (@phoe6) <a href="https://twitter.com/phoe6/status/469143392228605952?ref_src=twsrc%5Etfw">May 21, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Two events captured my attention. First, the "Make Rockets Here" booth, where
 kids and parents made paper rockets. One rocket stood out, and the launcher
@@ -140,4 +142,4 @@ and board squares to transfer information to a computer. The computer calculated
 moves, and the mechanical arm executed them. It was both a mechanical and
 computer challenge, and the engineer was proud of his accomplishment.
 
-[Watch the chess-playing arm in action](https://www.youtube-nocookie.com/embed/m3znbQ-_Iqw?rel=0&showinfo=0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3znbQ-_Iqw?si=CRQllyGwHLg3ggG6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

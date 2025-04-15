@@ -1,19 +1,19 @@
 .. title: Book Review - Ray Bradbury The Last Interview
 .. slug: book-review-ray-bradbury-the-last-interview
 .. date: 2024-04-12 09:59:27 UTC-07:00
-.. tags: books
-.. category:
+.. tags: books, Ray Bradbury, Fahrenheit 451
+.. category: Book Reviews
 .. link:
-.. description:
+.. description: A review of the book "Ray Bradbury: The Last Interview," exploring the life and work of Ray Bradbury.
 .. type: text
 
-This book is a collection of interviews by Ray Bradbury's biographer, Sam
+This book is a collection of interviews by {{% wikipedia article="Ray Bradbury" %}}'s biographer, Sam
 Weller.
 
 Sam presents a glimpse into the final years of Ray Bradbury's life, which in
 itself is moving. It took a moment for me to realize the depravity of life
 during the old age, even as we constantly associate Ray Bradbury with his work
-on Fahrenheit 451, which he had written multiple years ago. This was the
+on {{% wikipedia article="Fahrenheit 451" %}}, which he had written multiple years ago. This was the
 poignant part of the entire book for me, and it shook me a bit.
 
 But despite this, the book is hip and is full of love. It is about the love
