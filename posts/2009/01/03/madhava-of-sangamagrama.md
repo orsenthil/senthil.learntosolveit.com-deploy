@@ -1,14 +1,8 @@
 .. title: Madhava of Sangamagrama
 .. slug: madhava-of-sangamagrama
 .. date: 2009-01-03 17:05:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: mathematics, india, history, mathematician
+.. category: Mathematics
+.. description: Brief overview of Madhava of Sangamagrama, a notable Indian mathematician and his contributions to mathematics
 
-<html><body><p>http://en.wikipedia.org/wiki/Madhava_of_Sangamagrama
-
-
-
-Indian Mathematician who has contributed to mathematics.</p></body></html>
+[Madhava of Sangamagrama](http://en.wikipedia.org/wiki/Madhava_of_Sangamagrama) was an Indian Mathematician who has contributed to mathematics.

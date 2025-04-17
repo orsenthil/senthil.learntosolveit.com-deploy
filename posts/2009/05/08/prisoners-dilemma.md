@@ -1,36 +1,21 @@
 .. title: Prisoner's dilemma
 .. slug: prisoners-dilemma
 .. date: 2009-05-08 09:39:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: game theory, decision making, strategy, psychology
+.. category: Mathematics
+.. description: Exploring the classic prisoner's dilemma where two individuals must decide whether to cooperate or betray each other.
 
-<html><body><p>http://en.wikipedia.org/wiki/Prisoner%27s_dilemma
+The [Prisoner's Dilemma](http://en.wikipedia.org/wiki/Prisoner%27s_dilemma) is a fundamental concept in game theory.
 
+The cops have caught two prisoners and do not have sufficient evidence. They decide to put them in separate cells and give the choice to either betray the other person and be free or be silent.
 
+| Case | Prisoner 1 | Prisoner 2 |
+|------|------------|------------|
+| 1)   | Betray (go Free) | Silent (10 year Jail) |
+| 2)   | Silent (10 year Jail) | Betray (go Free) |
+| 3)   | Silent (6 month Jail) | Silent (6 month Jail) |
+| 4)   | Betray (5 year Jail) | Betray (5 year Jail) |
 
-The cops have caught two prisoners and do not have sufficient evidence. They decide to put them in seperate cells and give the choice to either betray the other person and be free or be silent.
+What would you do?
 
-
-
-</p><pre>
-
-Case  Prisoner 1           Prisoner 2
-
-1)    Betray (go Free)     Silent (10 year Jail)
-
-2)    Silent(10 year Jail) Betray (go Free)
-
-3)    Silent(6 month Jail)  Silent (6 month Jail)
-
-4)    Betray(5 year Jail)  Betray (5 year Jail)
-
-<pre>
-
-
-
-What would you do? 
-
-Game theory deals with this topic nicely.</pre></pre></body></html>
+Game theory deals with this topic nicely.

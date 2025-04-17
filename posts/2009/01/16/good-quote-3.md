@@ -1,12 +1,10 @@
 .. title: Good Quote
 .. slug: good-quote-3
 .. date: 2009-01-16 19:47:00
-.. tags: quotes
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: quotes, philosophy, wisdom
+.. category: Philosophy
+.. description: A famous quote by Blaise Pascal about the distinction between heart and reason
 
-<html><body><p>The heart has its reasons which reason knows nothing of.
+The heart has its reasons which reason knows nothing of.
 
-		-- Blaise Pascal</p></body></html>
+-- Blaise Pascal

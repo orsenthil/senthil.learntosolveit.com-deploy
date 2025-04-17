@@ -1,10 +1,8 @@
 .. title: To iterate is human, to recur divine …
 .. slug: to-iterate-is-human-to-recur-divine-a
 .. date: 2009-01-05 17:33:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: programming, recursion, mathematics
+.. category: Programming
+.. description: A quote by T.V. Raman about the beauty of recursion in programming
 
-<html><body><i>"To iterate is human, to recur divine … </i> - <a href="http://emacspeak.sourceforge.net/raman">T.V. Raman</a> in this article, <a href="http://emacspeak.sourceforge.net/raman/publications/thinking-of-math/thinking-of-math.html"> "Thinking of Mathematics"</a>.</body></html>
+*"To iterate is human, to recur divine …"* - [T.V. Raman](http://emacspeak.sourceforge.net/raman) in this article, [Thinking of Mathematics](http://emacspeak.sourceforge.net/raman/publications/thinking-of-math/thinking-of-math.html).

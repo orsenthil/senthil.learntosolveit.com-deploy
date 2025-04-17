@@ -1,7 +1,7 @@
 .. title: Being Right vs Being Less Wrong
 .. slug: less-wrong
 .. date: 2018-07-30 09:01:36 UTC-07:00
-.. tags: decision-making, philosophy, rationality, less-wrong, self-improvement
+.. tags: decision making, philosophy, rationality, less-wrong, self-improvement
 .. category: Self-Improvement
 .. description: Exploring the concept of being less wrong in decision-making and rational thinking, inspired by the blog lesswrong.com.
 

@@ -1,17 +1,11 @@
 .. title: Just wait a Second.
 .. slug: just-wait-a-second
 .. date: 2009-01-01 10:53:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: time, calendar, leap second
+.. category: Science
+.. description: Adding a leap second to synchronize atomic time with the Earth's rotation on New Year's Day 2009.
 
-<html><body><p>1 second has been added to this year, according to the official time
-
-keepers at http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat
-
-
+1 second has been added to this year, according to the official time keepers at http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat
 
 So our clocks at Bangalore should have been:
 
@@ -21,6 +15,6 @@ So our clocks at Bangalore should have been:
 
 5:29:59
 
-5:29:60 &lt;--- Hurray!
+5:29:60 <--- Hurray!
 
-5:30:00</p></body></html>
+5:30:00
