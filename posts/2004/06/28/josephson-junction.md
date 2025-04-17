@@ -1,11 +1,9 @@
 .. title: Josephson Junction
 .. slug: josephson-junction
 .. date: 2004-06-28 17:36:00
-.. tags: 
+.. tags:
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description:
 
 Josepshson Junction
 

@@ -1,7 +1,7 @@
 .. title: Freedom and Innovation - Richard M Stallman
 .. slug: rms-is-totally-black-and-white
 .. date: 2004-12-24 22:33:00
-.. tags:
+.. tags: freedom, innovation, rms,
 .. category: General
 .. description:
 

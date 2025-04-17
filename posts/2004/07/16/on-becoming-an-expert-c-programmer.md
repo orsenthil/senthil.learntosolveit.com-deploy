@@ -1,10 +1,10 @@
 .. title: On becoming an expert C programmer
 .. slug: on-becoming-an-expert-c-programmer
 .. date: 2004-07-16 13:49:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
+.. tags: c, programming, expert, tips
+.. category: Programming
+.. description: Insights and tips on becoming an expert C programmer, including writing quality code and sharing it with others.
+.. categories: Programming
 .. wp-status: publish
 
 `Tell me what I should do in order to keep strong feelings towards C.`

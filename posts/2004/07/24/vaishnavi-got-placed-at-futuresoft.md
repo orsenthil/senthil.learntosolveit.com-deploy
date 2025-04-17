@@ -1,10 +1,10 @@
 .. title: Vaishnavi got Placed at FutureSoft
 .. slug: vaishnavi-got-placed-at-futuresoft
 .. date: 2004-07-24 16:27:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
+.. tags: success, placement, futuresoft
+.. category: Achievements
+.. description: Vaishnavi's placement at FutureSoft is a moment of pride and celebration.
+.. categories: Achievements
 .. wp-status: publish
 
 On Friday, I called home, and Ashwini picked up the phone. Immediately, I

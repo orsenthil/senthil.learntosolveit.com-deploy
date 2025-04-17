@@ -1,11 +1,9 @@
 .. title: fourth generation language
 .. slug: fourth-generation-language
 .. date: 2004-04-07 16:08:00
-.. tags: 
+.. tags:
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description:
 
 I added this entry for Foldoc.
 

@@ -1,9 +1,9 @@
 .. title: Trip to Santa Cruz, Carmel and Big Sur
 .. slug: trip-to-santa-cruz-carmel-and-big-sur
 .. date: 2015-08-10 23:07:25 UTC-07:00
-.. tags: 
-.. category: personal
-.. link: 
+.. tags:
+.. category: Personal
+.. link:
 .. description:  Short trip to central coast of california.
 .. type: text
 

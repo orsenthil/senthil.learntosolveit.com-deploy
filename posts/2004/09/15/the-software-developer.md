@@ -1,10 +1,10 @@
 .. title: The Software Developer
 .. slug: the-software-developer
 .. date: 2004-09-15 21:00:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
+.. tags: bill gates, microsoft, technology, critique, power
+.. category: Technology
+.. description: A critique of Bill Gates' influence and Microsoft's potential power in shaping the future of technology.
+.. categories: Technology
 .. wp-status: publish
 
 <html><body><a href="http://www.edge.org/documents/digerati/Gates.html"><img src="http://www.edge.org/digerati/gates/images/gates.gif"></a>

@@ -1,11 +1,9 @@
 .. title: Power Solutions article
 .. slug: power-solutions-article
 .. date: 2004-11-02 06:01:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: dell, openmanage, server administration, log messages
+.. category: Technology
+.. description: An article on using log messages and alert actions in Dell OpenManage Server Administrator.
 
 I wrote my first Industry publication in the Dell PowerSolutions Journal.
 

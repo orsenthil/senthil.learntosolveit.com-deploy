@@ -1,11 +1,9 @@
 .. title: Weekends
 .. slug: weekends
 .. date: 2004-11-28 20:13:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: weekends, productivity, movies, personal, reflections
+.. category: Personal
+.. description: A reflective weekend filled with work, leisure, and thoughts on movies and life.
 
 I had planned to complete a lot of extra work over the weekend, but everything
 vaporized. :)

@@ -2,7 +2,7 @@
 .. slug: graduated
 .. date: 2020-01-04 23:09:10 UTC-08:00
 .. tags: graduation, education, perseverance
-.. category: personal
+.. category: Personal
 .. link:
 .. description:
 .. type: text

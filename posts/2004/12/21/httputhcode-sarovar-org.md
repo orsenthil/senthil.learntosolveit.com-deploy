@@ -1,11 +1,9 @@
 .. title: http://uthcode.sarovar.org
 .. slug: httputhcode-sarovar-org
 .. date: 2004-12-21 03:06:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: programming, projects, uthcode
+.. category: Programming
+.. description: Uthcode project hosted on Sarovar with an easy-to-remember URL.
 
 Uthcode is back!
 

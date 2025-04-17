@@ -1,11 +1,9 @@
 .. title: Torvalds again:
 .. slug: torvalds-again
 .. date: 2004-12-22 02:51:00
-.. tags: 
+.. tags: linux, myths, leadership
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: Linus Torvalds discusses myths about leadership and the misconception of individual control in Linux development.
 
 **What Linux myths or misconceptions do you find particularly galling?**
 
