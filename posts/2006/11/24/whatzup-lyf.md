@@ -1,11 +1,9 @@
 .. title: Whatzup lyf.
 .. slug: whatzup-lyf
 .. date: 2006-11-24 23:47:00
-.. tags: 
+.. tags: whatzup-lyf
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A post discussing direct entries from Vim and issues with text display.
 
 I was trying to post entries directly from Vim, but the text is not displaying
 properly. I need to figure out the problem and fix it. It's been pending for
