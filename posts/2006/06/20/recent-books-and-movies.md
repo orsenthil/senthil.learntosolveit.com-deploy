@@ -1,78 +1,35 @@
 .. title: Recent books and movies
 .. slug: recent-books-and-movies
 .. date: 2006-06-20 00:15:00
-.. tags: 
+.. tags: books, movies, software-engineering, cryptography, reviews
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: Reviews of recent books and movies, including insights on software engineering and cryptography.
 
-<html><body><p>Recent Books include:
+### Recent Books
 
-</p><ul>
+- **Comics: Tintin: Destination Moon and Explorers on the Moon**
+    A good entertainer. I am a long-time fan of Tintin.
 
-<li>Comics: Tintin: Destination Moon and Explorers on the Moon.
+- **The Mythical Man Month**
+    Excellent essays on software engineering by Fred Brooks. His experience managing a large software project is evident in this book.
+    The book provides valuable insights into the software development process. If you are a software developer, tester, or manager, you should read this book.
 
-A good entertainer, am a long time fan of tintin.
+- **The Code Book by Simon Singh**
+    This book explores the history of cryptography and shares many stories from the field. It sparks interest in cryptography and helps you appreciate the efforts of those who have contributed to its development.
 
-</li></ul>
+### Recent Movies
 
-<ul>
+- **Munich**
+    It was okay. You can watch it once. It felt like a standard Spielberg movie.
 
-<li>The Mythical Man Month.
+- **The Incredibles**
+    Excellent movie. I don't know why I missed watching this in the theater. I enjoyed it a lot. Dash's run was particularly impressive.
 
-Excellent Essays on Software Engineering by Fred Brookes. You will notice his experience of managing a large software project speaking in this book.
+- **Ice Age 2**
+    I watched it twice. I enjoyed it very much the first time. The scenery is well-made, and the storyline is okay, but still very enjoyable.
 
-The book gives a good insight into the software development process. If you are a software developer,tester or a manager, you should read this book. 
+- **The Da Vinci Code**
+    A good movie. I initially wanted to watch it after reading the book but decided to watch it anyway. I found it very interesting.
+    The movie is gripping even if you know the story. It presents an alternative history suggesting that Jesus was married to Mary Magdalene, they had a child, and their lineage continues to this day.
 
-</li></ul>
-
-<ul>
-
-<li>The Code Book by Simon Singh.
-
-This book is about history of Crypography and many stories in field of crypography. Would generate a kindda of interest in you for crypography and you would also being to appreaciate the efforts of people who have worked hard to make the cryptography related things possible.
-
-</li></ul>
-
-
-
-Movies:
-
-<ul>
-
-<li>Munich.
-
-It was Okay. You can watch it once. It was a kind of Standard Speilberg.
-
-</li></ul>
-
-<ul>
-
-<li>The Incredibles
-
-Excellent One. I dont know why I missed watching this in the theatre. I enjoyed it much. Dash's run was just too good.
-
-</li></ul>
-
-<ul>
-
-<li>Ice Age2.
-
-I watched it twice. I enjoyed it very much the first time. The scenaries are well made and story line is Okay. But still very enjoyable.
-
-</li></ul>
-
-<ul>
-
-<li>Da Vinci Code
-
-Good one again. I wanted to watch this after reading the book, but I decided to watch it anyways. Found it be very interesting.
-
-The movie is gripping even if you know the story. (Kindda alternative history that Jesus was married to Mary magdalene and they had child and their generation is still present now)
-
-</li></ul>
-
-
-
-thats all I can remember for the recent past.</body></html>
+That's all I can remember for the recent past.

@@ -1,9 +1,9 @@
-.. title: scrmabled
+.. title: Scrmabled
 .. slug: scrmabled
 .. date: 2006-12-08 22:03:00
-.. tags: scrmabled
+.. tags: scrambled, humor, puzzles
 .. category: General
-.. description: A humorous post exploring letter scrambling puzzles and commentary.
+.. description: Exploring the humor and challenges of letter scrambling puzzles.
 
 Tihs is a pelicaur pproetry that if the fsirt and the lsat ltteer of the wdros
 rmiean the smae, and the rset is scbelmard, then you mhigt siltl be able to

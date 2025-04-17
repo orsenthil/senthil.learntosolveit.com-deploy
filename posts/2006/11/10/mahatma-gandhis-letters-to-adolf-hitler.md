@@ -1,24 +1,36 @@
 .. title: Mahatma Gandhi's Letters to Adolf Hitler
 .. slug: mahatma-gandhis-letters-to-adolf-hitler
 .. date: 2006-11-10 23:50:00
-.. tags: 
+.. tags: gandhi, hitler, letters, ahimsa, world-war-2, non-violence
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: An exploration of Mahatma Gandhi's letters to Adolf Hitler, emphasizing non-violence and universal friendship during a tumultuous historical period.
 
-<html><body><p>I had heard from my friend Ashok that Mahatma Gandhi wrote to Adolf Hilter a Letter asking him to stop war and teaching him Ahimsa. Stumbled upon the link discussing that letter on Wikipedia article on <a href="http://en.wikipedia.org/wiki/Mahatma_Gandhi">Mahatma Gandhi</a>. <br>
+I had heard from my friend Ashok that Mahatma Gandhi wrote a letter to Adolf
+Hitler, asking him to stop the war and teaching him about Ahimsa. I stumbled
+upon a link discussing that letter in the Wikipedia article on [Mahatma
+Gandhi](http://en.wikipedia.org/wiki/Mahatma_Gandhi).
 
-Here is article which discusses the <a href="http://koenraadelst.bharatvani.org/articles/fascism/gandhihitler.html">Gandhis letters to Hitler</a>. We come to know that Gandhi addressed Hilter as his friend and he emphasized it that it was not only words but he believes in universal friendship and extends it to Hilter as well. This was during the time when Hilter was suggesting to British as killing Gandhi will suppress Indian Rebellion.
+Here is an article that discusses [Gandhi's letters to Hitler](http://koenraadelst.bharatvani.org/articles/fascism/gandhihitler.html).
+We learn that Gandhi addressed Hitler as his friend and emphasized that it was
+not just words—he truly believed in universal friendship and extended it to
+Hitler as well. This was during a time when Hitler was suggesting to the British
+that killing Gandhi would suppress the Indian rebellion.
 
-<br>
+The article discusses various political instances where Gandhi's ideologies
+could have been applied. One can notice that the author gives a favorable
+treatment of Gandhi's ideologies in these situations. The last paragraph of the
+article was particularly impressive.
 
-The article discusses various political instances where Gandhi's ideologies could have been applied. One can notice that the author gives a favourable treatment of Gandhis ideologies to the situations. The last para of the article was impressive. 
+To quote from the article itself:
 
-To quote from the article itself.
-
-<i>
-
-It is not certain that this would have worked, but then Gandhism is not synonymous with effectiveness. Gandhi’s methods were successful in dissuading the British from holding on to India, not in dissuading the Muslim League from partitioning India. From that angle, it simply remains an open question, an untried experiment, whether the Gandhian approach could have succeeded in preventing World War 2. By contrast, there simply cannot be two opinions on whether that approach of non-violent dissuasion would have been Gandhian. The Mahatma would not have been the Mahatma if he had preferred any other method. Our judgment of his letters to Hitler must be the same as our judgment of Gandhism itself: either both represented a lofty ethical alternative to the more common methods of power politics, or both were erroneous and ridiculous.
-
-</i></p></body></html>
+> It is not certain that this would have worked, but then Gandhism is not
+synonymous with effectiveness. Gandhi’s methods were successful in dissuading
+the British from holding on to India, not in dissuading the Muslim League from
+partitioning India. From that angle, it simply remains an open question, an
+untried experiment, whether the Gandhian approach could have succeeded in
+preventing World War 2. By contrast, there simply cannot be two opinions on
+whether that approach of non-violent dissuasion would have been Gandhian. The
+Mahatma would not have been the Mahatma if he had preferred any other method.
+Our judgment of his letters to Hitler must be the same as our judgment of
+Gandhism itself: either both represented a lofty ethical alternative to the more
+common methods of power politics, or both were erroneous and ridiculous.

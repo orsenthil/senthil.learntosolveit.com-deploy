@@ -1,11 +1,9 @@
 .. title: Neenas Marriage, Cochin Trip and Bannerghatta NP Visit.
 .. slug: neenas-marriage-cochin-trip-and-bannerghatta-np-visit
 .. date: 2006-12-19 21:31:00
-.. tags: 
+.. tags: travel, marriage, wildlife, photography
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A brief account of attending a Malayali marriage in Cochin, exploring the city, and visiting Bannerghatta National Park in Bangalore.
 
 # Neena's Marriage, Cochin Trip, and Bannerghatta NP Visit
 

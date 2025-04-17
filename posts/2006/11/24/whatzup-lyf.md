@@ -1,9 +1,9 @@
 .. title: Whatzup lyf.
 .. slug: whatzup-lyf
 .. date: 2006-11-24 23:47:00
-.. tags: whatzup-lyf
+.. tags: reviews, movies, foss
 .. category: General
-.. description: A post discussing direct entries from Vim and issues with text display.
+.. description: Reflections on posting from Vim, a movie review of The Departed, and experiences at FOSS.IN.
 
 I was trying to post entries directly from Vim, but the text is not displaying
 properly. I need to figure out the problem and fix it. It's been pending for

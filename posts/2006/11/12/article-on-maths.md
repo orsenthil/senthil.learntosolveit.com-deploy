@@ -1,14 +1,11 @@
 .. title: Article on Maths
 .. slug: article-on-maths
 .. date: 2006-11-12 02:24:00
-.. tags: 
+.. tags: mathematics, programming, learning
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: Insights on how mathematics can enhance programming skills and problem-solving approaches.
 
-Steve Yegge posted an entry on
-[Maths for Programmers](http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html).
+Steve Yegge posted an entry on Maths for Programmers.
 
 That article is very insightful. It analyzes how mathematics can be useful to
 any programmer at any time.

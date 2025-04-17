@@ -1,14 +1,15 @@
 .. title: Its been sometime..
 .. slug: its-been-sometime
 .. date: 2006-07-13 04:20:00
-.. tags: its-been-sometime
-.. category: General
-.. description: A reflective post on work, discussions, and project management.
+.. tags: python, project-management
+.. category: Work
+.. description: Reflections on late-night work, Python learning, and project management.
 
-<html><body><p>Its been sometime since I worked uptil  04:20:28. Had some discussions with friends and completed my work and did the project management as well. Python is catching up well. Thats really a cool language. Once I should get sufficiently familar, it should be like writing english.
+It's been some time since I worked until 04:20:28. I had some discussions with
+friends, completed my work, and handled project management tasks as well. Python
+is catching up well—it's really a cool language. Once I become sufficiently
+familiar with it, writing Python should feel like writing English.
 
-q to myself:
-
-* find the difference between re.search and re.match.
-
-* read python faq.</p></body></html>
+### Questions to myself:
+- Find the difference between `re.search` and `re.match`.
+- Read the Python FAQ.

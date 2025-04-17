@@ -1,10 +1,8 @@
 .. title: Whitespace programming language
 .. slug: whitespace-programming-language
 .. date: 2006-09-03 17:08:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: programming, humor, whitespace
+.. category: Programming
+.. description: An amusing look at the Whitespace programming language, which uses only spaces, tabs, and linefeeds for its syntax.
 
-<html><body><p>Stumbled upon this this link of <a href="http://compsoc.dur.ac.uk/whitespace/index.php">Whitespace programming language</a>. Its really funny!.</p></body></html>
+Stumbled upon this link about the Whitespace programming language. It's really funny!
