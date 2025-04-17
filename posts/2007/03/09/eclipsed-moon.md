@@ -1,1 +1,10 @@
+.. title: Eclipsed Moon
+.. slug: eclipsed-moon
+.. date: 2007-03-09 02:09:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><br><img width="253" height="190" alt="" src="http://antwrp.gsfc.nasa.gov/apod/image/0703/tle_03032007_60_schedler720.jpg"><br><br>I <a href="http://bluesmoon.livejournal.com/254188.html?thread=1829356#t1829356">missed watching</a> this phenomenon on March 4 morning. I was in deep sleep.<br><br>Picture from <a href="http://antwrp.gsfc.nasa.gov/apod/ap070308.html">Astronomy Picture of the Day</a>.</body></html>

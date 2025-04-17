@@ -1,3 +1,12 @@
+.. title: Funny Trick using your gmail  id
+.. slug: funny-trick-using-your-gmail-id
+.. date: 2008-12-07 09:04:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Whenever some website recognizes the uniqueness of account using your email id, you can by pass that check while using your gmail.com id, because gmail.com does not consider symantics of '.' within the username of its account.
 
 So, if you are yourname at gmail.com, it is same as your.name,  y.ourname or any other thing for the same account. But for the other website, most often they tend to look it as different ids. 

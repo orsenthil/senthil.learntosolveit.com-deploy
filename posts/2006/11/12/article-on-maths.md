@@ -1,3 +1,12 @@
+.. title: Article on Maths
+.. slug: article-on-maths
+.. date: 2006-11-12 02:24:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Steve Yegge posted an entry on
 [Maths for Programmers](http://steve-yegge.blogspot.com/2006/03/math-for-programmers.html).
 

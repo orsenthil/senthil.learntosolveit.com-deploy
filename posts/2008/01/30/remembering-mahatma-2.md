@@ -1,3 +1,12 @@
+.. title: Remembering Mahatma
+.. slug: remembering-mahatma-2
+.. date: 2008-01-30 11:18:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><a href="http://picasaweb.google.com/orsenthil/Mahatma_Gandhi/photo#5013572208804054594"><img src="http://lh5.google.com/orsenthil/RZPJXGGJRkI/AAAAAAAAAvo/s_oNYhhXiNc/s400/MahatmaGandhi.jpg"></a>
 
 

@@ -1,3 +1,12 @@
+.. title: Good Will Hunting
+.. slug: good-will-hunting
+.. date: 2008-06-12 02:18:00
+.. tags: movies
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>At last my desktop computer running FC2 was able to play movies from VCD. VLC did the trick and I had to spend considerable time with it to make it play.
 
 

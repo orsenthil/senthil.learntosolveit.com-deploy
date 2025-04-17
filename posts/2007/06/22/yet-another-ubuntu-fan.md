@@ -1,3 +1,12 @@
+.. title: Yet another Ubuntu Fan
+.. slug: yet-another-ubuntu-fan
+.. date: 2007-06-22 21:17:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I was almost about to give up on Ubuntu, because after I installed the Fiesty, I was not able to download the packages from Repositories due to some proxy authentication issue. Tried various things for a week and when could not go any step further, I had thought let me get back to Fedora and was thinking about how new users of Linux will be feeling when they dont get support on what they need to get wishes satisfied with Linux. In my case, it was a particular distribution.
 
 After a week, I setup my box again and wanted to give a final try. Instead of going to Synaptic and meddling with Repository sources, I thought let me try Add/Remove application to Install software and see what happens.

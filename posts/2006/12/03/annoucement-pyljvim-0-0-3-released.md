@@ -1,3 +1,12 @@
+.. title: Annoucement- pyljvim-0.0.3 Released.
+.. slug: annoucement-pyljvim-0-0-3-released
+.. date: 2006-12-03 05:18:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 pyljvim is a LiveJournal plugin for Vim. With this plugin, you can post to
 LiveJournal directly from Vim! :)
 

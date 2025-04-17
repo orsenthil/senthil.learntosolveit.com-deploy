@@ -1,3 +1,12 @@
+.. title: The pasta theory of design
+.. slug: the-pasta-theory-of-design
+.. date: 2009-06-16 20:29:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>The pasta theory of design:
 
 

@@ -1,3 +1,11 @@
+.. title: My Birthday treasure hunt
+.. slug: my-birthday-treasure-hunt
+.. date: 2013-03-04 12:07:28
+.. tags: life
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><p>My wife surprised me on my birthday ( 6th Jan, 2013) with a cleverly implanted, very exciting treasure hunt to my gifts. Here is how it went.
 
 

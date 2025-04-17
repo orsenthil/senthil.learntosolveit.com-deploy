@@ -1,3 +1,12 @@
+.. title: Just wait a Second.
+.. slug: just-wait-a-second
+.. date: 2009-01-01 10:53:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>1 second has been added to this year, according to the official time
 
 keepers at http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat

@@ -1,3 +1,12 @@
+.. title: Book Review - The Startup of You
+.. slug: book-review-the-startup-of-you
+.. date: 2013-03-10 12:39:20
+.. tags: 
+.. category: Books
+.. description: 
+.. categories: Books
+.. wp-status: publish
+
 <html><body><a href="http://www.goodreads.com/book/show/12701065-the-start-up-of-you" style="float:left;padding-right:20px;"><img alt="The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career" border="0" src="http://d.gr-assets.com/books/1333576892m/12701065.jpg"></a><a href="http://www.goodreads.com/book/show/12701065-the-start-up-of-you">The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career</a> by <a href="http://www.goodreads.com/author/show/5039437.Reid_Hoffman">Reid Hoffman</a><br>
 
 My rating: <a href="http://www.goodreads.com/review/show/520924798">4 of 5 stars</a><br><br>

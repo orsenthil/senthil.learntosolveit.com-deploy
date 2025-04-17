@@ -1,3 +1,12 @@
+.. title: Recent books and movies
+.. slug: recent-books-and-movies
+.. date: 2006-06-20 00:15:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Recent Books include:
 
 </p><ul>

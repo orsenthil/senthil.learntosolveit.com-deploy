@@ -1,3 +1,12 @@
+.. title: Weekends
+.. slug: weekends
+.. date: 2004-11-28 20:13:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 I had planned to complete a lot of extra work over the weekend, but everything
 vaporized. :)
 

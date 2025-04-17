@@ -1,3 +1,12 @@
+.. title: Greedy vs Non-Greedy in Re - Good Example
+.. slug: greedy-vs-non-greedy-in-re-good-example
+.. date: 2008-12-28 08:47:00
+.. tags: python
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Here is a good example to explain greedy vs, non-greedy search using module <a href="http://docs.python.org/library/re.html">re</a> in Python.
 
 

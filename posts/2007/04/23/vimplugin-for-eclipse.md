@@ -1,3 +1,12 @@
+.. title: vimplugin for eclipse
+.. slug: vimplugin-for-eclipse
+.. date: 2007-04-23 18:54:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 [vimplugin for Eclipse](http://vimplugin.sourceforge.net/)
 
 - Install it using the Eclipse plugin installer and point it to: [http://vimplugin.sf.net/update](http://vimplugin.sf.net/update)

@@ -1,3 +1,12 @@
+.. title: fun quote and Guru movie
+.. slug: fun-quote-and-guru-movie
+.. date: 2007-01-29 03:52:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 *I'd crawl over an acre of 'Visual This++' and 'Integrated Development That' to
 *get to gcc, Emacs, and gdb. Thank you.*
 

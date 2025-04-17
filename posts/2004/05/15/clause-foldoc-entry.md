@@ -1,3 +1,12 @@
+.. title: clause
+.. slug: clause-foldoc-entry
+.. date: 2004-05-15 13:55:00
+.. tags:
+.. category: General
+.. description:
+.. categories: General
+.. wp-status: publish
+
 I added [clause](https://foldoc.org/clause) to FOLDOC
 
 **logic**

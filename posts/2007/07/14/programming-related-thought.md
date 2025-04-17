@@ -1,3 +1,12 @@
+.. title: Programming related thought
+.. slug: programming-related-thought
+.. date: 2007-07-14 14:31:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>While reading through Mark Pilgrim's Dive into Python, stumbled upon this
 
 interesting thought, wherein he says that, when you 'plan' to develop a full

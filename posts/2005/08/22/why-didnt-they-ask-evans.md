@@ -1,3 +1,12 @@
+.. title: why did'nt they ask evans?
+.. slug: why-didnt-they-ask-evans
+.. date: 2005-08-22 08:48:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 ![Agatha Christie - Why Didn't They Ask Evans?](http://www.waidev4.com/php/IMAGES/AGATHA_Stories/89---Image.jpg)
 
 That's an Agatha Christie title! I read the book over the weekend and got a

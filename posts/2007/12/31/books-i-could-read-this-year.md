@@ -1,3 +1,12 @@
+.. title: Books I could read this year
+.. slug: books-i-could-read-this-year
+.. date: 2007-12-31 21:50:00
+.. tags: books
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 # Books I Could Read This Year
 
 ## Books

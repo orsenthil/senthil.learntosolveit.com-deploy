@@ -1,3 +1,12 @@
+.. title: Pell's Equation
+.. slug: pells-equation
+.. date: 2009-10-09 20:56:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>x^2 - n y^2 = 1 	
 
 

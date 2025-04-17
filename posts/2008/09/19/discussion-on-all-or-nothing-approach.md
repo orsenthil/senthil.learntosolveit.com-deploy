@@ -1,3 +1,12 @@
+.. title: Discussion on all-or-nothing approach.
+.. slug: discussion-on-all-or-nothing-approach
+.. date: 2008-09-19 21:20:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><b>Life without worthwhile goals is not worth living</b>
 
 Here is Will Ross's take on this at REBT-Forum.

@@ -1,3 +1,11 @@
+.. title: Meeting with Bram Cohen
+.. slug: meeting-with-bram-cohen
+.. date: 2013-04-04 08:14:26
+.. tags: software,technology
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><p>During PyCon Sprints, I met <a href="http://en.wikipedia.org/wiki/Bram_Cohen">Bram Cohen</a> who had come down to talk to Guido and have a word on networking protocol world. It was interesting to see two experts talking. Later I invited Bram to give a tech talk at Twitter. Bram gladly accepted it and came to Twitter office to talk to us about his latest invention http://live.bittorrent.com He had been working on Distributed Live Streaming for few years and thought it was a hard problem to solve. He could dedicate himself to it and came out with live.bittorrent.com - Using this anyone can live stream a video. You can become a live video publisher too and people all around the word can see your channel in real time. This is a huge break through. My experience at Akamai helps me realize the kind of break through this can bring to real time live streaming.  
 
 

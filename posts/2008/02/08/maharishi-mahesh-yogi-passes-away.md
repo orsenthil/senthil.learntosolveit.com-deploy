@@ -1,3 +1,12 @@
+.. title: Maharishi Mahesh Yogi died last week.
+.. slug: maharishi-mahesh-yogi-passes-away
+.. date: 2008-02-08 16:06:00
+.. tags: insights
+.. category: General
+.. description:
+.. categories: General
+.. wp-status: publish
+
 <html><body><a href="http://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi">Maharishi Mahesh Yogi</a>, was the guru of Transcendental Meditation technique. There are many different meditation techniques in the world. Meditation is a concept for your thoughts, which is similar physical exercise is for body.
 
 

@@ -1,3 +1,12 @@
+.. title: The Incredibles - Monalisa using rect and fills
+.. slug: the-incredibles-1
+.. date: 2013-06-09 01:03:29
+.. tags: 
+.. category: Incredibles
+.. description: 
+.. categories: Incredibles
+.. wp-status: publish
+
 <html><body><p>Every once in a while you come across some amazing and something insanely creative by unknown folks in the internet. I have decided to capture those moments by title "The Incredibles" series.
 
 Today, it happened to me. After doing a basic drawing tutorial at Khan Academy I saw a spin off program which I thought is a image loaded. I wondered why some one spun off a simple drawing tutorial and then loaded image for practice. But I was wrong. This whole image was drawn using rects and fill.

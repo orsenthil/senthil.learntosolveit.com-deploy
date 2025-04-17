@@ -1,3 +1,11 @@
+.. title: Happy Gandhi Jayanti
+.. slug: happy-gandhi-jayanti-2
+.. date: 2012-10-02 17:40:14
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><a href="http://xtoinf.files.wordpress.com/2012/10/dandimarch.jpg"><img src="http://xtoinf.files.wordpress.com/2012/10/dandimarch.jpg" alt="" title="dandimarch" width="400" height="312" class="aligncenter size-full wp-image-858"></a>
 
 

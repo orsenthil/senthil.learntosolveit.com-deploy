@@ -1,3 +1,12 @@
+.. title: Shvedova vs Santangelo
+.. slug: shvedova-vs-santangelo
+.. date: 2007-02-22 21:53:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Last weekend, I went to watch the finals of the WTA Womens championship held at
 Bangalore. Doubles match between chinese teipei pair and russian/chinese-teipei
 pair was ok. The Russian (Kurd) did not play very serious and from the body

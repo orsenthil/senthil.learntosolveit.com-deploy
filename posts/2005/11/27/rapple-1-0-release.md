@@ -1,3 +1,12 @@
+.. title: Rapple 1.0 Release :)
+.. slug: rapple-1-0-release
+.. date: 2005-11-27 20:01:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 # Rapple 1.0 Released!
 
 **Project Site:** [http://sourceforge.net/projects/rapple](http://sourceforge.net/projects/rapple)

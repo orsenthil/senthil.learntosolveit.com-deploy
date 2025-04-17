@@ -1,3 +1,12 @@
+.. title: Discussing English Grammar in the bug report.
+.. slug: discussing-english-grammar-in-the-bug-report
+.. date: 2008-12-18 21:02:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Follow the discussion in this Python Documentation <a href="http://bugs.python.org/issue4243">bug report.</a>
 
 Its for correct usage of English and grammar.

@@ -1,3 +1,12 @@
+.. title: On becoming an expert C programmer
+.. slug: on-becoming-an-expert-c-programmer
+.. date: 2004-07-16 13:49:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 `Tell me what I should do in order to keep strong feelings towards C.`
 
 Permit me to babble out a few random thoughts ...

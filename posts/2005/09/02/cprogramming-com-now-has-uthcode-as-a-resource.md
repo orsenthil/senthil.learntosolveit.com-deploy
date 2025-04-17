@@ -1,3 +1,12 @@
+.. title: cprogramming.com now has uthcode as a resource
+.. slug: cprogramming-com-now-has-uthcode-as-a-resource
+.. date: 2005-09-02 06:36:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 [![CProgramming.com](http://www.cprogramming.com/images/title.gif)](http://www.cprogramming.com/)
 
 Now links:

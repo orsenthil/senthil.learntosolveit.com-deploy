@@ -1,3 +1,11 @@
+.. title: Vishwaroopam and grave dangers ahead for the society
+.. slug: vishwaroopam-and-grave-dangers-ahead-for-the-society
+.. date: 2013-01-26 11:16:12
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><p>I watched Vishwaroopam on 24th of Jan when it was released in the bay area.
 
 

@@ -1,3 +1,12 @@
+.. title: Self Education Quote
+.. slug: self-education-quote
+.. date: 2013-04-15 10:11:31
+.. tags: 
+.. category: quotes
+.. description: 
+.. categories: quotes
+.. wp-status: publish
+
 <html><body><a href="http://xtoinf.files.wordpress.com/2013/04/screen-shot-2013-04-09-at-11-58-37-am.png"><img src="http://xtoinf.files.wordpress.com/2013/04/screen-shot-2013-04-09-at-11-58-37-am.png?w=560" alt="Screen Shot 2013-04-09 at 11.58.37 AM" width="560" height="136" class="aligncenter size-large wp-image-1219"></a>
 
 

@@ -1,3 +1,12 @@
+.. title: Recent Books
+.. slug: recent-books
+.. date: 2007-02-22 16:40:00
+.. tags: books
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>My friend and I am participating in the <a href="http://community.livejournal.com/50bookchallenge/profile">50bookchallenge</a> and I have started enjoying reading one book after the other.
 
 

@@ -1,3 +1,12 @@
+.. title: Linus on taking up and working on open source projects
+.. slug: linus-on-taking-up-and-working-on-open-source-projects
+.. date: 2004-10-27 05:45:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Nobody should start to undertake a large project. You start with a small
 trivial project, and you should never expect it to get large. If you
 do, you'll just overdesign and generally think it is more important than

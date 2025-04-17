@@ -1,3 +1,12 @@
+.. title: Madurai Meenakshi Temple in Minecraft - Next Step : North Tower
+.. slug: madurai-meenakshi-temple-in-minecraft-next-step-north-tower
+.. date: 2014-06-23 15:28:37
+.. tags: minecraft,Image
+.. category: Minecraft
+.. description: 
+.. categories: Minecraft
+.. wp-status: publish
+
 Let's Build the North Tower Next. Here are the few characteristics. We will be using:
 - Chiseled Stone Bricks
 - Stone Steps

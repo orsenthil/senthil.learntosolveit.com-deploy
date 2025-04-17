@@ -1,3 +1,12 @@
+.. title: Why John Smith?
+.. slug: why-john-smith
+.. date: 2003-12-26 11:48:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 My sister asked me, why every email client has the name John Smith as example.
 Interesting indeed. I dunno, I said and said. Let's post the question at usenet
 

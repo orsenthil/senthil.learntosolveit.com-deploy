@@ -1,3 +1,12 @@
+.. title: Ariane 5 Flight 501
+.. slug: ariane-5-flight-501
+.. date: 2008-09-24 11:02:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>While listening to an introductory programming class, came across the mention of this this "<a href="http://en.wikipedia.org/wiki/Ariane_5_Flight_501">Ariane 5 Flight 501</a>" failure incident, which was caused by Arithmetic Exception and Integer overflow resulted from automatic type casting float to integer in the ADA program. Very costly software bug.
 
 

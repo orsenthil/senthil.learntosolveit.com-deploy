@@ -1,3 +1,10 @@
+.. title: A conversation with Richard M Stallman
+.. slug: with-rms-the-guru-of-gnu
+.. date: 2004-01-25 14:16:00
+.. tags:
+.. category:
+.. description:
+.. categories:
 In the early and initial days (when open source, free software, and Linux were
 the same for me), I used to think of Richard M Stallman, known as RMS, in
 comparison with Mahatma Gandhi. One math professor there (at Cochin University

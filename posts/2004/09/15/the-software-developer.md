@@ -1,3 +1,12 @@
+.. title: The Software Developer
+.. slug: the-software-developer
+.. date: 2004-09-15 21:00:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><a href="http://www.edge.org/documents/digerati/Gates.html"><img src="http://www.edge.org/digerati/gates/images/gates.gif"></a>
 
 Bill Gates and his company get a lot of people at Sun Microsystems up in the

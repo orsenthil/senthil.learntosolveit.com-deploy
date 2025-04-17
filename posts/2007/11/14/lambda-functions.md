@@ -1,3 +1,12 @@
+.. title: Lambda functions
+.. slug: lambda-functions
+.. date: 2007-11-14 17:42:00
+.. tags: python
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I often forget the syntax and usage of lambda functions, the following examples should help as a reminder.
 
 

@@ -1,3 +1,12 @@
+.. title: scrmabled
+.. slug: scrmabled
+.. date: 2006-12-08 22:03:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Tihs is a pelicaur pproetry that if the fsirt and the lsat ltteer of the wdros
 rmiean the smae, and the rset is scbelmard, then you mhigt siltl be able to
 ierreptnt it. Tihs is very fnnuy. :-)

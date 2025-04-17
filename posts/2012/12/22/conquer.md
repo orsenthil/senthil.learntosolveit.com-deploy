@@ -1,3 +1,11 @@
+.. title: Conquer
+.. slug: conquer
+.. date: 2012-12-22 05:34:55
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><address>I like this way of thinking.</address><address> </address>
 
 <h1>Math problems aren’t solved, they are conquered!</h1>

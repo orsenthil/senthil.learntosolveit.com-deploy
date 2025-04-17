@@ -1,3 +1,12 @@
+.. title: Robby, the Weight-Lifter from India
+.. slug: robby-the-weight-lifter-from-india
+.. date: 2008-08-30 09:04:00
+.. tags: robots
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Robby, the Weight-Lifter from India
 
 

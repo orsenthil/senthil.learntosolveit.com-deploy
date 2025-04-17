@@ -1,3 +1,11 @@
+.. title: What is the best way to learn a new programming language?
+.. slug: what-is-the-best-way-to-learn-a-new-programming-language
+.. date: 2013-10-07 12:29:14
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><p>I was reading <a href="http://www.informit.com/promotions/what-is-the-best-way-for-a-programmer-to-learn-a-new-139481">this survey</a> by Inform IT asking various programming language book authors, this question <em><strong>"What is the best way to learn a new programming language?".</strong></em>
 
 

@@ -1,3 +1,12 @@
+.. title: Finished reading Five Point Someone
+.. slug: finished-reading-five-point-someone
+.. date: 2005-01-09 21:45:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Well, it shouldn't have taken so long to finish reading it. But I got the book
 at a time when I wasn't in the habit of reading.
 

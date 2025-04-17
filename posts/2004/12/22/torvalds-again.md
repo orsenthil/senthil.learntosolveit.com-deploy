@@ -1,3 +1,12 @@
+.. title: Torvalds again:
+.. slug: torvalds-again
+.. date: 2004-12-22 02:51:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 **What Linux myths or misconceptions do you find particularly galling?**
 
 I don't get upset that easily, so I can't say that there is any in particular

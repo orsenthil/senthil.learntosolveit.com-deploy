@@ -1,3 +1,12 @@
+.. title: Madurai Meenakshi Temple in Minecraft - Idea Phase
+.. slug: madurai-meenakshi-temple-in-minecraft-idea-phase
+.. date: 2014-06-23 14:24:12
+.. tags: minecraft,Image
+.. category: Minecraft
+.. description: 
+.. categories: Minecraft
+.. wp-status: publish
+
 Minecraft is a popular game which has captured the attention many young people
 and gamers.  One of the modes in minecraft is called the "creative mode" enables
 the players, either individually or cooperatively build something within the

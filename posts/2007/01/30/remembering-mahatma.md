@@ -1,3 +1,12 @@
+.. title: Remembering Mahatma
+.. slug: remembering-mahatma
+.. date: 2007-01-30 23:08:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 ![Mahatma Gandhi](http://lh4.google.com/image/orsenthil/RZPJW2GJRjI/AAAAAAAAAvg/UsIKeS6d1Cg/s288/gandhi.jpg)
 
 ### On Self-Purification

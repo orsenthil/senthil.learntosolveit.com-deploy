@@ -1,3 +1,12 @@
+.. title: Prisoner's dilemma
+.. slug: prisoners-dilemma
+.. date: 2009-05-08 09:39:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>http://en.wikipedia.org/wiki/Prisoner%27s_dilemma
 
 

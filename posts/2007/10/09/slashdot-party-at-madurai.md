@@ -1,3 +1,12 @@
+.. title: Slashdot Party at Madurai
+.. slug: slashdot-party-at-madurai
+.. date: 2007-10-09 23:23:00
+.. tags: slashdot
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><img src="http://farm2.static.flickr.com/1126/1483146565_80e9acc31f_o.png">
 
 

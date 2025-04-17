@@ -1,3 +1,12 @@
+.. title: PCL : Syntax and Semantics
+.. slug: pcl-syntax-and-semantics
+.. date: 2007-03-29 09:41:00
+.. tags: ai,lisp,pcl
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Syntax and Semantics
 
 

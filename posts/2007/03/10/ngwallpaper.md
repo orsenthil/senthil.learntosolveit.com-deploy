@@ -1,3 +1,12 @@
+.. title: ngwallpaper
+.. slug: ngwallpaper
+.. date: 2007-03-10 03:35:00
+.. tags: ngwallpaper
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 I started using Google Code project hosting for the **ngwallpaper** project. This Python script fetches the wallpaper of the day from the National Geographic website and sets it as your desktop wallpaper.
 
 It currently works on Windows by leveraging Python Windows Extensions (using the `SETDESKTOPWALLPAPER` attribute from a Windows API call).

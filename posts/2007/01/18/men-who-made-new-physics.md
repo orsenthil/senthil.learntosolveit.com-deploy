@@ -1,3 +1,12 @@
+.. title: Men Who Made New Physics
+.. slug: men-who-made-new-physics
+.. date: 2007-01-18 00:38:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 I finished reading this book on Monday. It is an excellent book that tells the
 stories of many physicists working during the prime era of physics. It starts
 with Rutherford's story about his rustic nature and how he used to work in his

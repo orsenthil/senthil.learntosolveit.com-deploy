@@ -1,3 +1,12 @@
+.. title: About Ramanujan
+.. slug: about-ramanujan
+.. date: 2008-06-21 10:01:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I was looking for some information on <a href="http://en.wikipedia.org/wiki/Srinivasa_Ramanujan">Srinivasa Ramanujan</a>, that I stumbled upon this post at <a href="http://in.answers.yahoo.com/question/index?qid=20080522233810AAjZ7Tz">y! answers</a>.
 
 

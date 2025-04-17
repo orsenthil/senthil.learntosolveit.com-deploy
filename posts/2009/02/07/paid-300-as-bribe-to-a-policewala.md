@@ -1,3 +1,12 @@
+.. title: Paid 300 as bribe to a policewala
+.. slug: paid-300-as-bribe-to-a-policewala
+.. date: 2009-02-07 10:00:00
+.. tags: mistakes
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>That was near the corporation circle where the vehicles and people are generally crowded. I missed the signal and I realized only when people crossing the road that I had missed it. Got caught by the police and with the routine checks, I noticed that I did not have emission certificate with me. 
 
 My bad, 2 offenses. 1) Not stopping at Signal and 2) Not having emission certificate for my vehicle.

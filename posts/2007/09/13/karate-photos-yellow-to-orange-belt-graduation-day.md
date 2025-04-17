@@ -1,3 +1,12 @@
+.. title: Karate photos - yellow to orange belt graduation day
+.. slug: karate-photos-yellow-to-orange-belt-graduation-day
+.. date: 2007-09-13 16:17:00
+.. tags: karate
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I moved to Orange belt on 29-07-2007. My friends moved to Yellow belt to. Sharma is the senior with black belt.
 
 We had good fun that day. Our practice as a team and improved from then on. 

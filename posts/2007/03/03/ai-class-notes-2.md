@@ -1,3 +1,12 @@
+.. title: AI Class Notes - 2
+.. slug: ai-class-notes-2
+.. date: 2007-03-03 02:19:00
+.. tags: ai
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Notes from AI Class
 
 

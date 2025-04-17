@@ -1,3 +1,11 @@
+.. title: Review: Page-a-Minute Memory Book
+.. slug: review-page-a-minute-memory-book
+.. date: 2015-07-14 14:58:10
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><a href="http://www.goodreads.com/book/show/9394"
 style="float:left;padding-right:20px;"><img src="http://d.gr-assets.com/books/1388247549m/9394.jpg"
 border="0" alt="Page-a-Minute Memory Book"></a>

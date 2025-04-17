@@ -1,3 +1,12 @@
+.. title: Muhammad al khowarizmi
+.. slug: muhammad-al-khowarizmi
+.. date: 2009-06-19 22:09:00
+.. tags: knuth
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><img src="http://talg.acm.org/alk2.gif">
 
 

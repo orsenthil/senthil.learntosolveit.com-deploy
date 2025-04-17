@@ -1,3 +1,12 @@
+.. title: Teachers Day
+.. slug: teachers-day
+.. date: 2007-09-05 21:41:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>My sisters and I called up our school maths  teacher, Vijayaraj madam to wish her on teachers day. Also called up my college prof, Dr. K. Ramar to wish.
 
 Its a nice tribute we give to our teachers who have influenced us in many ways.

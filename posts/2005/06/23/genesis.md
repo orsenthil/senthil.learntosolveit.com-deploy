@@ -1,3 +1,12 @@
+.. title: Genesis
+.. slug: genesis
+.. date: 2005-06-23 15:11:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 ![Genesis Collage](http://photos17.flickr.com/21103007_6b198bb249_o.png)
 
 Imagine a world covered with a dark atmosphere, choking with smoke and clouds,

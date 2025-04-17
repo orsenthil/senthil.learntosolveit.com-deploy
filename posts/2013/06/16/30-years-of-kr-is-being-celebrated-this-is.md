@@ -1,3 +1,12 @@
+.. title:  30 years of K&R is being celebrated.
+.. slug: 30-years-of-kr-is-being-celebrated-this-is
+.. date: 2013-06-16 23:09:57
+.. tags: Aside
+.. category: Books
+.. description: 
+.. categories: Books
+.. wp-status: publish
+
 <html><body><a href="http://cm.bell-labs.com/cm/cs/cbook/" target="_blank"><img class="size-full wp-image" id="i-1252" alt="Image" src="http://xtoinf.files.wordpress.com/2013/06/showcover.jpeg?w=487"></a>
 
 

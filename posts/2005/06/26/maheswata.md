@@ -1,3 +1,12 @@
+.. title: Maheswata
+.. slug: maheswata
+.. date: 2005-06-26 11:34:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Maheswata is a story of a beautiful girl named Anupama, who suddenly has to face
 life in all its cruel possibilities. After enduring immense suffering, she
 begins to take things in stride, fights back with courage, and ultimately finds

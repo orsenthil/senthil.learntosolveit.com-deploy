@@ -1,3 +1,12 @@
+.. title: Python Strings as Comments
+.. slug: python-strings-as-comments
+.. date: 2009-10-21 06:29:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>The question was:
 
 

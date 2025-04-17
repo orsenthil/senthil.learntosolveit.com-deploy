@@ -1,3 +1,13 @@
+.. title: Greatest in History according to H.G.Wells
+.. slug: greatest-in-history-according-to-h-g-wells
+.. date: 2015-07-30 11:43:40
+.. tags: thoughts
+.. category: General
+.. description: 
+.. categories: General
+.. excerpt: Mr. H. G. Wells names Jesus of Nazareth, Buddha, and Aristotle as having had greater effect on world history than any other known figures.
+.. wp-status: publish
+
 <html><body><p style="text-align:justify;">This is a <a href="/2015/07/greatest_in_history.pdf">newspaper article</a> written by <a href="https://en.wikipedia.org/wiki/H._G._Wells">H.G. Wells</a> published in 1935. The scanned version is not very readable, but the content is very interesting. I thought, I will republish it here for everyone's enjoyment.</p>
 
 

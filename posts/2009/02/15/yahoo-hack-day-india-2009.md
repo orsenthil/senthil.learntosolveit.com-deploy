@@ -1,3 +1,12 @@
+.. title: Yahoo Hack Day India 2009
+.. slug: yahoo-hack-day-india-2009
+.. date: 2009-02-15 16:03:00
+.. tags: project
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I developed an application using Y! BOSS Search APIs, Linguistics, Machine Learning and Google App engine.
 
 

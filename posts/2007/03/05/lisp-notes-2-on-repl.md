@@ -1,3 +1,12 @@
+.. title: Lisp Notes -2. On REPL
+.. slug: lisp-notes-2-on-repl
+.. date: 2007-03-05 09:39:00
+.. tags: ai,lisp,pcl
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Subsequent to <a href="http://phoe6.livejournal.com/46112.html">Lisp Notes 1</a>;these are my notes for the Chapter 2 "Lather, Rinse, Repeat: A Tour of the REPL" in the <a href="www.gigamonkeys.com/book/index.html">Practical Common Lisp Book</a>
 
 

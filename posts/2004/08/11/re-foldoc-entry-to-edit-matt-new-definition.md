@@ -1,3 +1,12 @@
+.. title: Linux Loader
+.. slug: re-foldoc-entry-to-edit-matt-new-definition
+.. date: 2004-08-11 20:47:00
+.. tags:
+.. category: General
+.. description:
+.. categories: General
+.. wp-status: publish
+
 **operating system**
 
 (LILO) A boot loader for Linux. LILO does not depend on a specific file system,

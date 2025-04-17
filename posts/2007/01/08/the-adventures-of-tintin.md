@@ -1,3 +1,12 @@
+.. title: The Adventures of Tintin
+.. slug: the-adventures-of-tintin
+.. date: 2007-01-08 13:36:00
+.. tags: wikipedia
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 [The Adventures of Tintin](http://en.wikipedia.org/wiki/The_Adventures_of_Tintin) was the Wikipedia Featured Article on January 5th. I highly recommend reading it—it is well researched and offers many fascinating details for Tintin fans worldwide.
 
 The comic strip series is celebrated for its clean, expressive drawings in Hergé's distinctive [ligne claire](http://en.wikipedia.org/wiki/Ligne_claire) style.

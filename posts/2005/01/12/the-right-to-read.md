@@ -1,3 +1,10 @@
+.. title: The Right to Read
+.. slug: the-right-to-read
+.. date: 2005-01-12 16:48:00
+.. tags:
+.. category: General
+.. description:
+
 # The Right to Read
 
 **By [Richard Stallman](http://www.stallman.org)**

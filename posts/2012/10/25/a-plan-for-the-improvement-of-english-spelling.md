@@ -1,3 +1,11 @@
+.. title: A Plan for the Improvement of English Spelling
+.. slug: a-plan-for-the-improvement-of-english-spelling
+.. date: 2012-10-25 05:02:32
+.. tags: 
+.. description: 
+.. categories: 
+.. wp-status: publish
+
 <html><body><strong>A Plan for the Improvement of English Spelling by Mark Twain</strong>
 
 

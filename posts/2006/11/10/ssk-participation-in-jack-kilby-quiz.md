@@ -1,3 +1,12 @@
+.. title: SSK participation in Jack Kilby quiz
+.. slug: ssk-participation-in-jack-kilby-quiz
+.. date: 2006-11-10 21:52:00
+.. tags: spastics
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>Avinash and Karthick from <a href="http://www.spasticssocietyofkarnataka.org">Spastics Society of Karnataka</a> participated in Jack Kilby Quiz conducted by Texas Instruments. Here is photo album: <br>
 
 

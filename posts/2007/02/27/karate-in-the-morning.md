@@ -1,3 +1,12 @@
+.. title: Karate in the morning
+.. slug: karate-in-the-morning
+.. date: 2007-02-27 09:11:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 Yesterday night, the dinner at Suswaad hotel (Near Timex showroom in CMH Road)
 did not go well with me. Especially the oily parotha and ghee roast. My dad
 feels it could be pasta I had in the afternoon also which did not go well.

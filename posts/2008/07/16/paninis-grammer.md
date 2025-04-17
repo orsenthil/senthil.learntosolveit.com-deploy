@@ -1,3 +1,12 @@
+.. title: Panini's Grammer
+.. slug: paninis-grammer
+.. date: 2008-07-16 20:32:00
+.. tags: india
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>While reading the chapter on "A Simple One-Pass Compiler" in the Book "Compilers: Principles, Techniques and Tools", I came across the following sentence mentioned in the bibliography section.
 
 

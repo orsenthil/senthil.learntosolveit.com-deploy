@@ -1,3 +1,12 @@
+.. title: # of sourashtra speaking people
+.. slug: of-sourashtra-speaking-people
+.. date: 2009-01-11 14:34:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>I did some rough calculation and arrived at this number: 1234021 ( that is 12 lacks 34 thousand people).
 
 I based the calculation according to following facts:

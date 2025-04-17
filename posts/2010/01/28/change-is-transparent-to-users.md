@@ -1,3 +1,12 @@
+.. title: Change is transparent to users
+.. slug: change-is-transparent-to-users
+.. date: 2010-01-28 12:45:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 <html><body><p>phoe6: When something is said "the change is largely transparent to the users".
 
 I can understand that users will be able to see through, but does it also mean,

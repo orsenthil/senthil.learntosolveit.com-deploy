@@ -1,3 +1,12 @@
+.. title: Whatzup lyf.
+.. slug: whatzup-lyf
+.. date: 2006-11-24 23:47:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 I was trying to post entries directly from Vim, but the text is not displaying
 properly. I need to figure out the problem and fix it. It's been pending for
 some days now. Once it's resolved, it will be so comfortable to post to

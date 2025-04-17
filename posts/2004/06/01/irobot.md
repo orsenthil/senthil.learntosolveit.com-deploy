@@ -1,3 +1,10 @@
+.. title: I,ROBOT
+.. slug: irobot
+.. date: 2004-06-01 12:36:00
+.. tags:
+.. category: General
+.. description:
+
 To you, a robot is just a robot. But you haven't worked with them. You don't
 know them. They're a cleaner, better breed than we are.  When Earth is ruled by
 master-machines... when robots are more human than humankind. - Dr.Susan Calvin.

@@ -1,3 +1,12 @@
+.. title: ALICE vs ALAN
+.. slug: alice-vs-alan
+.. date: 2003-12-26 12:27:00
+.. tags: 
+.. category: General
+.. description: 
+.. categories: General
+.. wp-status: publish
+
 I was introduced to Alice by one of my friends, Kiruba. Since then, I have been
 highly fascinated by these linguistic chatting entities. I found a number of
 others like Eliza and many others having egos of some singer or actor.
