@@ -1,11 +1,9 @@
 .. title: Captured Unix time 1111111111
 .. slug: captured-unix-time-1111111111
 .. date: 2005-03-18 07:21:00
-.. tags: 
+.. tags: unix, time, milestone
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A reflection on the significance of the Unix timestamp 1111111111 and its comparison to future milestones.
 
 ![Image](http://photos5.flickr.com/6761548_645d3fb5aa_m.jpg)
 

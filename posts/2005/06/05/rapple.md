@@ -1,11 +1,9 @@
 .. title: Rapple
 .. slug: rapple
 .. date: 2005-06-05 20:29:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: xml, transformation, c, web-content, open source
+.. category: Programming
+.. description: A lightweight XML-based transformation tool for converting authored web content into styled web content.
 
 [Rapple](http://sourceforge.net/projects/rapple/) is a lightweight XML-based
 transformation tool written in C. It builds upon Expat, TidyLib, and XSLT to

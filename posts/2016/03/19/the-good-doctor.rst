@@ -1,11 +1,9 @@
 .. title: The Good Doctor
 .. slug: the-good-doctor
 .. date: 2016-03-19 13:34:02 UTC-07:00
-.. tags: science fiction, storytelling, asimov
-.. category: literature
-.. link:
-.. description:
-.. type: text
+.. tags: science fiction, storytelling, asimov, literature
+.. category: Literature
+.. description: A fictional conversation exploring Asimov's perspective on storytelling and reader interpretation.
 
 "Oh, yes," said Siddhartha, "I make one-off changes to simulations on Earth."
 

@@ -1,11 +1,9 @@
 .. title: why did'nt they ask evans?
 .. slug: why-didnt-they-ask-evans
 .. date: 2005-08-22 08:48:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: agatha christie, mystery, crime fiction
+.. category: Mystery
+.. description: A review of Agatha Christie's novel "Why Didn't They Ask Evans?" highlighting her storytelling and writing style.
 
 ![Agatha Christie - Why Didn't They Ask Evans?](http://www.waidev4.com/php/IMAGES/AGATHA_Stories/89---Image.jpg)
 

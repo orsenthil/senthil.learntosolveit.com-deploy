@@ -1,11 +1,9 @@
 .. title: Genesis
 .. slug: genesis
 .. date: 2005-06-23 15:11:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: environment, global warming, green revolution
+.. category: Environment
+.. description: A reflection on the need for a green revolution to combat pollution and global warming.
 
 ![Genesis Collage](http://photos17.flickr.com/21103007_6b198bb249_o.png)
 

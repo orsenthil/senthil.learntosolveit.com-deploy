@@ -1,11 +1,9 @@
 .. title: Ode to a School Computer
 .. slug: ode-to-a-school-computer
 .. date: 2005-01-21 17:01:00
-.. tags: 
+.. tags: poetry, humor, computers, school
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A humorous poem about discovering the joys of programming on a school computer.
 
 # Ode to a School Computer
 

@@ -1,11 +1,9 @@
 .. title: Rapple 1.0 Release :)
 .. slug: rapple-1-0-release
 .. date: 2005-11-27 20:01:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: release, rapple, software, announcement
+.. category: Projects
+.. description: Announcement of the release of Rapple 1.0, a functional version with improvements in quality and documentation.
 
 # Rapple 1.0 Released!
 

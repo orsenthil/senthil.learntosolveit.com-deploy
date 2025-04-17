@@ -1,10 +1,10 @@
 .. title: MyCodeSchool's Pointers in C and C++
 .. slug: mycodeschools-pointers-in-c-and-c++
 .. date: 2018-08-19 10:30:36 UTC-07:00
-.. tags: programming
-.. category: projects
+.. tags: programming, c, c++, pointers
+.. category: Projects
 .. link:
-.. description:
+.. description: A review of MyCodeSchool's video series on pointers in C and C++, including resources for learning essential concepts.
 .. type: text
 
 To prepare for my next course with Introduction to Operating Systems I had to brush up my knowledge of C and C++.

@@ -1,11 +1,9 @@
 .. title: Maheswata
 .. slug: maheswata
 .. date: 2005-06-26 11:34:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: life lessons, beauty, courage, society, sudha murthy
+.. category: Literature
+.. description: A poignant story of resilience, courage, and introspection by Sudha Murthy.
 
 Maheswata is a story of a beautiful girl named Anupama, who suddenly has to face
 life in all its cruel possibilities. After enduring immense suffering, she

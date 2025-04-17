@@ -1,11 +1,9 @@
 .. title: Steve Waugh
 .. slug: steve-waugh
 .. date: 2005-08-31 16:12:00
-.. tags: 
+.. tags: cricket, leadership, inspiration
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A tribute to Steve Waugh, an iconic Australian cricketer known for his leadership and resilience.
 
 ![Steve Waugh](http://photos1.blogger.com/blogger/445/152/400/waugh.jpg)
 
