@@ -1,11 +1,9 @@
-.. title: Books I could read this year
+.. title: Books I Could Read This Year
 .. slug: books-i-could-read-this-year
 .. date: 2007-12-31 21:50:00
-.. tags: books
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: books, reading, literature, fiction, non-fiction, personal
+.. category: Books
+.. description: A list of books I read in 2007, including fiction, non-fiction, and technical books, with brief descriptions of each.
 
 # Books I Could Read This Year
 

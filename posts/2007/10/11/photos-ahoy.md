@@ -1,11 +1,9 @@
 .. title: Photos Ahoy!
 .. slug: photos-ahoy
 .. date: 2007-10-11 07:33:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: conference, travel, hackathon
+.. category: Personal
+.. description: A week of attending Freed.in Conference, Manali trip, and Yahoo Hackday
 
 First, Freed.in Conference.
 

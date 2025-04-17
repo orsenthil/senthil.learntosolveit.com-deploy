@@ -1,11 +1,9 @@
 .. title: N-Puzzle Problem solver using Python
 .. slug: n-puzzle-problem-solver-using-python
 .. date: 2007-05-28 11:55:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: python, algorithms, ai, puzzle
+.. category: Programming
+.. description: Implementing an N-Puzzle solver in Python using Manhattan distance heuristic
 
 I completed and submitted my project "[N-Puzzle Problem Solver](http://sarovar.org/docman/view.php/194/130/N-Puzzle_Project_Report.zip)".
 I wrote it in Python, and it was a lot of fun. I learned about the similarities

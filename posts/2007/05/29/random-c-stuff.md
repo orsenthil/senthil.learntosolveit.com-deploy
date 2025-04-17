@@ -1,11 +1,11 @@
-.. title: Random C Stuff.
-.. slug: random-c-stuff
-.. date: 2007-05-29 20:17:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+---
+title: "Random C Stuff."
+slug: random-c-stuff
+date: 2007-05-29 20:17:00
+tags: c, stdlib, programming, division
+category: Programming
+description: Exploring the div function in C's stdlib to divide a number by 3 without using standard arithmetic operators
+---
 
 ```c
 

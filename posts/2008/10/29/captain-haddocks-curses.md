@@ -1,10 +1,8 @@
 .. title: Captain Haddock's Curses
 .. slug: captain-haddocks-curses
 .. date: 2008-10-29 13:50:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: tintin, captain haddock, comics
+.. category: Entertainment
+.. description: A link to a comprehensive list of Captain Haddock's colorful curses from the Tintin comics.
 
-<html><body><p>http://www.tintinologist.org/guides/lists/curses.html</p></body></html>
+[Tintinologist - Captain Haddock's Curses](http://www.tintinologist.org/guides/lists/curses.html)

@@ -2,7 +2,7 @@
 .. slug: spirituality-without-religion
 .. date: 2017-03-04 11:11:15 UTC-08:00
 .. tags: religion
-.. category: philosophy
+.. category: Philosophy
 .. link:
 .. description:
 .. type: text

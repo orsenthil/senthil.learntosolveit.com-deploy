@@ -1,11 +1,9 @@
 .. title: How Love works
 .. slug: how-love-works
 .. date: 2007-02-16 21:06:00
-.. tags: hsw
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: hsw, love, relationships, psychology
+.. category: Psychology
+.. description: An exploration of the science behind love, attraction, and relationships based on a HowStuffWorks article.
 
 At HowStuffWorks, I found an interesting article titled "[How Love Works](http://science.howstuffworks.com/love.htm)". According to the article:
 

@@ -1,11 +1,9 @@
 .. title: Lisp Notes - 1
 .. slug: lisp-notes-1
 .. date: 2007-02-25 10:26:00
-.. tags: lisp
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: lisp, programming, common-lisp
+.. category: Programming
+.. description: Introduction to Common Lisp and its pioneering programming language features.
 
 The nearest thing Common Lisp has to a motto is the koan-like description, "the
 programmable programming language." While cryptic,that description gets at the

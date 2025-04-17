@@ -1,11 +1,9 @@
 .. title: Remembering Mahatma
 .. slug: remembering-mahatma
 .. date: 2007-01-30 23:08:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: gandhi, nonviolence, history, india
+.. category: Reflections
+.. description: Remembering Mahatma Gandhi's philosophy of nonviolence and his tragic assassination on January 30, 1948.
 
 ![Mahatma Gandhi](http://lh4.google.com/image/orsenthil/RZPJW2GJRjI/AAAAAAAAAvg/UsIKeS6d1Cg/s288/gandhi.jpg)
 

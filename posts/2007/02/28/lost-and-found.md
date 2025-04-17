@@ -1,11 +1,9 @@
 .. title: Lost and Found
 .. slug: lost-and-found
 .. date: 2007-02-28 08:36:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: personal, moving, roommate, document
+.. category: Life
+.. description: Finding a lost gas customer receipt that was crucial for transferring gas connection.
 
 While shifting my house from Jeevan Bhima Nagar to C.V.Raman, my roomie Marcus
 ha d emphasized many a times not to loose the Indane Gas Customer Receipt as

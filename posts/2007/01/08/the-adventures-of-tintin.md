@@ -1,11 +1,9 @@
 .. title: The Adventures of Tintin
 .. slug: the-adventures-of-tintin
 .. date: 2007-01-08 13:36:00
-.. tags: wikipedia
+.. tags: wikipedia, comics, herge, tintin
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A detailed look at the Wikipedia Featured Article on Tintin, highlighting its cultural impact and accolades.
 
 [The Adventures of Tintin](http://en.wikipedia.org/wiki/The_Adventures_of_Tintin) was the Wikipedia Featured Article on January 5th. I highly recommend reading it—it is well researched and offers many fascinating details for Tintin fans worldwide.
 

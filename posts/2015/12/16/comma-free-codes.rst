@@ -2,7 +2,7 @@
 .. slug: comma-free-codes
 .. date: 2015-12-16 08:40:37 UTC-08:00
 .. tags: algorithms, v1, knuth
-.. category: computer-science
+.. category: Computer Science
 .. description: Knuth's christmas tree lecture on comma free codes
 .. type: text
 .. has_math: yes

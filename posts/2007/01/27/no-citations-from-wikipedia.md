@@ -1,11 +1,9 @@
 .. title: No Citations from wikipedia
 .. slug: no-citations-from-wikipedia
 .. date: 2007-01-27 06:03:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: education, research, wikipedia, academia
+.. category: Education
+.. description: Discussion about Middlebury College's decision to ban Wikipedia as a citation source in student research papers.
 
 The history department of Middlebury College has taken measures to [stop
 citations from Wikipedia](http://www.insidehighered.com/news/2007/01/26/wiki)

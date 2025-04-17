@@ -1,9 +1,9 @@
 .. title: Bill Gates Reading  Bed time story
 .. slug: bill-gates-reading-bed-time-story
 .. date: 2013-05-15 11:34:31
-.. tags: Video,reading
-.. description: 
-.. categories: 
+.. tags: video,reading
+.. description:
+.. categories:
 .. wp-status: publish
 
 <html><body><p>http://www.youtube.com/watch?v=mMkBphtQRxs

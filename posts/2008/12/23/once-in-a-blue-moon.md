@@ -1,11 +1,9 @@
 .. title: Once in a blue moon
 .. slug: once-in-a-blue-moon
 .. date: 2008-12-23 19:30:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: astronomy, mathematics, fun
+.. category: Science
+.. description: Exploring the mathematical frequency of blue moons and their occurrence rate
 
 [Blue Moon](http://en.wikipedia.org/wiki/Blue_moon) is a name given to an
 irregularly timed full moon. Most years have twelve full moons which occur

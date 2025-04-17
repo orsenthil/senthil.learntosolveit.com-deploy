@@ -1,11 +1,9 @@
 .. title: AI Class Notes - 2
 .. slug: ai-class-notes-2
 .. date: 2007-03-03 02:19:00
-.. tags: ai
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: ai, artificial intelligence, computer science, reasoning, knowledge representation
+.. category: Artificial Intelligence
+.. description: Class notes covering the definition of AI, reasoning approaches, and fundamental concepts in artificial intelligence including heuristic search and knowledge representation.
 
 <html><body><p>Notes from AI Class
 
@@ -147,7 +145,7 @@ Chart:
 
 		* Design and Analysis Systems [ knowledge based expert AI
 
-		  systems, decision support systems] 
+		  systems, decision support systems]
 
 		* Speech and Language
 
@@ -235,7 +233,7 @@ Bottom Up Approach
 
 Assignment:
 
-To Reach IISc from your Home. 
+To Reach IISc from your Home.
 
 Parameters: Vehicle, Mode of transport, Map.
 

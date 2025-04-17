@@ -1,11 +1,9 @@
 .. title: Shvedova vs Santangelo
 .. slug: shvedova-vs-santangelo
 .. date: 2007-02-22 21:53:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: tennis, wta, tournament, sports
+.. category: Sports
+.. description: A recount of the WTA Women's championship finals in Bangalore where underdog Shvedova defeated defending champion Santangelo.
 
 Last weekend, I went to watch the finals of the WTA Womens championship held at
 Bangalore. Doubles match between chinese teipei pair and russian/chinese-teipei

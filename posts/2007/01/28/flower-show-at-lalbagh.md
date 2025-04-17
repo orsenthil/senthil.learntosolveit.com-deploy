@@ -1,11 +1,9 @@
 .. title: Flower Show at Lalbagh
 .. slug: flower-show-at-lalbagh
 .. date: 2007-01-28 15:22:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: flowers, garden, photography, bangalore, bonsai
+.. category: Travel
+.. description: A visit to the flower show at Lalbagh Botanical Garden in Bangalore featuring various flowers and bonsai plants.
 
 Vaish,Shiva,Parthiban,Priya and I visited flower show at Lalbagh on 26th Jan.
 Variety of flowers were displayed, and I can hardly remember the names. Few of

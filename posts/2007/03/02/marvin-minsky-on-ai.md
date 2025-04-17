@@ -1,11 +1,9 @@
 .. title: Marvin Minsky on AI
 .. slug: marvin-minsky-on-ai
 .. date: 2007-03-02 21:19:00
-.. tags: ai
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: ai, artificial intelligence, computer architecture, parallel computing
+.. category: Technology
+.. description: Insights on the evolution of AI, from symbolic approaches to parallel architectures and their potential impact on machine vision, speech recognition, and natural language processing.
 
 Found two comments which are very insightful and written by people whose
 thoughts were along the same direction as our discussions in proficience course

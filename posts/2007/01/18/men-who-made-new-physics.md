@@ -1,11 +1,9 @@
 .. title: Men Who Made New Physics
 .. slug: men-who-made-new-physics
 .. date: 2007-01-18 00:38:00
-.. tags: 
+.. tags: physics, scientists, biography, history
 .. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. description: A review of the book "Men Who Made New Physics," highlighting the lives and contributions of prominent physicists like Rutherford, Planck, Einstein, and Bohr.
 
 I finished reading this book on Monday. It is an excellent book that tells the
 stories of many physicists working during the prime era of physics. It starts

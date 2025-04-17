@@ -1,10 +1,11 @@
 .. title: Karate - 2nd year
 .. slug: karate-2nd-year
 .. date: 2007-03-23 00:07:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: karate, martial arts, personal
+.. category: Hobbies
+.. description: Reflections on my second year of learning Karate and the journey ahead.
 
-<html><body><p>As I had recorded in <a href="http://orsenthil.blogspot.com/2005/03/kihon-kumite-kata-hosu.html">my old blog</a>, I started learning <a href="http://en.wikipedia.org/wiki/Karate">Karate</a>, two years ago starting 22nd of March. While I am enjoying everybit of it, I have lot of ground to cover.</p></body></html>
+As I had recorded in [my old blog](http://orsenthil.blogspot.com/2005/03/kihon-kumite-kata-hosu.html), I
+started learning [Karate](http://en.wikipedia.org/wiki/Karate), two years ago
+starting 22nd of March. While I am enjoying everybit of it, I have lot of ground
+to cover.

@@ -1,7 +1,7 @@
 .. title: Gandhi Jayanthi
 .. slug: gandhi-jayanthi
 .. date: 2016-10-02 13:26:27 UTC-07:00
-.. tags: mahatma-gandhi
+.. tags: mahatma gandhi
 .. category:
 .. link:
 .. description:

@@ -1,11 +1,9 @@
 .. title: Lunar New Year
 .. slug: lunar-new-year
 .. date: 2007-02-18 14:59:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: lunar-new-year, china, holiday, culture
+.. category: Culture
+.. description: Insights on Lunar New Year celebrations across Asia and its significance in the Year of the Pig
 
 <html><body><p>I knew it by "Chinese New Year" only and this year is "the year of Pig" with increase in birthrate projected in China as they believe children bring prosperity in this year.
 

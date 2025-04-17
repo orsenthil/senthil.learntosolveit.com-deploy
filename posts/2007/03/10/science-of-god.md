@@ -1,14 +1,22 @@
 .. title: Science of God
 .. slug: science-of-god
 .. date: 2007-03-10 02:14:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: religion, evolution, science, belief
+.. category: Philosophy
+.. description: Exploring scientific theories about why humans are genetically predisposed to believe in God and how religious foundation has been essential for societies throughout history.
 
-<html><body><p>Some time back, there was a story in Slashdot science section which dealt with "Human beings believing in God was neccessary for adaptation, survival and reproduction". This was study of genetic theory as how humans came to believe in God. One of the scientist got curious at the fact that ( me too is surprised) "<b>started looking at history, and I wondered why no society ever survived more than three generations without a religious foundation as its raison d’être,"&gt;</b>
+Some time back, there was a story in Slashdot science section which dealt with
+"Human beings believing in God was necessary for adaptation, survival and
+reproduction". This was a study of genetic theory about how humans came to
+believe in God. One of the scientists got curious at the fact (which surprised
+me too) that **"started looking at history, and I wondered why no society ever
+survived more than three generations without a religious foundation as its
+raison d'être."**
 
-The article gives a a detail that Humans are <a href="http://www.nytimes.com/2007/03/04/magazine/04evolution.t.html?pagewanted=1&amp;ei=5088&amp;en=a43cfb7b24423cc6&amp;ex=1330664400&amp;partner=rssnyt&amp;emc=rss">hardwired to believe in god</a>, it has supported its survival of the race and various different theories of existence and normal human understanding.It also gives account of how Atheists view the fact and they have to work hard to get the details than just to leave it. 
+The article details that humans are [hardwired to believe in god](http://www.nytimes.com/2007/03/04/magazine/04evolution.t.html?pagewanted=1&ei=5088&en=a43cfb7b24423cc6&ex=1330664400&partner=rssnyt&emc=rss),
+it has supported the survival of the race and various different theories of
+existence and normal human understanding. It also gives account of how atheists
+view the fact and they have to work hard to get the details rather than just
+leaving it unexplained.
 
-<a href="http://science.slashdot.org/article.pl?sid=07/03/04/1925246">slashdot story </a> as usual was interesting.</p></body></html>
+The [slashdot story](http://science.slashdot.org/article.pl?sid=07/03/04/1925246) as usual was interesting.

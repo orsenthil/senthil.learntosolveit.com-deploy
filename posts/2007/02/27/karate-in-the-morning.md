@@ -1,11 +1,9 @@
 .. title: Karate in the morning
 .. slug: karate-in-the-morning
 .. date: 2007-02-27 09:11:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: karate, fitness, health, morning routine
+.. category: Fitness
+.. description: Reflecting on struggles with diet, maintaining karate practice, and balancing work habits with early morning training.
 
 Yesterday night, the dinner at Suswaad hotel (Near Timex showroom in CMH Road)
 did not go well with me. Especially the oily parotha and ghee roast. My dad

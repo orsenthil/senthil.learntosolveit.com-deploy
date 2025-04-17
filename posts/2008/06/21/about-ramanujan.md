@@ -1,65 +1,38 @@
 .. title: About Ramanujan
 .. slug: about-ramanujan
 .. date: 2008-06-21 10:01:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: mathematics, genius, history, india
+.. category: Biography
+.. description: Information about the legendary Indian mathematician Srinivasa Ramanujan and his cultural impact
 
-<html><body><p>I was looking for some information on <a href="http://en.wikipedia.org/wiki/Srinivasa_Ramanujan">Srinivasa Ramanujan</a>, that I stumbled upon this post at <a href="http://in.answers.yahoo.com/question/index?qid=20080522233810AAjZ7Tz">y! answers</a>.
-
-
+I was looking for some information on [Srinivasa Ramanujan](http://en.wikipedia.org/wiki/Srinivasa_Ramanujan), that I stumbled upon this post at [y! answers](http://in.answers.yahoo.com/question/index?qid=20080522233810AAjZ7Tz).
 
 Mathematician Ramanujan. The greatest ever.
 
-
-
 Born 22 December 1887(1887-12-22)
-
 Erode, Tamil Nadu, India
 
 Died 26 April 1920 (aged 32)
-
 Chetput, (Madras), Tamil Nadu, India
 
-
-
 Residence
-
 British India,
-
 United Kingdom
-
-
 
 Fields Mathematician
 
-
-
 Alma mater
-
 Trinity College, Cambridge
 
 Academic advisors G. H. Hardy and J. E. Littlewood
 
 Known for Landau-Ramanujan constant
-
-
-
 Mock theta functions
-
 Ramanujan prime
-
 Ramanujan-Soldner constant
-
 Ramanujan theta function
-
 Ramanujan's sum
-
 Rogers-Ramanujan identities
-
-
 
 Ramanujan and his theorems are referred to in Sylvia Nasar's A Beautiful Mind, a biography of mathematician John Forbes Nash.
 
@@ -87,4 +60,4 @@ The PBS television show Nova episode "The Man Who Loved Numbers", about Ramanuja
 
 The Helix comic book series Time Breakers features Ramanujan as a character. In the story, his meeting with Hardy was made possible by the time travelling main characters, who know that Ramanujan's discoveries are vitally important to their own work and ensure that his work at Cambridge will unfold as history demands.
 
-The eponymous character in J.M.Coetzee's novel 'Elizabeth Costello: Eight Lessons' uses Ramanujan to discuss God, reason and being human.</p></body></html>
+The eponymous character in J.M.Coetzee's novel 'Elizabeth Costello: Eight Lessons' uses Ramanujan to discuss God, reason and being human.

@@ -1,9 +1,9 @@
 .. title: How to get better at Programming
 .. slug: how-to-get-better-at-programming
 .. date: 2013-09-11 12:39:21
-.. tags: Video,programming
-.. description: 
-.. categories: 
+.. tags: video,programming
+.. description:
+.. categories:
 .. wp-status: publish
 
 <html><body><p>http://youtu.be/qN7u1j44QTo

@@ -1,11 +1,9 @@
 .. title: vimplugin for eclipse
 .. slug: vimplugin-for-eclipse
 .. date: 2007-04-23 18:54:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: eclipse, vim, plugins, development
+.. category: Development
+.. description: How to install and configure Vimplugin to use Vim editor within Eclipse IDE
 
 [vimplugin for Eclipse](http://vimplugin.sourceforge.net/)
 

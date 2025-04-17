@@ -1,10 +1,8 @@
 .. title: Godspeed, Arthur C. Clarke.
 .. slug: godspeed-arthur-c-clarke
 .. date: 2008-03-19 07:36:00
-.. tags: 
-.. category: General
-.. description: 
-.. categories: General
-.. wp-status: publish
+.. tags: science fiction, author, technology
+.. category: Literature
+.. description: Remembering Arthur C. Clarke and his famous quote about advanced technology and magic.
 
-<html><body><p>"Any sufficiently advanced technology is indistinguishable from magic." ~ <a href="http://en.wikipedia.org/wiki/Arthur_C._Clarke">Arthur C. Clarke</a>.</p></body></html>
+> "Any sufficiently advanced technology is indistinguishable from magic." ~ Arthur C. Clarke.
