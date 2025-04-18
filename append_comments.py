@@ -30,7 +30,8 @@ for root, _, files in os.walk(directory):
                             comments.append(f"{line.strip()}\n\n")
                     comments.append(f"_{author}_\n\n---\n")
 
-                # Append the formatted comments to the .md file
+                # Append the header and formatted comments to the .md file
+                comments.insert(0, "comments:\n\n")
                 with open(md_path, 'a') as md_file:
                     md_file.write('\n\n')  # Add some spacing
                     md_file.write(''.join(comments).rstrip('\n---\n'))  # Remove the last horizontal line
