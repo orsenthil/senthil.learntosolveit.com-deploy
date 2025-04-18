@@ -41,6 +41,7 @@ PAGES = (
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archives"),
+        ("/categories/index.html", "Tags and Categories"),
     ),
 }
 
@@ -139,7 +140,7 @@ COMPILERS = {
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
 
-LOGO_URL = 'https://dl.dropboxusercontent.com/s/1iewg2le17sf0pq/xtoinfinity_300_100.png'
+# LOGO_URL = 'https://dl.dropboxusercontent.com/s/1iewg2le17sf0pq/xtoinfinity_300_100.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.

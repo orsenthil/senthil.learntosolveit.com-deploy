@@ -23,6 +23,16 @@ img {
     text-align: right;
 }
 
+@import url("https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911:400,700");
+
+body {
+    font-family: "Goudy Bookletter 1911", "EB Garamond",  Georgia, "Times New Roman", Times, serif;
+    font-size: 2em;
+    line-height: 1.42857143;
+    color: #201b1b;
+    background-color: #ffffff;
+}
+
 #addthisbox {margin-bottom: 12px;}
 
 td.label {
@@ -78,7 +88,7 @@ pre, pre code {
 }
 
 article.post-micro {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Open Sans', 'Roboto', 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
     font-size: 1.5em;
 }
 
@@ -95,7 +105,6 @@ article.post-micro {
     margin-left: -5px;
     list-style: none;
     text-align: center;
-
 }
 
 .tags > li {
@@ -109,7 +118,7 @@ article.post-micro {
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
-    background-color: #999;
+    background-color: #4259ee;
     border-radius: 10px;
 }
 
