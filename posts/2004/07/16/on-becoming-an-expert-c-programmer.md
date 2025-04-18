@@ -26,3 +26,38 @@ I found this really useful and inspirational once again.
 http://www.isthe.com/chongo/tech/comp/c/expert.html
 
 _Thanks Chongo!_
+
+----
+
+
+Keep posting ur codes
+
+_Kannappan_
+
+----
+
+
+Out of Context :  Meaning(chongo) := jest
+
+_Kannappan_
+
+----
+
+
+Was glancing through a Espanic dictionary hard.copy where this meaning was found.However on the internet the closest i could get to this meaning was the fourth meaning below on http://yahooligans.yahoo.com/search/ligans_se?lb=e&amp;p=num%3As6749chon·go m. 1. GUATEMALA: - curl, lock (of hair) 2. MEXICO: (moño) - bun, chignon 3. (dulce) - sweet, dessert 4. colloquial (broma) - joke 5. PERU: (querido) - darling
+
+_Kannappan_
+
+----
+
+
+In Espanol
+
+_Kannappan_
+
+----
+
+
+interesting :) where did u get the meaning? Google,Dictionary.com,m-w does not seem to know.
+
+_phoe6_

@@ -17,3 +17,10 @@ SourceForge project.  Thanks a lot,
 including me in the development list.
 
 Try the [Rapple Demo](http://rapple.sourceforge.net/demo/demo.html) now!
+
+----
+
+
+rappled a small html page. seems intresting
+
+_Kannappan_

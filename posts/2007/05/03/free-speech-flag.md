@@ -8,3 +8,17 @@
 [![free-speech-flag-wb](http://farm1.static.flickr.com/228/482657351_7112bf3794_m.jpg)](http://www.flickr.com/photos/phoe6/482657351/)
 
 [Free Speech Flag](http://blog.wired.com/gadgets/2007/02/the_new_hddvdbl.html)
+
+----
+
+
+well, i first thot it is called fs flag coz it looks so gay :-D
+
+_Anonymous_
+
+----
+
+
+And you got interested... :) ??
+
+_Anonymous_

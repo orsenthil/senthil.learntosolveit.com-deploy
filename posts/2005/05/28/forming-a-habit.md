@@ -11,3 +11,24 @@ long-desired habit and somewhat tough.
 
 So, I am trying to get myself accustomed to sitting in the same place
 continuously for a defined number of hours.
+
+----
+
+
+i've improvised from the original blogger's template in the css style.
+
+_jeffry_
+
+----
+
+
+You have a WP theme. How could you do that? It's cool man. All the best.
+
+_jeffry_
+
+----
+
+
+Thanks Jeff, Stumbled across this Template and liked it and more information  here.And how abt your Shiny Metal Template of your blog?
+
+_phoe6_

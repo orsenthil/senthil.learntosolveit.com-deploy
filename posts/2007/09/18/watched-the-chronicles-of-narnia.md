@@ -6,3 +6,42 @@
 .. description: Watching The Chronicles of Narnia movie based on C.S. Lewis's famous fantasy book
 
 Avi, Sanju, and I watched ["The Chronicles of Narnia"](http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) on DVD. Based on *The Lion, the Witch and the Wardrobe* by C.S. Lewis, this film is a fairy tale intended for children with a truly happy ending. It is a delightful movie that offers a hopeful reminder that things do end well.
+
+
+----
+
+
+Re: Chronicles of Narnia
+
+
+
+Hi Loga,
+
+
+
+Yes, it was indeed a very nice movie. very positive one. :) I like Harry Potter also. This time, I watched "Harry potter and the order of phoenix" twice in the theater and have been a potter fan now. I really liked the last  dialog where in Harry says to Hermoine, "we have something that Voldermort does not have", thats friendship and love.
+
+
+
+It was a nice one as well.
+
+
+
+Senthil
+
+_Senthil_
+
+----
+
+
+Chronicles of Narnia
+
+
+
+I too enjoyed that movie rather than Harry potter..
+
+
+
+Loga
+
+_Anonymous_

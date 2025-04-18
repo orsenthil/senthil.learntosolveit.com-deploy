@@ -50,3 +50,25 @@ delaying things when helping people as help at the right time is proper and
 delay with it is not good.
 
 Her story about meetings with JRD Tata and APJ Kalam was very inspiring.
+
+----
+
+
+Re: Hi
+
+
+
+Thanks, Vijay.
+
+_Senthil_
+
+----
+
+
+Hi
+
+
+
+All the best for your quest!
+
+_Anonymous_

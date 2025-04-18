@@ -32,3 +32,10 @@ I had expected to do something that big, I'd never have started. It
 started out small and insignificant, and that's how I thought about it.
 
 - Linus Benedict Torvalds
+
+----
+
+
+&gt;&gt;Don't think about some big picture and fancy design. &gt;&gt;If it doesn't solve some fairly immediate need, it's &gt;&gt;almost certainly over-designed. Premature optimisation is the root of all evil. - Knuth
+
+_Kannappan_

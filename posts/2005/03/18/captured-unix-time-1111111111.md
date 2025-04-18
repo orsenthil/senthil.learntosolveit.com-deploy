@@ -12,3 +12,10 @@ Gagan, whom I found very difficult to persuade as to what's so special about
 this.
 
 Unix time [2222222222](http://www.onlineconversion.com/unix_time.htm) will be on Sat, 02 Jun 2040 03:57:02 GMT.
+
+----
+
+
+perl -e 'print scalar gmtime(1111111111), "\n"'
+
+_Anonymous_

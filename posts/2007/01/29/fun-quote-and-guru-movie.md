@@ -14,3 +14,19 @@ especially when one already knows what the movie is about. On the second
 viewing, thoughts of Dhirubhai Ambani or Bill Gates did not come to mind, while
 the rationale behind the arguments and thoughts of Gurubhai stood out more
 prominently.
+
+
+----
+
+
+plz don't make bill-g the icon of capitalism. he is hated for his slimy, unhackerly, unethical behavior. the same crowd doesn't hate larry &amp; sergey.
+
+
+
+bill became rich coz ibm was stupid. not coz he "created wealth" of that magnitude.
+
+
+
+i am all for capitalism. 'atlas shrugged' (ayn rand) is my fav. bill is just a negative example.
+
+_kulalosai_

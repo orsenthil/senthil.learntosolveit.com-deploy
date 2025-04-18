@@ -14,3 +14,25 @@ At last my desktop computer running FC2 was able to play movies from VCD. VLC di
 Good Will Hunting was an 'okay' movie. It was trying to be a sentimental, emotional one. But there were lots of loop holes. Well movies as such have lots, but this was a little extra special in terms of mathematical genius janitor who is an autodidactic and considers himself correct all the times. Robin Williams plays the psychologist part and tries to help him find his way. Which you can expect in a movie, would be to get back to his heroine with whom he had a break-up. Thats following his heart.
 
 I liked the slangs used, the boston country side and bars potrayed and the joke the heroine shares in bar with friends. :-)
+
+
+----
+
+
+Hahaha. :) Good that you added "jokes" at the end.! :)
+
+_Senthil_
+
+----
+
+
+You've never had a blow job? Try it. If the girl is enthusiastic, it is the awesomest thing in the whole wide world. Screw urllib, get BJ FTW!
+
+_Anonymous_
+
+----
+
+
+news flash! senthil likes b10w job jokes!!
+
+_Anonymous_

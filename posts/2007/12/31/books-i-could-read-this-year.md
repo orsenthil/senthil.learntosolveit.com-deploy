@@ -89,3 +89,18 @@ I could get a chance to work with:
 Let me know if you would like to read any of these books; I would be glad to share them with you. You can also have a peek into my online library at [books.google.com](http://books.google.co.in/books?as_list=BDQiZH8QQiLL-oPzi3N_xARoUPZY8CAHGfBKJvMKvuOm5YfglkA8).
 
 **Happy New Year 2008 to all!**
+
+
+----
+
+
+Good list of books.If you have time watch the movie "Bridges of Madison Country".It starrs Clint Eastwood
+
+_Anonymous_
+
+----
+
+
+Great Post this time, i have seen quality of books you read.The Buddhist tales from <a href="http://www.infibeam.com/Books/Amar-Chitra-Katha-a.html" rel="nofollow">amar chitra Katha Books</a> made me to think about it, as i have not been through it.I like the <a href="http://www.infibeam.com/Books/Amar-Chitra-Katha-a.html" rel="nofollow">ack</a> series the much.
+
+_geet_jain_

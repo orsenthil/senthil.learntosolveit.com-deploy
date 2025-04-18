@@ -10,3 +10,26 @@ I moved to Orange belt on 29-07-2007. My friends moved to Yellow belt to. Sharma
 We had good fun that day. Our practice as a team and improved from then on.
 
 If the slide show does not show up, here is the [photo link](http://picasaweb.google.com/orsenthil/Karate).
+
+
+----
+
+
+Orange Belt
+
+
+
+Congratulations...
+
+_Anonymous_
+
+----
+
+
+Re: Orange Belt
+
+
+
+Thank you. :-)
+
+_Senthil_

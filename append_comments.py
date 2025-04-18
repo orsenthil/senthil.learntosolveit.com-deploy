@@ -18,7 +18,7 @@ for root, _, files in os.walk(directory):
 
             # Check if the corresponding .md file exists
             if os.path.exists(md_path):
-                comments = ["comments:\n\n"]
+                comments = ["----\n"]
                 author = "Anonymous"  # Default author if not specified
 
                 # Read the contents of the .wpcomment file

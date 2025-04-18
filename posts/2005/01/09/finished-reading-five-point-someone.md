@@ -22,3 +22,18 @@ since.
 A lot of friends seem to have enjoyed this book, and I did too. Gowri currently
 has it. I'll check with Zulfi and pass him a copy if he doesn't already have
 one.
+
+
+----
+
+
+Hi Ramesh, better get hold of copy yourself.It costs only 95/- and you will be sharing it with lot of friends of yours after reading it for sure :)
+
+_phoe6_
+
+----
+
+
+I am also, thinking of reading that. Probably I've to check in the lending libraries of Adyar here.
+
+_Ramesh_

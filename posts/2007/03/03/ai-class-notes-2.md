@@ -310,3 +310,22 @@ Based on generality
 * Temporal
 
 * Reasoning systems involve the representation of information and word.</p></body></html>
+
+----
+
+
+celpjefscycle
+
+
+
+Thanks for information.
+
+
+
+many interesting things
+
+
+
+Celpjefscylc
+
+_Anonymous_

@@ -176,3 +176,19 @@ From the SLIME environment itself, the following features are available:
 
 * `C-c C-l` (slime-load-file)
 * `C-c C-k` to compile and load the file represented by the current buffer.
+
+
+----
+
+
+using emacs like it shud be...
+
+
+
+http://steve.yegge.googlepages.com/effective-emacs
+
+
+
+[kirubakaran]
+
+_Anonymous_

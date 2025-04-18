@@ -37,3 +37,26 @@ Thank you.
 **Update**
 
 I convinced my sister and my cousin to come along for a coffee and we all went there. btw both of them can be considered geeks as I have seen my sister twidling with computer a lot before she decided to pursue her Dental Studies, and my cousin aged 11 was playing with Nintendo DS lite in full swing. We had good time and had a cake cheering slashdot. :)
+
+
+----
+
+
+So you're getting the T-shirt. :)  Have fun!
+
+
+
+Oh that, and, deja vu. ;)
+
+_sajith_
+
+----
+
+
+Came to know about the T-Shirt stuff later only, Sajith. As I would not be at blore on 13th, I wanted to 'be there with ww-/. folks' from mdu. :) Pass it on, if you have any other, madurai/tamil nadu friends.
+
+
+
+Thanks,
+
+_Senthil_

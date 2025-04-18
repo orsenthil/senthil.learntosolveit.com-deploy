@@ -10,3 +10,22 @@ At HowStuffWorks, I found an interesting article titled "[How Love Works](http:/
 - People often fall in love with those in whom they see traits of their parents or siblings—figures they have known since childhood.
 - Eye contact and deep gazes can spark the beginnings of love.
 - Love, relationships, lust, passionate love, and even infidelity are explained as chemical phenomena involving adrenaline, dopamine, norepinephrine, and phenylethylamine.
+
+
+----
+
+
+The review seems interesting with comparision to cavemen and cavewomen for our behaviorial traits. Shall read this book sometime. for sure. :-)
+
+
+
+Thanks!
+
+_Senthil_
+
+----
+
+
+You might be interested in <a href="http://www.amazon.com/Dont-Listen-Women-Cant-Read/dp/0767907639" rel="nofollow"><cite>Why Men Don't Listen and Women Can't Read Maps</cite></a>.
+
+_mannu_

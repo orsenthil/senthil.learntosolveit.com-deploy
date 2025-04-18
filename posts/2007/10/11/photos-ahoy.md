@@ -12,3 +12,29 @@ Next, the fun-filled Manali trip with friends.
 Then, hacking something at the Y! Hackday.
 
 It was a week full of fun.
+
+
+----
+
+
+I was at Hack Day too, too bad we didn't meet up, maybe next time :)
+
+_swaroopch_
+
+----
+
+
+Hi Swaroop, remember that guy who approached you for help with "Beautiful Soup" Library. Yes, that was I, another Python programmer who has found your "A Byte of Python" very useful and has been constantly recommending that to everyone who wants to get started with python.
+
+
+
+Nice to meet you. I hope we will have a lot of 'pythonic' things discuss. :)
+
+_Senthil_
+
+----
+
+
+Oh! That was you :) ... Yep we should discuss, pythonic or otherwise :)
+
+_swaroopch_

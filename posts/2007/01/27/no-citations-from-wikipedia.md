@@ -15,3 +15,17 @@ Wikipedia is so useful that students ended up citing it in their papers.
 However, when there was misinformation on Wikipedia, the students were unaware,
 and their papers contained errors. The teachers made the correct move by saying,
 "Cite Wikipedia at your own peril."
+
+----
+
+
+yes, citing Brittanica Encyclopaedia is also not allowed (as per their policy). But things with wikipedia hit when number of students cited the same wrong information.
+
+_Senthil_
+
+----
+
+
+the same should hold for citations from Brittanica Encyclopaedia then.
+
+_bluesmoon_

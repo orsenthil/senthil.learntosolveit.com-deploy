@@ -40,3 +40,45 @@ Many of my friends will enjoy this book. Jonathan gifted it to me while I was in
 college, and Kannapan feels this is one of the best books he has ever read.
 
 I took some snaps of the middle-page pictures using my Nokia 6600.
+
+----
+
+
+Thanks a lot for Your informative web-site
+
+
+
+Great site, I am bookmarking it!Keep it up!
+
+
+
+With the best regards!
+
+
+
+David
+
+_Anonymous_
+
+----
+
+
+soft for windows,games,software,news
+
+
+
+Hello
+
+
+
+Linux software,news driver ,games
+
+
+
+http://italiagame.org
+
+
+
+G'night
+
+_Anonymous_

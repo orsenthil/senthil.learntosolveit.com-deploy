@@ -28,3 +28,17 @@ Let this GENESIS of thought for a "green revolution" be deeply rooted in the
 human mind.
 
 *Collage by Praveen, Aarthi, Raj, and Senthil, prepared for Environment Day.*
+
+----
+
+
+Good job. The idea is simple &amp; traditional. Good Aesthetic sense
+
+_Kannappan_
+
+----
+
+
+Thanks a lot for the wishes! :-)
+
+_phoe6_

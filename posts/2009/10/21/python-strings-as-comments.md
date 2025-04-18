@@ -37,3 +37,102 @@ Guido's time-machine strikes again.
 String literals -- not just triple-quoted strings, but any string
 literal -- that don't go anywhere are discarded by the Python compiler,
 precisely so they can be used as comments.
+
+
+----
+
+
+But docstrings are something else
+
+
+
+You would need to add specific options to python to stop it from byte-compiling docstrings though.
+
+_Anonymous_
+
+----
+
+
+Re: But docstrings are something else
+
+
+
+Sorry, for the late reply, I myself had do some experimentations to understand this stuff. In the above snippet as you saw, the compiler discards any string which is not referenced. But it is still available as a __doc__ attribute of the test object.
+
+
+
+&gt;&gt;&gt; def test():
+
+
+
+
+
+
+
+
+
+
+
+&gt;&gt;&gt; import dis
+
+
+
+&gt;&gt;&gt; dis.dis(test)
+
+
+
+3           0 LOAD_CONST               1 (1)
+
+
+
+3 STORE_FAST               0 (x)
+
+
+
+4           6 LOAD_FAST                0 (x)
+
+
+
+9 RETURN_VALUE
+
+
+
+&gt;&gt;&gt; print test.__doc__
+
+
+
+This is string
+
+
+
+&gt;&gt;&gt;
+
+
+
+But create a python snippet 'foo.py' like this:
+
+
+
+def test():
+
+
+
+"""This is a docstring"""
+
+
+
+print test.__doc__
+
+
+
+return True
+
+
+
+test()
+
+
+
+and do python foo.py vs python -OO foo.py you will see the .__doc__ attribute itself is discarded while doing optimization using -OO.
+
+_Senthil_

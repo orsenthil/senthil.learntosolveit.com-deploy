@@ -10,3 +10,11 @@ Whenever some website recognizes the uniqueness of account using your email id, 
 So, if you are yourname at gmail.com, it is same as your.name, y.ourname or any other thing for the same account. But for the other website, most often they tend to look it as different ids.
 
 I tried this with http://en.gravatar.com/, when it said that my id is already set (I had not/ dont remember how), so I simply used or.senthil. While testing forms, you can use this trick too.
+
+
+----
+
+
+of course, for gravatar, you really want your primary email address mapped since that is what other sites (eg: github) will use.
+
+_bluesmoon_
