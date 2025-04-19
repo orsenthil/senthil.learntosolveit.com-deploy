@@ -40,8 +40,6 @@ PAGES = (
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags and Categories"),
     ),
 }
 
@@ -164,12 +162,13 @@ WRITE_TAG_CLOUD = True
 # is assigned to  each section based on shifting the hue of your THEME_COLOR
 # at least 7.5 % while leaving the lightness and saturation untouched in the
 # HUSL colorspace. You can overwrite colors by assigning them colors in HEX.
-# POSTS_SECTION_COLORS = {
-#     DEFAULT_LANG: {
-#         'posts':  '#49b11bf',
-#         'reviews':   '#ffe200',
-#     },
-# }
+
+POSTS_SECTION_COLORS = {
+    DEFAULT_LANG: {
+         'posts':  '#49b11bf',
+         'reviews':   '#ffe200',
+     },
+ }
 
 # Associate a description with a section. For use in meta description on
 # section index pages or elsewhere in themes.
@@ -812,7 +811,9 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+
+SHOW_SOURCELINK = False
+
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True

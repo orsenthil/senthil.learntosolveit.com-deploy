@@ -23,15 +23,47 @@ img {
     text-align: right;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911:400,700");
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap');
+
+/* https://fonts.google.com/selection/embed */
 
 body {
-    font-family: "Goudy Bookletter 1911", "EB Garamond",  Georgia, "Times New Roman", Times, serif;
+    font-family: "Atkinson Hyperlegible Mono", "EB Garamond",  Georgia, "Times New Roman", Times,  sans-serif;
     font-size: 2em;
     line-height: 1.42857143;
     color: #201b1b;
     background-color: #ffffff;
 }
+
+.navbar-inverse {
+    /* Darker blue gradient */
+    background-image: -o-linear-gradient(top, #1a4a73 0, #2c6da0 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#1a4a73), to(#2c6da0));
+    background-image: -webkit-linear-gradient(top, #1a4a73 0, #2c6da0 100%);
+    background-image: linear-gradient(to bottom, #1a4a73 0, #2c6da0 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff1a4a73', endColorstr='#ff2c6da0', GradientType=0);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+    border-color: #16405f;
+}
+
+/* Make all text white with good contrast against dark blue */
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+}
+
+/* Style for hover and active states */
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #16405f; /* Even darker blue for hover states */
+    color: #ffffff;
+}
+
 
 #addthisbox {margin-bottom: 12px;}
 
@@ -111,19 +143,30 @@ article.post-micro {
     display: inline-block;
     min-width: 10px;
     padding: 3px 7px;
-    font-size: 12px;
+    font-size: 0.75em;
     font-weight: bold;
     line-height: 1;
     color: #fff;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
-    background-color: #4259ee;
+    background-color: #2c6da0; /* Matching the bottom color of your navbar gradient */
     border-radius: 10px;
+    margin: 2px;
+    transition: background-color 0.2s ease;
+}
+
+.tags > li:hover {
+    background-color: #1a4a73; /* Matching the top color of your navbar gradient */
 }
 
 .tags > li a {
     color: #fff;
+    text-decoration: none;
+}
+
+.tags > li a:hover {
+    text-decoration: none;
 }
 
 .metadata p:before,
