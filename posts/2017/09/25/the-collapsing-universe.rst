@@ -7,12 +7,25 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1464362010m/1290985.jpg
+   :alt: The Collapsing Universe
+   :target: https://www.goodreads.com/book/show/1290985.The_Collapsing_Universe
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/1290985.The_Collapsing_Universe" style="float: left; padding-right: 20px"><img border="0" alt="The Collapsing Universe: The Story of Black Holes" src="https://images.gr-assets.com/books/1464362010m/1290985.jpg" /></a><a href="https://www.goodreads.com/book/show/1290985.The_Collapsing_Universe">The Collapsing Universe: The Story of Black Holes</a> by <a href="https://www.goodreads.com/author/show/16667.Isaac_Asimov">Isaac Asimov</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/2135003041">5 of 5 stars</a><br /><br />
-    The Good Doctor once again explains Cosmology in lucid terms. He starts off with simple premises, known facts, composes and slowly leads up to higher concepts, ultimately leading to the concept of "Black Hole". The book had a "trill" factor to it, as we discover the nature of black holes and what constitutes a black hole and how the universe might have formed.<br /><br />I was "wow"ed by this book.
-    <br/><br/>
+
+`The Collapsing Universe <https://www.goodreads.com/book/show/1290985.The_Collapsing_Universe>`_ by `Isaac Asimov <https://www.goodreads.com/author/show/16667.Isaac_Asimov>`_
+
+My rating: 5 of 5 stars
+
+The Good Doctor once again explains Cosmology in lucid terms.
+He starts off with simple premises, known facts, composes and slowly leads up to
+higher concepts, ultimately leading to the concept of "Black Hole".
+The book had a "trill" factor to it, as we discover the nature of black holes
+and what constitutes a black hole and how the universe might have formed.
+I was "wow"ed by this book.
+
+
 
 Some exciting learning here with this book. I learnt about the following:
 

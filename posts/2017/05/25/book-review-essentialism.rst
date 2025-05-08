@@ -8,11 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1403165375m/18077875.jpg
+   :alt: Essentialism: The Disciplined Pursuit of Less
+   :target: https://www.goodreads.com/book/show/18077875-essentialism
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/18077875-essentialism" style="float: left; padding-right: 20px">
-        <img border="0" alt="Essentialism: The Disciplined Pursuit of Less" src="https://images.gr-assets.com/books/1403165375m/18077875.jpg" />
-    </a>
+
+`Essentialism: The Disciplined Pursuit of Less <https://www.goodreads.com/book/show/18077875-essentialism>`_ 
+
+
+
+
+
+
 
     <a href="https://www.goodreads.com/book/show/18077875-essentialism">Essentialism: The Disciplined Pursuit of Less</a>
     by <a href="https://www.goodreads.com/author/show/4040962.Greg_McKeown">Greg McKeown</a><br/>

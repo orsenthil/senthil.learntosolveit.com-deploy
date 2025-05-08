@@ -8,9 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1181921885m/1212151.jpg
+   :alt: The Greatest Inventions of the Past 2000 Years
+   :target: https://www.goodreads.com/book/show/1212151.The_Greatest_Inventions_of_the_Past_2_000_Years
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/1212151.The_Greatest_Inventions_of_the_Past_2_000_Years" style="float: left; padding-right: 20px"><img border="0" alt="The Greatest Inventions of the Past 2,000 Years" src="https://images.gr-assets.com/books/1181921885m/1212151.jpg" /></a><a href="https://www.goodreads.com/book/show/1212151.The_Greatest_Inventions_of_the_Past_2_000_Years">The Greatest Inventions of the Past 2,000 Years</a> by <a href="https://www.goodreads.com/author/show/63348.John_Brockman">John Brockman</a><br/>
+
+`The Greatest Inventions of the Past 2000 Years <https://www.goodreads.com/book/show/1212151.The_Greatest_Inventions_of_the_Past_2_000_Years>`_ by `John Brockman <https://www.goodreads.com/author/show/63348.John_Brockman>`_
+
+
+
+
+
+
 
     My rating: <a href="https://www.goodreads.com/review/show/2194026318">5 of 5 stars</a><br /><br />
 

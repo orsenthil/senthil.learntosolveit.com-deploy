@@ -8,11 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1281419771m/888628.jpg
+   :alt: Neuromancer
+   :target: https://www.goodreads.com/book/show/888628.Neuromancer
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/888628.Neuromancer" style="float: left; padding-right: 20px">
-        <img border="0" alt="Neuromancer (Sprawl, #1)" src="https://images.gr-assets.com/books/1281419771m/888628.jpg" />
-    </a>
+
+`Neuromancer <https://www.goodreads.com/book/show/888628.Neuromancer>`_ 
+
+
+
+
+
+
 
     <a href="https://www.goodreads.com/book/show/888628.Neuromancer">Neuromancer</a>
     by <a href="https://www.goodreads.com/author/show/9226.William_Gibson">William Gibson</a><br/>

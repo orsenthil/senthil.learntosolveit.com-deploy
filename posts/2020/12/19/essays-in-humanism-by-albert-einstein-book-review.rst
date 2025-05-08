@@ -7,10 +7,20 @@
 .. description: 
 .. type: text
 
-.. raw:: html
+.. image:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444678165l/12788555._SX98_.jpg
+   :alt: 12788555 Essays In Humanism
+   :target: https://www.goodreads.com/book/show/12788555-essays-in-humanism
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/12788555-essays-in-humanism" style="float: left; padding-right: 20px"><img border="0" alt="Essays in Humanism" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444678165l/12788555._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/12788555-essays-in-humanism">Essays in Humanism</a> by <a href="https://www.goodreads.com/author/show/9810.Albert_Einstein">Albert Einstein</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/3703660748">4 of 5 stars</a><br /><br />
+
+`12788555 Essays In Humanism <https://www.goodreads.com/book/show/12788555-essays-in-humanism>`_ by `Albert Einstein <https://www.goodreads.com/author/show/9810.Albert_Einstein>`_
+
+My rating: 4 of 5 stars
+
+
+
+
 
     There we Einstein's thoughts on various topics. He desired a World-Government,
     powerful and in control of Nuclear Weapons. Had a balanced view of both

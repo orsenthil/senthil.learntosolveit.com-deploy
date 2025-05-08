@@ -8,11 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1344692678m/11724436.jpg
+   :alt: The Linux Command Line
+   :target: https://www.goodreads.com/book/show/11724436-the-linux-command-line
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/11724436-the-linux-command-line" style="float: left; padding-right: 20px">
-        <img border="0" alt="The Linux Command Line" src="https://images.gr-assets.com/books/1344692678m/11724436.jpg" />
-    </a>
+
+`The Linux Command Line <https://www.goodreads.com/book/show/11724436-the-linux-command-line>`_ 
+
+
+
+
+
+
 
     <a href="https://www.goodreads.com/book/show/11724436-the-linux-command-line">The Linux Command Line</a>
     by <a href="https://www.goodreads.com/author/show/4949703.William_E_Shotts_Jr_">William E. Shotts Jr.</a><br/>

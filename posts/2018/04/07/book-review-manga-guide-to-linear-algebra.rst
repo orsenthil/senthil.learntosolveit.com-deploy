@@ -7,12 +7,34 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1344690423m/13227038.jpg
+   :alt: 13227038 The Manga Guide To Linear Algebra
+   :target: https://www.goodreads.com/book/show/13227038-the-manga-guide-to-linear-algebra
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/13227038-the-manga-guide-to-linear-algebra" style="float: left; padding-right: 20px"><img border="0" alt="The Manga Guide to Linear Algebra" src="https://images.gr-assets.com/books/1344690423m/13227038.jpg" /></a><a href="https://www.goodreads.com/book/show/13227038-the-manga-guide-to-linear-algebra">The Manga Guide to Linear Algebra</a> by <a href="https://www.goodreads.com/author/show/653728.Shin_Takahashi">Shin Takahashi</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/2353816790">4 of 5 stars</a><br /><br />
-    Manga Guide to Linear Algebra is a manga comic that teaches linear algebra concept. When I stumbled upon the terms Eigenvalues and Eigenvectors, I found those were greek to me, and I had no intuitive understanding of those terms. I decided to spend 4-hours to read about the basics of linear algebra from this book.<br /><br />The book starts with the concept of sets, functions, and relations. Then introduces matrices, and then vectors. It gives a gentle introduction to various matrix operations. Gives visual clue on vector representations. Introduces the concept of linear dependence and linear independence in vectors.<br /><br />Shows the examples of linear transformations which are practical applications of linear algebra and finally goes to introduce eigenvalues and eigenvectors. Finally, for Eigenvalues and Eigenvectors, these are the examples that are shown.
-    <br/><br/>
+
+`13227038 The Manga Guide To Linear Algebra <https://www.goodreads.com/book/show/13227038-the-manga-guide-to-linear-algebra>`_ by `Shin Takahashi <https://www.goodreads.com/author/show/653728.Shin_Takahashi>`_
+
+My rating: 4 of 5 stars
+
+Manga Guide to Linear Algebra is a manga comic that teaches linear algebra
+concept.
+When I stumbled upon the terms Eigenvalues and Eigenvectors, I found those were
+greek to me, and I had no intuitive understanding of those terms.
+I decided to spend 4-hours to read about the basics of linear algebra from this
+book.
+The book starts with the concept of sets, functions, and relations.
+Then introduces matrices, and then vectors.
+It gives a gentle introduction to various matrix operations.
+Gives visual clue on vector representations.
+Introduces the concept of linear dependence and linear independence in vectors.
+Shows the examples of linear transformations which are practical applications of
+linear algebra and finally goes to introduce eigenvalues and eigenvectors.
+Finally, for Eigenvalues and Eigenvectors, these are the examples that are
+shown.
+
+
 
 This is a example of 2x2 matrix for illustrating Eigenvectors given in the book.
 

@@ -7,8 +7,18 @@
 .. description: 
 .. type: text
 
-.. raw:: html
+.. image:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515495557l/26759355._SX98_.jpg
+   :alt: Kubernetes Up and Running
+   :target: https://www.goodreads.com/book/show/26759355-kubernetes
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/26759355-kubernetes" style="float: left; padding-right: 20px"><img border="0" alt="Kubernetes: Up & Running" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515495557l/26759355._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/26759355-kubernetes">Kubernetes: Up & Running</a> by <a href="https://www.goodreads.com/author/show/14404787.Kelsey_Hightower">Kelsey Hightower</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/3003919369">4 of 5 stars</a><br /><br />
-    This book is from the pioneers of the Kubernetes world. The authors explain the design elements of Kubernetes pretty well. It was enjoyable to read this book.
+
+`Kubernetes Up and Running <https://www.goodreads.com/book/show/26759355-kubernetes>`_ by `Kelsey Hightower <https://www.goodreads.com/author/show/14404787.Kelsey_Hightower>`_
+
+My rating: 4 of 5 stars
+
+This book is from the pioneers of the Kubernetes world.
+The authors explain the design elements of Kubernetes pretty well.
+It was enjoyable to read this book.
+

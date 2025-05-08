@@ -7,9 +7,23 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1441030741m/26199979.jpg
+   :alt: Apache Mesos Essentials
+   :target: https://www.goodreads.com/book/show/26199979-apache-mesos-essentials
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/26199979-apache-mesos-essentials" style="float: left; padding-right: 20px"><img border="0" alt="Apache Mesos Essentials" src="https://images.gr-assets.com/books/1441030741m/26199979.jpg" /></a><a href="https://www.goodreads.com/book/show/26199979-apache-mesos-essentials">Apache Mesos Essentials</a> by <a href="https://www.goodreads.com/author/show/14159157.Dharmesh_Kakadia">Dharmesh Kakadia</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/2251506810">3 of 5 stars</a><br /><br />
-    A simple overview of Mesos. It enlists the commands and scripts that will be useful to operate a Mesos cluster. Gives an overview of Hadoop and Spark data frameworks and how they can launched on Mesos. It is aimed at operators and system engineers trying to operate Mesos.
+
+`Apache Mesos Essentials <https://www.goodreads.com/book/show/26199979-apache-mesos-essentials>`_ by `Dharmesh Kakadia <https://www.goodreads.com/author/show/14159157.Dharmesh_Kakadia>`_
+
+My rating: 3 of 5 stars
+
+A simple overview of Mesos.
+It enlists the commands and scripts that will be useful to operate a Mesos
+cluster.
+Gives an overview of Hadoop and Spark data frameworks and how they can launched
+on Mesos.
+It is aimed at operators and system engineers trying to operate Mesos.
+
+
 

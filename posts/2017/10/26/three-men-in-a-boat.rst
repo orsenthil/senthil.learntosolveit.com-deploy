@@ -8,12 +8,22 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1392791656m/4921.jpg
+   :alt: Three Men in a Boat
+   :target: https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat" style="float: left; padding-right: 20px"><img border="0" alt="Three Men in a Boat (Three Men, #1)" src="https://images.gr-assets.com/books/1392791656m/4921.jpg" /></a><a href="https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat">Three Men in a Boat</a> by <a href="https://www.goodreads.com/author/show/3352.Jerome_K_Jerome">Jerome K. Jerome</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/2164386929">4 of 5 stars</a><br /><br />
-    Funny writing. Made me chuckle at times and was very imaginative. makes for a light hearted reading.
-    <br/><br/>
+
+`Three Men in a Boat <https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat>`_ by `Jerome K. Jerome <https://www.goodreads.com/author/show/3352.Jerome_K_Jerome>`_
+
+My rating: 4 of 5 stars
+
+Funny writing.
+Made me chuckle at times and was very imaginative.
+makes for a light hearted reading.
+
+
 
 I started reading this book using a hardcopy that I had for long time. For convenience, I quickly finished by reading the online ebook at `Project Gutenberg`_ . Since I read fast, I did't enjoy this very much. Won't discuss this much.
 

@@ -8,9 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514938018l/34013922._SX98_.jpg
+   :alt: Kubernetes in Action by Marco Luksa
+   :target: https://www.goodreads.com/book/show/34013922-kubernetes-in-action
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/34013922-kubernetes-in-action" style="float: left; padding-right: 20px"><img border="0" alt="Kubernetes in Action" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514938018l/34013922._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/34013922-kubernetes-in-action">Kubernetes in Action</a> by <a href="https://www.goodreads.com/author/show/16353372.Marko_Luksa">Marko Luksa</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/3003905449">4 of 5 stars</a><br /><br />
-    This book explained the concepts behind Kubernetes well. It just did keep itself at the level of a book for an operator of Kubernetes and went into explaining what is happening underneath quite well.<br />
+
+`Kubernetes in Action by Marco Luksa <https://www.goodreads.com/book/show/34013922-kubernetes-in-action>`_ by `Marko Luksa <https://www.goodreads.com/author/show/16353372.Marko_Luksa>`_
+
+My rating: 4 of 5 stars
+
+This book explained the concepts behind Kubernetes well.
+It just did keep itself at the level of a book for an operator of Kubernetes and
+went into explaining what is happening underneath quite well.
+
+
 

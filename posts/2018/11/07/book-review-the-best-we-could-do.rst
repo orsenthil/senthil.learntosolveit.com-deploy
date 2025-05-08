@@ -7,18 +7,36 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1461818306m/29936927.jpg
+   :alt: The Best We Could Do
+   :target: https://www.goodreads.com/book/show/29936927-the-best-we-could-do
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/29936927-the-best-we-could-do" style="float: left; padding-right: 20px"><img border="0" alt="The Best We Could Do" src="https://images.gr-assets.com/books/1461818306m/29936927.jpg" /></a><a href="https://www.goodreads.com/book/show/29936927-the-best-we-could-do">The Best We Could Do</a> by <a href="https://www.goodreads.com/author/show/7302080.Thi_Bui">Thi Bui</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/2569462776">5 of 5 stars</a><br /><br />
-    This is a personal memoir of the author, Thi Bui, as she tries to recollect her own story of coming to the US as
-    a refugee from Vietnam on a boat.<br /><br />Fast forward many years, the author is well educated, accomplished
-    in life, settled in society, and has a family of her own. When she has her first child, she tries to associate
-    herself with her mother and her times in Vietnam and their family migration to the US. <br /><br />It covers the
-    political history of Vietnam well, and how the ordinary people suffered, without any exception, both at the hands
-     of external oppressors and from local oppressors alike. There was no way out, except to Run away. And, run they
-     did, in search for stabler societies so they and their children at-least can have a chance to live.<br /><br />It is a heart-wrenching story as she understands the story of her own mother, father, and the reason they become the way they are, the hardships and life that they have seen in other parts of the world, the risks they took, and ultimately, the best they could do for their children.<br /><br />It is a family story, and it helps us understand our own parents better.<br />
-    <br/><br/>
+
+`The Best We Could Do <https://www.goodreads.com/book/show/29936927-the-best-we-could-do>`_ by `Thi Bui <https://www.goodreads.com/author/show/7302080.Thi_Bui>`_
+
+My rating: 5 of 5 stars
+
+This is a personal memoir of the author, Thi Bui, as she tries to recollect her
+own story of coming to the US as a refugee from Vietnam on a boat.
+Fast forward many years, the author is well educated, accomplished in life,
+settled in society, and has a family of her own.
+When she has her first child, she tries to associate herself with her mother and
+her times in Vietnam and their family migration to the US.
+It covers the political history of Vietnam well, and how the ordinary people
+suffered, without any exception, both at the hands of external oppressors and
+from local oppressors alike.
+There was no way out, except to Run away.
+And, run they did, in search for stabler societies so they and their children
+at-least can have a chance to live.
+It is a heart-wrenching story as she understands the story of her own mother,
+father, and the reason they become the way they are, the hardships and life that
+they have seen in other parts of the world, the risks they took, and ultimately,
+the best they could do for their children.
+It is a family story, and it helps us understand our own parents better.
+
+
 
 *Quotes that I liked from the book*
 

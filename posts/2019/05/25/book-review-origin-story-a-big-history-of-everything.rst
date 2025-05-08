@@ -8,9 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1521301284m/39306535.jpg
+   :alt: 39306535 Origin Story
+   :target: https://www.goodreads.com/book/show/39306535-origin-story
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/39306535-origin-story" style="float: left; padding-right: 20px"><img border="0" alt="Origin Story: A Big History of Everything" src="https://images.gr-assets.com/books/1521301284m/39306535.jpg" /></a><a href="https://www.goodreads.com/book/show/39306535-origin-story">Origin Story: A Big History of Everything</a> by <a href="https://www.goodreads.com/author/show/81809.David_Christian">David Christian</a><br/>
+
+`39306535 Origin Story <https://www.goodreads.com/book/show/39306535-origin-story>`_ by `David Christian <https://www.goodreads.com/author/show/81809.David_Christian>`_
+
+
+
+
+
+
 
     My rating: <a href="https://www.goodreads.com/review/show/2604151046">5 of 5 stars</a><br /><br />
 

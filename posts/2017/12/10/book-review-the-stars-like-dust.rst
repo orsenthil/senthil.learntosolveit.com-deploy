@@ -8,9 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1325310236m/41822.jpg
+   :alt: The Stars Like Dust
+   :target: https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust" style="float: left; padding-right: 20px"><img border="0" alt="The Stars, Like Dust (Galactic Empire, #1)" src="https://images.gr-assets.com/books/1325310236m/41822.jpg" /></a><a href="https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust">The Stars, Like Dust</a> by <a href="https://www.goodreads.com/author/show/16667.Isaac_Asimov">Isaac Asimov</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/863064457">4 of 5 stars</a><br /><br />
-    This book belongs to the genre of Space-opera. Plenty of drama, plot twists, hero, heroine and plot twist. I think, I read it twice, and I enjoyed the book when I read it the second time.
+
+`The Stars Like Dust <https://www.goodreads.com/book/show/41822.The_Stars_Like_Dust>`_ by `Isaac Asimov <https://www.goodreads.com/author/show/16667.Isaac_Asimov>`_
+
+My rating: 4 of 5 stars
+
+This book belongs to the genre of Space-opera.
+Plenty of drama, plot twists, hero, heroine and plot twist.
+I think, I read it twice, and I enjoyed the book when I read it the second time.
+
+
 

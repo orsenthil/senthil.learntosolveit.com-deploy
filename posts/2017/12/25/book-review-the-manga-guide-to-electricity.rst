@@ -7,13 +7,20 @@
 .. description: Review of The Manga Guide to Electricity by Kazuhiro Fujitaki, Matsuda
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1497214827m/6251828.jpg
+   :alt: The Manga Guide to Electricity
+   :target: https://www.goodreads.com/book/show/6251828-the-manga-guide-to-electricity
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/6251828-the-manga-guide-to-electricity" style="float: left; padding-right: 20px">
-        <img border="0" alt="The Manga Guide to Electricity" src="https://images.gr-assets.com/books/1497214827m/6251828.jpg" />
-    </a>
-    <a href="https://www.goodreads.com/book/show/6251828-the-manga-guide-to-electricity">The Manga Guide to Electricity</a>
-    by <a href="https://www.goodreads.com/author/show/2843859.Kazuhiro_Fujitaki">Kazuhiro Fujitaki</a><br/>
+
+`The Manga Guide to Electricity <https://www.goodreads.com/book/show/6251828-the-manga-guide-to-electricity>`_ by `Kazuhiro Fujitaki <https://www.goodreads.com/author/show/2843859.Kazuhiro_Fujitaki>`_
+
+
+
+
+
+
 
     My rating: <a href="https://www.goodreads.com/review/show/2224962360">5 of 5 stars</a><br /><br />
 

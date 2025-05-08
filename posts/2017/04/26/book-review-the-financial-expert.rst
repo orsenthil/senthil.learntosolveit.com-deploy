@@ -7,12 +7,20 @@
 .. description:
 .. type: text
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1328872386m/344676.jpg
+   :alt: The Financial Expert
+   :target: https://www.goodreads.com/book/show/344676.The_Financial_Expert
+   :align: left
+   :width: 98px
 
 
-    <a href="https://www.goodreads.com/book/show/344676.The_Financial_Expert" style="float: left; padding-right: 20px">
-        <img border="0" alt="The Financial Expert" src="https://images.gr-assets.com/books/1328872386m/344676.jpg" />
-    </a>
+`The Financial Expert <https://www.goodreads.com/book/show/344676.The_Financial_Expert>`_ 
+
+
+
+
+
+
 
     <a href="https://www.goodreads.com/book/show/344676.The_Financial_Expert">The Financial Expert</a>
     by <a href="https://www.goodreads.com/author/show/1305302.R_K_Narayan">R.K. Narayan</a><br/>

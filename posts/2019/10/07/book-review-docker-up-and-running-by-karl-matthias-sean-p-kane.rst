@@ -9,9 +9,25 @@
 
 Write your post here.
 
-.. raw:: html
+.. image:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442890407l/25752719._SX98_.jpg
+   :alt: Docker Up and Running by Karl Matthias, Sean P. Kane
+   :target: https://www.goodreads.com/book/show/25752719-docker
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/25752719-docker" style="float: left; padding-right: 20px"><img border="0" alt="Docker: Up and Running" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442890407l/25752719._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/25752719-docker">Docker: Up and Running</a> by <a href="https://www.goodreads.com/author/show/8165924.Karl_Matthias">Karl Matthias</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/3003914575">3 of 5 stars</a><br /><br />
-    I picked this book to gain some structured knowledge of docker. I had done a costly mistake with docker, and I realized, it was because my knowledge of docker was mostly by trial and error, reading the docs and trying it out. <br /><br />The book focusses on operational aspects of docker. This is perhaps aimed at the beginners of docker who want to pick and learn the commands. Experienced users might find that this book goes more into breadth than depth. 
+
+`Docker Up and Running by Karl Matthias, Sean P. Kane <https://www.goodreads.com/book/show/25752719-docker>`_ by `Karl Matthias <https://www.goodreads.com/author/show/8165924.Karl_Matthias>`_
+
+My rating: 3 of 5 stars
+
+I picked this book to gain some structured knowledge of docker.
+I had done a costly mistake with docker, and I realized, it was because my
+knowledge of docker was mostly by trial and error, reading the docs and trying
+it out.
+The book focusses on operational aspects of docker.
+This is perhaps aimed at the beginners of docker who want to pick and learn the
+commands.
+Experienced users might find that this book goes more into breadth than depth.
+
+
 

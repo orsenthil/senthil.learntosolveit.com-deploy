@@ -8,9 +8,20 @@
 .. type: text
 
 
-.. raw:: html
+.. image:: https://images.gr-assets.com/books/1418764566m/21929386.jpg
+   :alt: Lauren Ipsum: A Story about Computer Science and Other Improbable Things
+   :target: https://www.goodreads.com/book/show/21929386-lauren-ipsum
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/21929386-lauren-ipsum" style="float: left; padding-right: 20px"><img border="0" alt="Lauren Ipsum: A Story about Computer Science and Other Improbable Things" src="https://images.gr-assets.com/books/1418764566m/21929386.jpg" /></a><a href="https://www.goodreads.com/book/show/21929386-lauren-ipsum">Lauren Ipsum: A Story about Computer Science and Other Improbable Things</a> by <a href="https://www.goodreads.com/author/show/4982238.Carlos_Bueno">Carlos Bueno</a><br/>
+
+`Lauren Ipsum: A Story about Computer Science and Other Improbable Things <https://www.goodreads.com/book/show/21929386-lauren-ipsum>`_ by `Carlos Bueno <https://www.goodreads.com/author/show/4982238.Carlos_Bueno>`_
+
+
+
+
+
+
 
     My rating: <a href="https://www.goodreads.com/review/show/2248523959">5 of 5 stars</a><br /><br />
 

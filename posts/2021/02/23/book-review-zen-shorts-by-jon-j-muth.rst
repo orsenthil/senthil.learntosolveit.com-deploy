@@ -7,9 +7,17 @@
 .. description: 
 .. type: text
 
-.. raw:: html
+.. image:: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301850228l/140181._SX98_.jpg
+   :alt: Zen Shorts
+   :target: https://www.goodreads.com/book/show/140181.Zen_Shorts
+   :align: left
+   :width: 98px
 
-    <a href="https://www.goodreads.com/book/show/140181.Zen_Shorts" style="float: left; padding-right: 20px"><img border="0" alt="Zen Shorts" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301850228l/140181._SX98_.jpg" /></a><a href="https://www.goodreads.com/book/show/140181.Zen_Shorts">Zen Shorts</a> by <a href="https://www.goodreads.com/author/show/12733.Jon_J_Muth">Jon J. Muth</a><br/>
-    My rating: <a href="https://www.goodreads.com/review/show/3856421324">5 of 5 stars</a><br /><br />
-    Book that beautifully shares the essence of Zen. The art and story reaches the reader.
-    <br/>
+
+`Zen Shorts <https://www.goodreads.com/book/show/140181.Zen_Shorts>`_ by `Jon J. Muth <https://www.goodreads.com/author/show/12733.Jon_J_Muth>`_
+
+My rating: 5 of 5 stars
+
+Book that beautifully shares the essence of Zen.
+The art and story reaches the reader.
+
