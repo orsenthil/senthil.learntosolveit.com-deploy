@@ -7,24 +7,24 @@
 
 I finished reading this book on Monday. It is an excellent book that tells the
 stories of many physicists working during the prime era of physics. It starts
-with Rutherford's story about his rustic nature and how he used to work in his
+with {{% wikipedia article="Ernest Rutherford" %}}'s story about his rustic nature and how he used to work in his
 lab.
 
-I was amazed by the story of Max Planck, and I have decided to keep Max Planck
+I was amazed by the story of {{% wikipedia article="Max Planck" %}}, and I have decided to keep Max Planck
 as an example of being organized and disciplined in life. Max Planck was very
 organized, it seems. He used to come to the lab almost at the same time every
 day, and he had set aside half an hour daily for learning piano. His work style
-was appreciated by many. Einstein and others respected and loved him, addressing
+was appreciated by many. {{% wikipedia article="Albert Einstein" %}} and others respected and loved him, addressing
 him as "our Planck." Later, in Einstein's story, I learned that Einstein
 resigned from his post in Germany during the troubled Nazi era, knowing that it
 would fall upon Planck to make the decision of removing Einstein. Einstein
 understood that Planck would feel uncomfortable doing it. Einstein then moved to
-Princeton as the political situation in Germany worsened under Hitler.
+{{% wikipedia article="Princeton University" %}} as the political situation in Germany worsened under Hitler.
 
 One funny thing I can recall is that during one of the anti-Einstein meetings,
 Einstein was present in the audience and enjoying it.
 
-Niels Bohr is another scientist we come to know in detail. He, along with
+{{% wikipedia article="Niels Bohr" %}} is another scientist we come to know in detail. He, along with
 Einstein, was one of the primary characters in this book. Bohr had established
 an institute where many young physicists loved to study and conduct experiments.
 Physicists who had been there felt it was a golden era.

@@ -5,4 +5,4 @@
 .. category: Programming
 .. description: An amusing look at the Whitespace programming language, which uses only spaces, tabs, and linefeeds for its syntax.
 
-Stumbled upon this link about the Whitespace programming language. It's really funny!
+Stumbled upon this link about the {{% wikipedia article="Whitespace (programming language)" %}}. It's really funny!

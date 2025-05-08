@@ -9,7 +9,7 @@ I added [clause](https://foldoc.org/clause) to FOLDOC
 
 **logic**
 
-A logical formula in conjunctive normal form, which has the schema
+A logical formula in {{% wikipedia article="Conjunctive normal form" %}}, which has the schema
 
 `p1 ^ ...^ pm => q1 V ... V qn.`
 
@@ -25,4 +25,4 @@ implication.
 
 A part of a sentence (or programming language statement) that does not
 constitute a full sentence, e.g. an adjectival clause in human language or a
-WHERE clause in a SQL statement.
+WHERE clause in a {{% wikipedia article="SQL" %}} statement.

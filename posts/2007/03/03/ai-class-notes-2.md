@@ -67,7 +67,7 @@ Japanese tried to create machines that will help humans when they fail.
 
 
 
-* Fuzzy Logic in washing machines.
+* {{% wikipedia article="Fuzzy logic" %}} in washing machines.
 
 * Inacessible to humans? Machines with intelligence needed.
 
@@ -77,7 +77,7 @@ hitting the target.
 
 
 
-Virtual reality system help in designing the A.I system.
+{{% wikipedia article="Virtual reality" %}} system help in designing the A.I system.
 
 
 
@@ -121,7 +121,7 @@ Computational methods:
 
 - Number crunching.
 
-- Huristic programming.
+- {{% wikipedia article="Heuristic (computer science)" text="Heuristic programming" %}}.
 
 - Automatic programming.
 
@@ -197,7 +197,7 @@ Top-Down Approach
 
 		* Frames
 
-		* Semantic Nets.
+		* {{% wikipedia article="Semantic network" text="Semantic Nets" %}}.
 
 		* Knowledge Representation
 

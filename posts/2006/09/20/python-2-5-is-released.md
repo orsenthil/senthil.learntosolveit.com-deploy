@@ -5,4 +5,4 @@
 .. category: General
 .. description: Announcement of the release of Python 2.5 with download details.
 
-Python 2.5 (FINAL) is now available.
+{{% wikipedia article="Python (programming language)" %}} 2.5 (FINAL) is now available.

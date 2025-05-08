@@ -9,13 +9,13 @@ Yesterday night, the dinner at Suswaad hotel (Near Timex showroom in CMH Road)
 did not go well with me. Especially the oily parotha and ghee roast. My dad
 feels it could be pasta I had in the afternoon also which did not go well.
 
-At the karate class in the morning, was fighting non-digestion and inflexiblity
+At the {{% wikipedia article="Karate" %}} class in the morning, was fighting non-digestion and inflexiblity
 with the body and stomach. Constantly thinking to give up and go home. But
 carried on, held and streched with great difficultly till the end. Felt good at
 last that I did not give up. Got to be more careful with the food now.
 
 I have put on a lot of weight due to irregular practise of karate after shifting
-my home from Jeevan Bhima Nagar to C.V. Raman nagar. When at Jeevan Bhima Nagar,
+my home from Jeevan Bhima Nagar to {{% wikipedia article="CV Raman Nagar" %}}. When at Jeevan Bhima Nagar,
 I used to run daily to New Horizon School in the morning and on alternate days
 practise karate. But distance from C.V.Raman nagar to New Horizon School at
 100ft road is bit too far for running. Once I tried, just walked, but ended up

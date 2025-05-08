@@ -5,4 +5,4 @@
 .. category: General
 .. description: Celebrating Pi Day, a day dedicated to the mathematical constant π.
 
-Happy [PI](http://en.wikipedia.org/wiki/Pi_Day) day to you!
+Happy {{% wikipedia article="Pi Day" %}} to you!

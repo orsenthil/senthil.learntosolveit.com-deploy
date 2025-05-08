@@ -12,9 +12,9 @@
 
 ## CDs and Records
 
-* To keep track of CDs that need to be ripped to MP3s and which CDs should be ripped first, each record in the database will contain the title and artist of the CD, a rating of how much the user likes it, and a flag saying whether it has been ripped.
+* To keep track of CDs that need to be ripped to {{% wikipedia article="MP3" %}}s and which CDs should be ripped first, each record in the database will contain the title and artist of the CD, a rating of how much the user likes it, and a flag saying whether it has been ripped.
 * We need a way to represent a single database record.
-* User defined class - CLOS (Common Lisp Object System)
+* User defined class - {{% wikipedia article="Common Lisp Object System" %}}
 
 ```lisp
 CL-USER> (list 1 2 3)

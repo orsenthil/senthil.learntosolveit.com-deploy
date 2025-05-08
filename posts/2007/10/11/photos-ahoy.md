@@ -7,7 +7,7 @@
 
 First, Freed.in Conference.
 
-Next, the fun-filled Manali trip with friends.
+Next, the fun-filled {{% wikipedia article="Manali, Himachal Pradesh" %}} trip with friends.
 
 Then, hacking something at the Y! Hackday.
 
@@ -24,7 +24,7 @@ _swaroopch_
 ----
 
 
-Hi Swaroop, remember that guy who approached you for help with "Beautiful Soup" Library. Yes, that was I, another Python programmer who has found your "A Byte of Python" very useful and has been constantly recommending that to everyone who wants to get started with python.
+Hi Swaroop, remember that guy who approached you for help with "{{% wikipedia article="Beautiful Soup (HTML parser)" %}}" Library. Yes, that was I, another {{% wikipedia article="Python (programming language)" %}} programmer who has found your "A Byte of Python" very useful and has been constantly recommending that to everyone who wants to get started with python.
 
 
 

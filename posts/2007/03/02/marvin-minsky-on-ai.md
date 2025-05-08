@@ -31,25 +31,23 @@ Personally I don't think it's quantum computers that will be the breakthrough,
 but simply a different architecture for conventional computers. Let me go on a
 little tangent here.
 
-Now that we've reached the limits of the Von Neumann architecture
+Now that we've reached the limits of the {{% wikipedia article="Von Neumann architecture" %}}
 [wikipedia.org], we're starting to see a new wave of innovation in CPU design.
 The Cell is part of that, but also the stuff ATI [amd.com] and NVIDIA
 [nvidia.com] are doing is also very interesting. Instead of one monolithic
 processor connected to a giant memory through a tiny bottleneck, processors of
 the future will be a grid of processing elements interleaved with embedded
-memory in a network structure. Almost like a Beowulf cluster on a chip.
+memory in a network structure. Almost like a {{% wikipedia article="Beowulf cluster" %}} on a chip.
 
 People are worried about how conventional programs will scale to these new
 architectures, but I believe they won't have to. Code monkeys won't be writing
 code to spawn thousands of cooperating threads to run the logic of a C++
 application faster. Instead, PhDs will write specialized libraries to leverage
 all that parallel processing power for specific algorithms. You'll have a
-raytracing library, an image processing library, an FFT library, etc. These
+raytracing library, an image processing library, an {{% wikipedia article="Fast Fourier transform" text="FFT" %}} library, etc. These
 specialized libraries will have no problem sponging up all the excess computing
 resources, while your traditional software continues to run on just two or three
 traditional cores.
-
-
 
 Back on the subject of AI, my theory is that these highly parallel architectures
 will be much more suited to simulating the highly parallel human brain. They

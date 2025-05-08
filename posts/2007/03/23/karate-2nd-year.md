@@ -9,3 +9,5 @@ As I had recorded in [my old blog](http://orsenthil.blogspot.com/2005/03/kihon-k
 started learning [Karate](http://en.wikipedia.org/wiki/Karate), two years ago
 starting 22nd of March. While I am enjoying everybit of it, I have lot of ground
 to cover.
+
+The three main components of karate training are {{% wikipedia article="Kihon" %}}, {{% wikipedia article="Kumite" %}}, and {{% wikipedia article="Kata" %}}.

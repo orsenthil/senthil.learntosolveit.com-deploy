@@ -8,7 +8,7 @@
 
 > "Concern for man himself and his safety must always form the chief interest in
 all technical endeavors. Never forget this in the midst of your diagrams and
-equations."  — Albert Einstein
+equations."  — {{% wikipedia article="Albert Einstein" %}}
 
 I stumbled upon detailed information about this incident on December 3, 2004,
 through a {{% wikipedia article="Bhopal disaster" %}}, which inspired me to read
@@ -24,7 +24,7 @@ Ratan, like many others, continuously faces hardships in his village. Seeking a
 better life, he moves to Bhopal, a bustling city, and secures a job as a worker
 constructing the Bhopal Railway Station.
 
-Union Carbide develops Sevin pesticide, which promises to improve crop
+{{% wikipedia article="Union Carbide" %}} develops Sevin pesticide, which promises to improve crop
 productivity, and plans to establish a factory in Bhopal, India. Eduardo Munoz,
 the chief architect, questions the necessity of such a factory in India, given
 the country's unique challenges. However, Union Carbide's board of directors

@@ -5,6 +5,6 @@
 .. category: Programming
 .. description: A humorous quote about Python from Usenet posting by Mark Jackson
 
-Python - why settle for snake oil when you can have the whole snake? —From Usenet posting by Mark Jackson, June 1998
+{{% wikipedia article="Python (programming language)" %}} - why settle for snake oil when you can have the whole snake? —From {{% wikipedia article="Usenet" %}} posting by Mark Jackson, June 1998
 
 Mentioned at the Python Development page. Its a good fun! :-)

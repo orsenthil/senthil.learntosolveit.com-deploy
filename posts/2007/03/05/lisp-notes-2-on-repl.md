@@ -9,7 +9,7 @@ description: Notes on Common Lisp's REPL (Read-Eval-Print Loop) environment and 
 
 Subsequent to [Lisp Notes 1](http://phoe6.livejournal.com/46112.html), these are my notes for the Chapter 2 "Lather, Rinse, Repeat: A Tour of the REPL" in the [Practical Common Lisp Book](http://www.gigamonkeys.com/book/index.html)
 
-* Lisp provides an interactive read-eval-print loop.
+* Lisp provides an interactive {{% wikipedia article="Read–eval–print loop" text="read-eval-print loop" %}}.
 
 * Lisp can be used in Automated Theorem proving, planning and scheduling and computer vision. Large scale battlefield simulation, automated planning and natural language interfaces.
 
@@ -104,7 +104,7 @@ NIL
 
 * `C-x C-f` type the file name with extension as .lisp or .cl
 
-* Inside the SLIME mode, `C-c C-q` invokes the command `slime-close-parens-at-point` which will insert as many closing parenthesis as necessary to match all the open parenthesis.
+* Inside the {{% wikipedia article="SLIME" %}} mode, `C-c C-q` invokes the command `slime-close-parens-at-point` which will insert as many closing parenthesis as necessary to match all the open parenthesis.
 
 * To get the source file to lisp environment:
      * `C-c C-c` (slime-compile-defun)
@@ -166,7 +166,7 @@ T
 ```
 
 T- means loaded correctly.
-FASL - Fast Load file
+{{% wikipedia article="FASL" %}} - Fast Load file
 
 ```lisp
 (load(compile-file("hello.lisp"))

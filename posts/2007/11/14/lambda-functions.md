@@ -5,7 +5,7 @@
 .. category: Python
 .. description: Examples of lambda function syntax and usage in Python
 
-I often forget the syntax and usage of lambda functions, the following examples should help as a reminder.
+I often forget the syntax and usage of {{% wikipedia article="Lambda calculus" text="lambda functions" %}}, the following examples should help as a reminder.
 
 ```python
 >>> def function(x):

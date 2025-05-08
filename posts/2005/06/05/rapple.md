@@ -5,8 +5,8 @@
 .. category: Programming
 .. description: A lightweight XML-based transformation tool for converting authored web content into styled web content.
 
-[Rapple](http://sourceforge.net/projects/rapple/) is a lightweight XML-based
-transformation tool written in C. It builds upon Expat, TidyLib, and XSLT to
+[Rapple](http://sourceforge.net/projects/rapple/) is a lightweight {{% wikipedia article="XML" %}}-based
+transformation tool written in C. It builds upon {{% wikipedia article="Expat (XML)" %}}, {{% wikipedia article="HTML Tidy" %}}, and {{% wikipedia article="XSLT" %}} to
 transform authored web content (including word processor-generated HTML) into
 styled web content suitable for publication.
 

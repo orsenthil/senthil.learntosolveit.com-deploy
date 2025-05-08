@@ -9,7 +9,7 @@ My friend and I are participating in the
 [50bookchallenge](http://community.livejournal.com/50bookchallenge/profile) and
 I have started enjoying reading one book after the other.
 
-After Men who made new physics, I started reading Shashi Tharoor's ["5 Dollar
+After Men who made new physics, I started reading {{% wikipedia article="Shashi Tharoor" %}}'s ["5 Dollar
 Smile"](http://www.shashitharoor.com/books/five-dollar/fivedollarsmile.htm).
 This is a compilation of early writings of Shashi Tharoor in his adolescence.
 So, you might find him attracted towards pretty girls, interest in sex topics
@@ -19,7 +19,7 @@ been along with friends teasing, having fun, understanding junta and yet a
 leader, not the all prefect high standards that comes in book definitions.
 
 The last one act play of a "Life of a Kutta" was amazing, it's set in the period
-of India Emergency when forced sterilization was done on males. This presents
+of {{% wikipedia article="The Emergency (India)" %}} when forced sterilization was done on males. This presents
 the time from the eyes of a dog who is converted to a man.
 
 ![5 Dollar Smile Book
@@ -31,7 +31,7 @@ story of a boy with a charity. The stories are not conclusive, but many of them
 are thought provoking and sometimes reflecting with real world incidents as they
 happen and pass by.
 
-Next book I read was Sudha Murthy's ["How I taught my Grandma and Other stories."](http://www.hinduonnet.com/thehindu/mp/2004/05/20/stories/2004052000240100.htm)
+Next book I read was {{% wikipedia article="Sudha Murty" %}}'s ["How I taught my Grandma and Other stories."](http://www.hinduonnet.com/thehindu/mp/2004/05/20/stories/2004052000240100.htm)
 
 ![Grandma Book Cover](http://www.hinduonnet.com/thehindu/mp/2004/05/20/images/2004052000240101.jpg)
 
@@ -49,7 +49,7 @@ Another thing imprinted in mind is, she learnt from a charity work of not
 delaying things when helping people as help at the right time is proper and
 delay with it is not good.
 
-Her story about meetings with JRD Tata and APJ Kalam was very inspiring.
+Her story about meetings with {{% wikipedia article="J. R. D. Tata" %}} and {{% wikipedia article="A. P. J. Abdul Kalam" %}} was very inspiring.
 
 ----
 

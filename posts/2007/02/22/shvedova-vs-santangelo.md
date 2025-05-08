@@ -5,15 +5,15 @@
 .. category: Sports
 .. description: A recount of the WTA Women's championship finals in Bangalore where underdog Shvedova defeated defending champion Santangelo.
 
-Last weekend, I went to watch the finals of the WTA Womens championship held at
+Last weekend, I went to watch the finals of the {{% wikipedia article="Women's Tennis Association" text="WTA" %}} Womens championship held at
 Bangalore. Doubles match between chinese teipei pair and russian/chinese-teipei
 pair was ok. The Russian (Kurd) did not play very serious and from the body
 language it looked she was okay with losing.
 
-The best match was Shvedova vs Santangelo.
+The best match was {{% wikipedia article="Yaroslava Shvedova" %}} vs {{% wikipedia article="Mara Santangelo" %}}.
 
 
-Santangelo, the defending champion had defeated India's heart throb Sania to
+Santangelo, the defending champion had defeated India's heart throb {{% wikipedia article="Sania Mirza" %}} to
 come to finals.
 
 Santangelo is a 16th ranked player from Italy, while Shvedova who got an entry

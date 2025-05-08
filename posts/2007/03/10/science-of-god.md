@@ -5,7 +5,7 @@
 .. category: Philosophy
 .. description: Exploring scientific theories about why humans are genetically predisposed to believe in God and how religious foundation has been essential for societies throughout history.
 
-Some time back, there was a story in Slashdot science section which dealt with
+Some time back, there was a story in {{% wikipedia article="Slashdot" %}} science section which dealt with
 "Human beings believing in God was necessary for adaptation, survival and
 reproduction". This was a study of genetic theory about how humans came to
 believe in God. One of the scientists got curious at the fact (which surprised
@@ -15,7 +15,7 @@ raison d'être."**
 
 The article details that humans are [hardwired to believe in god](http://www.nytimes.com/2007/03/04/magazine/04evolution.t.html?pagewanted=1&ei=5088&en=a43cfb7b24423cc6&ex=1330664400&partner=rssnyt&emc=rss),
 it has supported the survival of the race and various different theories of
-existence and normal human understanding. It also gives account of how atheists
+existence and normal human understanding. It also gives account of how {{% wikipedia article="Atheism" text="atheists" %}}
 view the fact and they have to work hard to get the details rather than just
 leaving it unexplained.
 

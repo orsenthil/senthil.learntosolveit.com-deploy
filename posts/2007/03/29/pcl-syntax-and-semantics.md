@@ -10,8 +10,8 @@
 ## What's with All the Parentheses?
 
 * Extensive use of parentheses and prefix notation.
-* When John McCarthy first invented Lisp, he intended to implement a more Algol-like syntax, which he called M-expressions.
-* The project of defining M-expressions precisely and compiling them or at least translating them into S-expressions was neither finalized nor explicitly abandoned. It just receded into the indefinite future, and a new generation of programmers appeared who preferred [S-expressions] to any FORTRAN-like or ALGOL-like notation that could be devised.
+* When John McCarthy first invented Lisp, he intended to implement a more {{% wikipedia article="ALGOL" %}}-like syntax, which he called M-expressions.
+* The project of defining M-expressions precisely and compiling them or at least translating them into S-expressions was neither finalized nor explicitly abandoned. It just receded into the indefinite future, and a new generation of programmers appeared who preferred [S-expressions] to any {{% wikipedia article="FORTRAN" %}}-like or ALGOL-like notation that could be devised.
 
 ## Breaking Open the Black Box
 
@@ -19,7 +19,7 @@
 * Language processor is divided into three subsystems:
   1. A lexical analyzer breaks up the stream of characters into tokens.
   2. And feeds them to a parser that builds a tree representing the expressions in the program, according to the language's grammar.
-  3. This tree--called an abstract syntax tree--is then fed to an evaluator that either interprets it directly or compiles it into some other language such as machine code.
+  3. This tree--called an {{% wikipedia article="Abstract syntax tree" %}}--is then fed to an evaluator that either interprets it directly or compiles it into some other language such as machine code.
 
 * Common Lisp defines two black boxes, one that translates text into Lisp objects and another that implements the semantics of the language in terms of those objects. The first box is called the reader, and the second is called the evaluator.
 * Each black box defines one level of syntax. The reader defines how strings of characters can be translated into Lisp objects called s-expressions.

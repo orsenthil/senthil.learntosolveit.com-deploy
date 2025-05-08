@@ -82,9 +82,9 @@ slept a little at home and thought, "If I don't enjoy today (go out today), then
 it will be a tough week ahead!" So, I called Parthi. We had planned to go to
 Giri's home this Sunday but missed it. Instead, we went to MG Road, watched
 Shark Tales, had popcorn, a burger, and two coffees in between. After the movie,
-we went to Amoeba, tried Dance Dance Revolution, and watched the bowling there
+we went to Amoeba, tried {{% wikipedia article="Dance Dance Revolution" %}}, and watched the bowling there
 for some time. We then visited Food World and had coffee again, this time at
-Barista :). We spent some time talking, and it was already 10 PM by the time I
+{{% wikipedia article="Barista (company)" %}} :). We spent some time talking, and it was already 10 PM by the time I
 returned home.
 
 

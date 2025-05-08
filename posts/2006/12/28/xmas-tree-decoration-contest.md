@@ -5,5 +5,5 @@
 .. category: General
 .. description: Participated in an intersegment Xmas tree decoration contest and won 3rd prize.
 
-There was an Intersegment Level Xmas Tree Decoration Contest and I participated
+There was an Intersegment Level {{% wikipedia article="Christmas tree" text="Xmas Tree" %}} Decoration Contest and I participated
 in that. Our Decoration won the 3rd prize. It was fun!

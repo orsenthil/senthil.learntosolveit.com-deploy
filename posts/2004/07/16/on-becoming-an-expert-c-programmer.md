@@ -7,14 +7,14 @@
 .. categories: Programming
 .. wp-status: publish
 
-`Tell me what I should do in order to keep strong feelings towards C.`
+`Tell me what I should do in order to keep strong feelings towards {{% wikipedia article="C (programming language)" %}}.`
 
 Permit me to babble out a few random thoughts ...
 
 Write programs for other people.
 
 Where possible, openly publish your code, perhaps on your web site. The
-http://freshmeat.net/ site is a good place to announce new code. (It is a
+{{% wikipedia article="Freshmeat" %}} site is a good place to announce new code. (It is a
 strange web site name, but they are legit and THE place to announce new code).
 Support the code that you publish.  Start small and work your way up ... Some of
 my more popular code is actually small code fragments that are used by others

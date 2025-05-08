@@ -5,4 +5,4 @@
 .. category: General
 .. description: A fun outing to watch the movie Happy Feet with the Recreation Club of the Spastics Society School.
 
-From the Recreation Club of the Spastics Society School ([Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org)), we are heading to **Happy Feet** this morning at Inox. I hope we have a great time.
+From the Recreation Club of the Spastics Society School ([Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org)), we are heading to **{{% wikipedia article="Happy Feet" %}}** this morning at Inox. I hope we have a great time.

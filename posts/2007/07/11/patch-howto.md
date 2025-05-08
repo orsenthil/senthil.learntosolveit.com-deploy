@@ -5,6 +5,6 @@
 .. category: Programming
 .. description: How to create and apply patches using diff and patch commands
 
-1) diff -ruP original modified > patch
+1) {{% wikipedia article="Diff" %}} -ruP original modified > patch
 
-2) patch -p0 < patch
+2) {{% wikipedia article="Patch (Unix)" %}} -p0 < patch

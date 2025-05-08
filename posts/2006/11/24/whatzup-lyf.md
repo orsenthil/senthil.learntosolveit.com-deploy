@@ -5,14 +5,14 @@
 .. category: General
 .. description: Reflections on posting from Vim, a movie review of The Departed, and experiences at FOSS.IN.
 
-I was trying to post entries directly from Vim, but the text is not displaying
+I was trying to post entries directly from {{% wikipedia article="Vim (text editor)" text="Vim" %}}, but the text is not displaying
 properly. I need to figure out the problem and fix it. It's been pending for
 some days now. Once it's resolved, it will be so comfortable to post to
-LiveJournal directly from Vim.
+{{% wikipedia article="LiveJournal" %}} directly from Vim.
 
 ## Reviews
 
-I watched **The Departed**, and I liked it. It's a very good movie with a good
+I watched **{{% wikipedia article="The Departed" %}}**, and I liked it. It's a very good movie with a good
 story and excellent direction. It might keep you on the edge of your seat while
 watching. The actors Matt Damon, Leonardo DiCaprio, and others have done an
 outstanding job. Well, you're going to hear the 'F' word at least 100 times in

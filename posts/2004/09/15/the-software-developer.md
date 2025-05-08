@@ -9,8 +9,8 @@
 
 <html><body><a href="http://www.edge.org/documents/digerati/Gates.html"><img src="http://www.edge.org/digerati/gates/images/gates.gif"></a>
 
-Bill Gates and his company get a lot of people at Sun Microsystems up in the
-morning. Scott McNealy
+{{% wikipedia article="Bill Gates" %}} and his company get a lot of people at {{% wikipedia article="Sun Microsystems" %}} up in the
+morning. {{% wikipedia article="Scott McNealy" %}}
 
 
 I am not against Bill Gates the man, but he's playing a historical role that
@@ -23,7 +23,7 @@ situation. In twenty or fifty years, when most human affairs, intimate and
 grand, are conducted via computer operating systems, Microsoft could become the
 universal gatekeeper of thought. Microsoft has so far not been malevolent when
 it has exercised editorial power. But absolute power corrupts absolutely, and
-Microsoft could well end up with a new type of absolute power.Jaron Lanier
+Microsoft could well end up with a new type of absolute power.{{% wikipedia article="Jaron Lanier" %}}
 
 
 Bill Gates is a prime example of the power of a smart person being focused on

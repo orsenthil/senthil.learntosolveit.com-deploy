@@ -7,6 +7,6 @@
 
 ![Eclipsed Moon](http://antwrp.gsfc.nasa.gov/apod/image/0703/tle_03032007_60_schedler720.jpg)
 
-I [missed watching](http://bluesmoon.livejournal.com/254188.html?thread=1829356#t1829356) this phenomenon on March 4 morning. I was in deep sleep.
+I [missed watching](http://bluesmoon.livejournal.com/254188.html?thread=1829356#t1829356) this {{% wikipedia article="Lunar eclipse" %}} on March 4 morning. I was in deep sleep.
 
-Picture from [Astronomy Picture of the Day](http://antwrp.gsfc.nasa.gov/apod/ap070308.html).
+Picture from [{{% wikipedia article="Astronomy Picture of the Day" %}}](http://antwrp.gsfc.nasa.gov/apod/ap070308.html).

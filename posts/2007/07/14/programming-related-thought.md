@@ -5,7 +5,7 @@
 .. category: Programming
 .. description: Reflection on Mark Pilgrim's advice about completing software features properly versus just making them work
 
-While reading through Mark Pilgrim's Dive into Python, stumbled upon this
+While reading through {{% wikipedia article="Mark Pilgrim (software developer)" %}}'s {{% wikipedia article="Dive Into Python" %}}, stumbled upon this
 interesting thought, wherein he says that, when you 'plan' to develop a full
 -fledged feature for a software which will help in certain tasks, and if you
 end up coding a small version, make it just work rather than a completed polished 'as-per-plan' thing, then you are not only being inefficient, but you are

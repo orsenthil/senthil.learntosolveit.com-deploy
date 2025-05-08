@@ -49,16 +49,16 @@ int divideby3(int aNumber)
 
 ```
 
-Never have explored the capablities of stdlib. Infact, with C Programming
+Never have explored the capablities of {{% wikipedia article="C standard library" text="stdlib" %}}. Infact, with C Programming
 Language out of touch for so many months, I was thinking this program will
 seriously fail, thinking kind of how come div_t datatype, d.quote
-(object.property ?) etc. gcc will crib saying dont using c++. But it worked
+(object.property ?) etc. {{% wikipedia article="GNU Compiler Collection" text="gcc" %}} will crib saying dont using c++. But it worked
 perfectly fine.
 
 ----
 
 
-umm, structs are part of standard C.
+umm, {{% wikipedia article="Struct (C programming language)" text="structs" %}} are part of standard C.
 
 
 

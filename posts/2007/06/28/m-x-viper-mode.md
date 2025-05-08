@@ -5,7 +5,7 @@
 .. category: Tools
 .. description: Using viper-mode to enable vim-like editing capabilities in Emacs
 
-This is a emacs, viper mode. If vim fans are threathened and forced to user emacs, then they might find this M-x viper-mode as a consolation somewhat akin to a family photo a prisoner has in jail. He will be missing his family for sure though.
+This is a {{% wikipedia article="Emacs" %}}, viper mode. If {{% wikipedia article="Vim (text editor)" text="vim" %}} fans are threathened and forced to user emacs, then they might find this M-x viper-mode as a consolation somewhat akin to a family photo a prisoner has in jail. He will be missing his family for sure though.
 
 :-)
 

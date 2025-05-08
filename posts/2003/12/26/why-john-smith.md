@@ -32,3 +32,6 @@ _I have always assumed that it was because Smith was the most common "English"
 surname and John was the most common given name. Consequently, the example was
 "real" but could not be associated with an individual._
 
+The Brit who established the first permanent British colony in North America.
+(1607, Jamestown, Virginia). An explorer, writer, soldier - {{% wikipedia article="John Smith (explorer)" %}}.
+

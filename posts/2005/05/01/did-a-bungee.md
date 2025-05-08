@@ -5,7 +5,7 @@
 .. category: Adventure
 .. description: A thrilling account of my first bungee jump from 140 meters.
 
-I did a bungee jump today with Raj.
+I did a {{% wikipedia article="Bungee jumping" %}} today with Raj.
 
 The first free fall from 140 meters above was exhilarating. As I ascended, I
 looked at the surroundings—the night lights, the traffic, the roads, and the

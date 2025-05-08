@@ -5,7 +5,7 @@
 .. category: General
 .. description: Participation of Spastics Society of Karnataka in the Jack Kilby Quiz conducted by Texas Instruments.
 
-Avinash and Karthick from [Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org) participated in the Jack Kilby Quiz conducted by Texas Instruments.
+Avinash and Karthick from [Spastics Society of Karnataka](http://www.spasticssocietyofkarnataka.org) participated in the {{% wikipedia article="Jack Kilby" %}} Quiz conducted by {{% wikipedia article="Texas Instruments" %}}.
 
 
 

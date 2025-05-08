@@ -5,10 +5,10 @@
 .. category: General
 .. description: An exploration of Mahatma Gandhi's letters to Adolf Hitler, emphasizing non-violence and universal friendship during a tumultuous historical period.
 
-I had heard from my friend Ashok that Mahatma Gandhi wrote a letter to Adolf
-Hitler, asking him to stop the war and teaching him about Ahimsa. I stumbled
-upon a link discussing that letter in the Wikipedia article on [Mahatma
-Gandhi](http://en.wikipedia.org/wiki/Mahatma_Gandhi).
+I had heard from my friend Ashok that {{% wikipedia article="Mahatma Gandhi" %}} wrote a letter to {{% wikipedia article="Adolf Hitler" %}},
+asking him to stop the war and teaching him about {{% wikipedia article="Ahimsa" %}}. I stumbled
+upon a link discussing that letter in the Wikipedia article on Mahatma
+Gandhi.
 
 Here is an article that discusses [Gandhi's letters to Hitler](http://koenraadelst.bharatvani.org/articles/fascism/gandhihitler.html).
 We learn that Gandhi addressed Hitler as his friend and emphasized that it was
@@ -24,11 +24,11 @@ article was particularly impressive.
 To quote from the article itself:
 
 > It is not certain that this would have worked, but then Gandhism is not
-synonymous with effectiveness. Gandhi’s methods were successful in dissuading
-the British from holding on to India, not in dissuading the Muslim League from
+synonymous with effectiveness. Gandhi's methods were successful in dissuading
+the British from holding on to India, not in dissuading the {{% wikipedia article="All-India Muslim League" text="Muslim League" %}} from
 partitioning India. From that angle, it simply remains an open question, an
 untried experiment, whether the Gandhian approach could have succeeded in
-preventing World War 2. By contrast, there simply cannot be two opinions on
+preventing {{% wikipedia article="World War II" %}}. By contrast, there simply cannot be two opinions on
 whether that approach of non-violent dissuasion would have been Gandhian. The
 Mahatma would not have been the Mahatma if he had preferred any other method.
 Our judgment of his letters to Hitler must be the same as our judgment of

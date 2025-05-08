@@ -5,4 +5,4 @@
 .. category: Programming
 .. description: Exploring the similarities between coding and martial arts discipline
 
-Coding and Karate are similar. They both require enormous amount of self-discipline.
+Coding and {{% wikipedia article="Karate" %}} are similar. They both require enormous amount of self-discipline, which is a key aspect of {{% wikipedia article="Martial arts" %}} training.

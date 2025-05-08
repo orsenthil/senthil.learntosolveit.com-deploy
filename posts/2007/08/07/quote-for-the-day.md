@@ -5,8 +5,8 @@
 .. category: Philosophy
 .. description: A famous quote from Descartes about common sense.
 
-Common sense is the most evenly distributed quantity in the world.
+{{% wikipedia article="Common sense" %}} is the most evenly distributed quantity in the world.
 
 Everyone thinks he has enough.
 
--- Descartes, 1637
+-- {{% wikipedia article="René Descartes" %}}, 1637

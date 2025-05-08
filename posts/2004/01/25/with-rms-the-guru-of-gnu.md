@@ -6,8 +6,8 @@
 .. description: A detailed account of a conversation with Richard M Stallman, discussing the Free Software Movement, GNU, and his philosophy on software freedom.
 
 In the early and initial days (when open source, free software, and Linux were
-the same for me), I used to think of Richard M Stallman, known as RMS, in
-comparison with Mahatma Gandhi. One math professor there (at Cochin University
+the same for me), I used to think of {{% wikipedia article="Richard Stallman" %}}, known as RMS, in
+comparison with {{% wikipedia article="Mahatma Gandhi" %}}. One math professor there (at Cochin University
 of Science and Technology) gave a brief introduction and said that he feels RMS
 is comparable to Mahatma Gandhi.
 
@@ -16,7 +16,7 @@ I and my movement cannot be compared with Gandhi's because I do not have the
 courage that Gandhi had {I clapped here}, and the free software movement is not
 yet as successful as Gandhi's movement was."
 
-Then it started with an explanation of the Free Software Movement and the GNU
+Then it started with an explanation of the Free Software Movement and the {{% wikipedia article="GNU" %}}
 operating system. There was a lot of hackerish humor in between. For example:
 RMS said, "If you know how to swim, and you see a person drowning in a pool, and
 it is not Bush, wouldn't you save him?" This was in reference to helping your
@@ -33,12 +33,12 @@ The Q/A session followed. I had noted a few points to be asked/discussed:
 * About Don Hopkins.
 * About the MIT lab allowing RMS to program and start GNU after he had quit MIT.
 * About the teaching profession instead of being a waiter (as he mentioned in his speech).
-* Thanks for GNU Emacs.
-* About Donald Knuth and his perception of computer science, which is different.
-* Why not GNU HURD? Why is it still not happening?
+* Thanks for {{% wikipedia article="GNU Emacs" %}}.
+* About {{% wikipedia article="Donald Knuth" %}} and his perception of computer science, which is different.
+* Why not {{% wikipedia article="GNU Hurd" %}}? Why is it still not happening?
 * Argentina and Germany, where lots of politics have crept into software.
 * Free software having a free market.
-* BASH - the best shell.
+* {{% wikipedia article="Bash (Unix shell)" %}} - the best shell.
 * The GNU C library was developed by a 17-year-old - RMS didn't name him in the speech; I need to find links on it.
 * Which search engine do you use?
 * The fun of computer science is lost in the preaching and politics of free software. - Read this thought, and so on.

@@ -11,4 +11,4 @@
 ```bash
 find . -name "*.py" -print | xargs ptags.py
 ```
-I was previously using various inefficient methods to achieve this.
+I was previously using various inefficient methods to achieve this. The `ptags.py` script is similar to {{% wikipedia article="Ctags" %}} but specifically designed for Python code.

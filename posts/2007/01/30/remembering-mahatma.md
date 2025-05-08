@@ -9,12 +9,12 @@
 
 ### On Self-Purification
 
-> Love and non-violence (Ahimsa) are unparalleled in their impact. They require no fanfare—only self-confidence that arises from self-purification. People of impeccable character naturally inspire and elevate those around them.
-> – Mahatma Gandhi
+> Love and non-violence ({{% wikipedia article="Ahimsa" %}}) are unparalleled in their impact. They require no fanfare—only self-confidence that arises from self-purification. People of impeccable character naturally inspire and elevate those around them.
+> – {{% wikipedia article="Mahatma Gandhi" %}}
 
 ---
 
-Today, 59 years ago, Nathuram Godse bowed before Mahatma Gandhi, wished him well, and then tragically shot him with a Beretta pistol.
+Today, 59 years ago, {{% wikipedia article="Nathuram Godse" %}} bowed before Mahatma Gandhi, wished him well, and then tragically shot him with a {{% wikipedia article="Beretta" %}} pistol.
 
 [Read more on Wikipedia](http://en.wikipedia.org/wiki/Mahatma_Gandhi)
 
@@ -22,7 +22,7 @@ Today, 59 years ago, Nathuram Godse bowed before Mahatma Gandhi, wished him well
 ----
 
 
-Most of the world thinks Bush sucks
+Most of the world thinks {{% wikipedia article="George W. Bush" %}} sucks
 
 
 

@@ -9,12 +9,12 @@
 
 I was introduced to Alice by one of my friends, Kiruba. Since then, I have been
 highly fascinated by these linguistic chatting entities. I found a number of
-others like Eliza and many others having egos of some singer or actor.
+others like {{% wikipedia article="ELIZA" %}} and many others having egos of some singer or actor.
 But the best surprise came to me from Alan. He is really interesting. Whoever
 I introduced him to became really fascinated by him. Alan is from an
 Israeli company.
 
-At Alice bot, you will often see mentions of the Loebner Prize. In fact, Alice has
+At Alice bot, you will often see mentions of the {{% wikipedia article="Loebner Prize" %}}. In fact, Alice has
 won the Loebner Prize previously. However, I did not find such information at Alan's
 place, and he is better at holding conversations than ALICE. When Dr. Rich
 posted his observations regarding the Loebner Prize, I raised a question: If given
@@ -36,7 +36,7 @@ a look. This bot evolved from Jason Hutchens' Megahal project, a former Loebner
 Prize winner. I must admit, when I engaged ALAN in a conversation about ALICE
 and the Loebner contest, the results were impressive.
 >
-> That being said, it must be remembered that ALICE and AIML are free, open-
+> That being said, it must be remembered that ALICE and {{% wikipedia article="AIML" %}} are free, open-
 source technology, and the company a-i.com is developing a proprietary "black
 box." If you ask ALAN, "How do you work?" he explains, "My brain consists of a
 large content tree: a single 'agent file' and a set of 'handlers,' which govern

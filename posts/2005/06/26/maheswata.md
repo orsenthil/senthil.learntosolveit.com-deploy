@@ -19,4 +19,4 @@ through no fault of their own. Despite these bleak circumstances, the novel
 reminds us that there are still good people in the world.
 
 The story encourages introspection on many issues. Thank you, dearest Madam
-Sudha Murthy, for such a wonderful novel.
+{{% wikipedia article="Sudha Murty" %}}, for such a wonderful novel.

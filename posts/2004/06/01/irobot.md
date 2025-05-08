@@ -9,7 +9,7 @@ To you, a robot is just a robot. But you haven't worked with them. You don't
 know them. They're a cleaner, better breed than we are.  When Earth is ruled by
 master-machines... when robots are more human than humankind. - Dr.Susan Calvin.
 
-I was spellbound by the genius of Asimov, when I read his I, Robot and especially
+I was spellbound by the genius of {{% wikipedia article="Isaac Asimov" %}}, when I read his {{% wikipedia article="I, Robot" %}} and especially
 fascinated by his Three Laws of Robotics
 
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.

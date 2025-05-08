@@ -5,9 +5,9 @@
 .. category: Culture
 .. description: Insights on Lunar New Year celebrations across Asia and its significance in the Year of the Pig
 
-<html><body><p>I knew it by "Chinese New Year" only and this year is "the year of Pig" with increase in birthrate projected in China as they believe children bring prosperity in this year.
+<html><body><p>I knew it by "{{% wikipedia article="Chinese New Year" %}}" only and this year is "{{% wikipedia article="Year of the Pig" %}}" with increase in birthrate projected in China as they believe children bring prosperity in this year.
 
-Found googles doodle linked to "Lunar New Year" instead of "Chinese New year". Globalization or lessons learnt for Chinese market? :-)
+Found googles doodle linked to "{{% wikipedia article="Lunar New Year" %}}" instead of "Chinese New year". Globalization or lessons learnt for Chinese market? :-)
 
 
 

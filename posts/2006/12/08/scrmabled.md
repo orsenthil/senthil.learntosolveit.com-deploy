@@ -16,7 +16,7 @@ Inrpeisd from jwz scrmable: http://www.jwz.org/hacks/scrmable.pl
 Comments
 
 
-lisp
+{{% wikipedia article="Lisp (programming language)" text="lisp" %}}
 where r u on the lisp challenge?
 
 
@@ -26,7 +26,7 @@ Not started yet. Left after the first reading. Will get back and gain speed from
 ```
 Re: lisp
 
-CLIPS&gt; (print "hello,World")
+{{% wikipedia article="CLIPS" %}}&gt; (print "hello,World")
 
 [EXPRNPSR3] Missing function declaration for print.
 
@@ -48,7 +48,7 @@ Re: lisp
 :-)
 ur real conceptual difficulty will lie in macro. lemme know what u think when u get there.
 
-Clerks II
+{{% wikipedia article="Clerks II" %}}
 dude u shud really 'Clerks II' asap. i know u love lord of the rings and i just
 hate it. i like star wars. there is a beautiful LoR vs SW srguement in Clearks
 II that i really enjoyed. u shud see the movie.

@@ -7,9 +7,9 @@
 
 # The Right to Read
 
-**By [Richard Stallman](http://www.stallman.org)**
+**By [{{% wikipedia article="Richard Stallman" %}}](http://www.stallman.org)**
 
-*This article appeared in the February 1997 issue of **Communications of the *ACM** (Volume 40, Number 2).*
+*This article appeared in the February 1997 issue of **{{% wikipedia article="Communications of the ACM" %}}** (Volume 40, Number 2).*
 
 ---
 

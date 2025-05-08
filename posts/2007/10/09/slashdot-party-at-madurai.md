@@ -11,11 +11,11 @@ http://slashdot.org/anniversary.pl?view_id=583
 
 {H,F}ello /. ers!
 
-I will be at my home town, Madurai, on 13th October and I was looking for Slashdot party at Madurai and could not find one, so I decided to host one myself and invite Madurai geeks for the meet.
+I will be at my home town, Madurai, on 13th October and I was looking for {{% wikipedia article="Slashdot" %}} party at Madurai and could not find one, so I decided to host one myself and invite Madurai geeks for the meet.
 
 **Location:**
 
-Anna Nagar Cafe Coffee Day.
+Anna Nagar {{% wikipedia article="Cafe Coffee Day" %}}.
 
 **Timings:**
 
@@ -36,7 +36,7 @@ Thank you.
 
 **Update**
 
-I convinced my sister and my cousin to come along for a coffee and we all went there. btw both of them can be considered geeks as I have seen my sister twidling with computer a lot before she decided to pursue her Dental Studies, and my cousin aged 11 was playing with Nintendo DS lite in full swing. We had good time and had a cake cheering slashdot. :)
+I convinced my sister and my cousin to come along for a coffee and we all went there. btw both of them can be considered geeks as I have seen my sister twidling with computer a lot before she decided to pursue her Dental Studies, and my cousin aged 11 was playing with {{% wikipedia article="Nintendo DS" %}} lite in full swing. We had good time and had a cake cheering slashdot. :)
 
 
 ----

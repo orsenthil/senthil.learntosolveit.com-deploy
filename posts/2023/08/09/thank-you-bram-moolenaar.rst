@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-Bram is the creator of `vim` software used by developers throughout the world.
+Bram is the creator of {{% wikipedia article="Vim (text editor)" %}} software used by developers throughout the world.
 He `":wq"`_ from this world on August 3rd, 2023 in his inimitable, quiet way.
 
 Bram influenced me. The splash screen that encouraged donation to a charity

@@ -5,8 +5,8 @@
 .. category: Books
 .. description: Reflections on finishing "The Hobbit" and becoming a fan of J.R.R. Tolkien.
 
-Finished reading *The Hobbit* today and subsequently became a fan of J.R.R.
-Tolkien. It was my first J.R.R. Tolkien book. I had purchased it in 2005 and
+Finished reading *{{% wikipedia article="The Hobbit" %}}* today and subsequently became a fan of {{% wikipedia article="J. R. R. Tolkien" %}}.
+It was my first J.R.R. Tolkien book. I had purchased it in 2005 and
 started reading it a few months ago. After some breaks, I finally had time to
 finish it today.
 

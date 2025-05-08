@@ -18,7 +18,7 @@ jump in and help you. That's not how these things work. You need to get
 something half-way useful first, and then others will say "hey, that
 almost works for me", and they'll get involved in the project.
 
-And if there is anything I've learnt from Linux, it's that projects have
+And if there is anything I've learnt from {{% wikipedia article="Linux" %}}, it's that projects have
 a life of their own, and you should not try to enforce your "vision"
 too strongly on them. Most often you're wrong anyway, and if you're not
 flexible and willing to take input from others (and willing to change
@@ -36,6 +36,6 @@ started out small and insignificant, and that's how I thought about it.
 ----
 
 
-&gt;&gt;Don't think about some big picture and fancy design. &gt;&gt;If it doesn't solve some fairly immediate need, it's &gt;&gt;almost certainly over-designed. Premature optimisation is the root of all evil. - Knuth
+&gt;&gt;Don't think about some big picture and fancy design. &gt;&gt;If it doesn't solve some fairly immediate need, it's &gt;&gt;almost certainly over-designed. Premature optimisation is the root of all evil. - {{% wikipedia article="Donald Knuth" %}}
 
 _Kannappan_

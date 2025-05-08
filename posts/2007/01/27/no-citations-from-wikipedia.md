@@ -5,7 +5,7 @@
 .. category: Education
 .. description: Discussion about Middlebury College's decision to ban Wikipedia as a citation source in student research papers.
 
-The history department of Middlebury College has taken measures to [stop
+The history department of {{% wikipedia article="Middlebury College" %}} has taken measures to [stop
 citations from Wikipedia](http://www.insidehighered.com/news/2007/01/26/wiki)
 for student research papers. Yeah, that's in fact the correct thing to do. For
 research, we should always go to the primary source, and if that's not possible,
@@ -19,7 +19,7 @@ and their papers contained errors. The teachers made the correct move by saying,
 ----
 
 
-yes, citing Brittanica Encyclopaedia is also not allowed (as per their policy). But things with wikipedia hit when number of students cited the same wrong information.
+yes, citing {{% wikipedia article="Encyclopædia Britannica" %}} is also not allowed (as per their policy). But things with wikipedia hit when number of students cited the same wrong information.
 
 _Senthil_
 

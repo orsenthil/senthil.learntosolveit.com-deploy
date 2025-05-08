@@ -5,7 +5,7 @@
 .. category: General
 .. description: pyljvim is a Vim plugin that allows users to post directly to LiveJournal, simplifying the blogging process.
 
-pyljvim is a LiveJournal plugin for Vim. With this plugin, you can post to LiveJournal directly from Vim! :)
+pyljvim is a {{% wikipedia article="LiveJournal" %}} plugin for {{% wikipedia article="Vim (text editor)" text="Vim" %}}. With this plugin, you can post to LiveJournal directly from Vim! :)
 
 In fact, I am posting this entry from Vim.
 
@@ -17,13 +17,13 @@ Thanks,
 Senthil
 
 > "Contemptuous lights flashed across the computer's console."
-> -- *The Hitchhiker's Guide to the Galaxy*
+> -- *{{% wikipedia article="The Hitchhiker's Guide to the Galaxy" %}}*
 
 ----
 
 **Comments**
 
-Very interesting way to use Vim, very nice. ;) As I can understand, Python must
+Very interesting way to use Vim, very nice. ;) As I can understand, {{% wikipedia article="Python (programming language)" text="Python" %}} must
 be installed (on Windows, of course)? Well, I think I'll try it.
 Thanks and good luck.
 
@@ -45,7 +45,7 @@ using of Python is the wrong way, but the Vim scripting might be much better in
 this case. :-) Well, support for Unicode might be useful too. But it's not an
 urgent matter. Maybe it would be more pleasant to use the usual 'iconv' for text
 converting (with 'on-the-fly' converting, too), or not?  Another question is
-this — the saving of the user's drafts. For example, one have wrote some stuff
+this — the saving of the user's drafts. For example, one have wrote some stuff
 and have not published it. What about the draft, whether it's stored in the
 one's home directory or elsewhere?
 

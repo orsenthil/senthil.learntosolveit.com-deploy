@@ -6,7 +6,7 @@
 .. description: Reflections on late-night work, Python learning, and project management.
 
 It's been some time since I worked until 04:20:28. I had some discussions with
-friends, completed my work, and handled project management tasks as well. Python
+friends, completed my work, and handled project management tasks as well. {{% wikipedia article="Python (programming language)" %}}
 is catching up well—it's really a cool language. Once I become sufficiently
 familiar with it, writing Python should feel like writing English.
 
@@ -30,7 +30,7 @@ Is Python "powerful"? :-)
 
 
 
-http://www.paulgraham.com/power.html
+http://www.{{% wikipedia article="Paul Graham (programmer)" %}}.com/power.html
 
 
 
@@ -38,7 +38,7 @@ Part 2:
 
 
 
-Something to think about... Every new release of Python implements more and more features of Lisp. So, why not just use Lisp now instead of waiting for the developers of Python to slowly make Python into Lisp?
+Something to think about... Every new release of Python implements more and more features of {{% wikipedia article="Lisp (programming language)" %}}. So, why not just use Lisp now instead of waiting for the developers of Python to slowly make Python into Lisp?
 
 
 

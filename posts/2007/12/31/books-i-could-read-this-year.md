@@ -13,34 +13,34 @@
     It is the story of the physicists who heralded the new era of physics.
 
 2. **Five Dollar Smile**
-    One of the early writings of Shashi Tharoor, perhaps when he was in college. Stories feature subjects that occupy adolescent minds. Subjects like friendship, love, sex, and politics are dealt with in a very comical way.
+    One of the early writings of {{% wikipedia article="Shashi Tharoor" %}}, perhaps when he was in college. Stories feature subjects that occupy adolescent minds. Subjects like friendship, love, sex, and politics are dealt with in a very comical way.
 
 3. **How I Taught My Grandma and Other Stories**
 
 4. **Old Man and His God**
-    Both books by Madam Sudha Murty. Most of the stories uphold values, virtuous nature in human beings, human dignity, and many ethical and philanthropic subjects.
+    Both books by Madam {{% wikipedia article="Sudha Murty" %}}. Most of the stories uphold values, virtuous nature in human beings, human dignity, and many ethical and philanthropic subjects.
 
 5. **It's Not About the Bike**
-    It is all about strength and courage by the cyclist and marathoner Lance Armstrong, who defeated cancer to get back to racing and win the Tour de France five times.
+    It is all about strength and courage by the cyclist and marathoner {{% wikipedia article="Lance Armstrong" %}}, who defeated cancer to get back to racing and win the Tour de France five times.
 
 6. **Just Do It**
-    Very practical advice from Sir Richard Branson. He just built the Virgin empire and encourages everyone to just do what one wants to do.
+    Very practical advice from Sir {{% wikipedia article="Richard Branson" %}}. He just built the Virgin empire and encourages everyone to just do what one wants to do.
 
 7. **Bridges of Madison County**
     A very romantic book. In fact, the best romantic book I have read so far. The writing is very good, and it is a subject that lies on the borderline of love and infidelity, but the author has dealt with it in a wonderful way that the reader can understand and sometimes agree with the borderline it portrays.
 
 8. **Guide to Earth, Moon, and Space**
-    Asimov's non-fiction writing. His writing is very lucid, and it tries to bring back the questions that a curious child wonders when standing outside and looking at the night sky. Questions like, *"What are those shiny things? Why are they there? Why are they not falling? Why are so many of them there? Why is it dark now? Is the sun asleep? When we travel on a scooter, how come the moon is also traveling along with us? Can we race ahead of it?"* Those are just fun and very valid questions. Asimov tries to answer them all in a way that can be understood by the child who asks those questions. The book is simply too good. I really loved it.
+    {{% wikipedia article="Isaac Asimov" %}}'s non-fiction writing. His writing is very lucid, and it tries to bring back the questions that a curious child wonders when standing outside and looking at the night sky. Questions like, *"What are those shiny things? Why are they there? Why are they not falling? Why are so many of them there? Why is it dark now? Is the sun asleep? When we travel on a scooter, how come the moon is also traveling along with us? Can we race ahead of it?"* Those are just fun and very valid questions. Asimov tries to answer them all in a way that can be understood by the child who asks those questions. The book is simply too good. I really loved it.
 
 9. **The Theory of Everything**
-    Stephen Hawking explains science as it evolved from the times of Galileo to string theory. It is easy to read and presented in a very concise manner.
+    {{% wikipedia article="Stephen Hawking" %}} explains science as it evolved from the times of Galileo to string theory. It is easy to read and presented in a very concise manner.
 
 10. **Revenge of the Baby-Sat**
 
-11. **Calvin and Hobbes (1st Book)**
+11. **{{% wikipedia article="Calvin and Hobbes" %}} (1st Book)**
      Both of them feature lovable Calvin and Hobbes adventures.
 
-12. **Asterix Series**
+12. **{{% wikipedia article="Asterix" %}} Series**
      - *Asterix the Gaul*
      - *Asterix and the Golden Sickle*
      - *Asterix and the Goths*
@@ -54,14 +54,14 @@
      Asimov has taken care to write fiction in a very logical way. For example, the team experiences "Brownian Motion" as they enter inside the body.
 
 14. **Out of My Comfort Zone**
-     Steve Waugh's biography. While reading this, I had many fits of laughter, moments of amusement, and wonder at this simple guy with a lot of character. Steve is definitely one of my favorite sportspeople. He is very plain and direct and a very bold person too, as we can see in his autobiography. Good lessons on leadership and management are presented in his book.
+     {{% wikipedia article="Steve Waugh" %}}'s biography. While reading this, I had many fits of laughter, moments of amusement, and wonder at this simple guy with a lot of character. Steve is definitely one of my favorite sportspeople. He is very plain and direct and a very bold person too, as we can see in his autobiography. Good lessons on leadership and management are presented in his book.
 
 15. **Krishna and Gopal**
 
 16. **Savitri**
 
 17. **Buddhist Tales**
-     From the Amar Chitra Katha series, based on folklore, mythology, and ancient Indian stories. They deal with moral values, justice, ethical leadership, and administration.
+     From the {{% wikipedia article="Amar Chitra Katha" %}} series, based on folklore, mythology, and ancient Indian stories. They deal with moral values, justice, ethical leadership, and administration.
      I have more Amar Chitra Katha books to read.
 
 18. **The Hound of the Baskervilles**
@@ -69,7 +69,7 @@
 19. **The Sign of Four**
 
 20. **A Study in Scarlet**
-     These showcase the brilliance of Sir Arthur Conan Doyle through Sherlock Holmes and Dr. Watson. I read these for the second time, as I had completed the Sherlock Holmes series a long time back.
+     These showcase the brilliance of Sir {{% wikipedia article="Arthur Conan Doyle" %}} through {{% wikipedia article="Sherlock Holmes" %}} and Dr. Watson. I read these for the second time, as I had completed the Sherlock Holmes series a long time back.
 
 Many of these books, like *Guide to Earth, Moon, and Space*, *The Theory of Everything*, and the Sherlock Holmes series, I read along with my friend Avinash, and we both enjoyed them together.
 
