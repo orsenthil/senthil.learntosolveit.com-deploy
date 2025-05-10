@@ -8,12 +8,12 @@
 
    "An equation for me has no meaning, unless it represents a thought of God." - Srinivasa Ramanujan
 
-"The man who knew infinity" is the story of `Srinivasa Ramanujan`_. This phrase, associated with Ramanujan should be
+"The man who knew infinity" is the story of {{% wikipedia article="Srinivasa_Ramanujan" %}}. This phrase, associated with Ramanujan should be
 familiar to many due to a `very popular book`_ with the same title. There is a motion picture directed by Matt Brown
 based upon this book.
 
 I watched his movie on a Saturday at Berkeley. I was excited to listen to the QA with the director, and Mathematicians
-such as `Richard Borcheds`_ , `Olga Holz`_ and `Ken Ribet`_ following the screening.
+such as {{% wikipedia article="Richard_Borcherds" %}} , `Olga Holz`_ and `Ken Ribet`_ following the screening.
 
 In India, we have been exposed to Ramanujan quite early in our lives. I had stories in school book about great Indian
 mathematicians like Aryabhata, Brahmangupta, and Bhaskaracharya. Indian Satellites to Space launched by ISRO bear their
@@ -52,7 +52,7 @@ In the question and answer session that followed, two questions were of interest
 
 **How do mathematicians study Ramanujan's work when he has not left many formula proofs with his equation?**
 
-`Richard Borcheds`_, who is an accomplished mathematician, replied that Ramanujan's work was published in the form of
+{{% wikipedia article="Richard_Borcherds" %}}, who is an accomplished mathematician, replied that Ramanujan's work was published in the form of
 series of `notebooks`_. He left behind three notebooks containing almost 3000 theorems, virtually all without proof. The
 reason he could have done that is perhaps he grew up in a time when the paper was very expensive for him and he wanted
 to be economical.
@@ -61,16 +61,14 @@ to be economical.
 
 **Question 2: In the movie, Ramanujan is shown to be desisting writing formal proofs. Is that true?**
 
-Richard Borcheds shared that, it is bit exaggerated in the movie. Ramanujan always knew the proof of his work and
+{{% wikipedia article="Richard_Borcherds" %}} shared that, it is bit exaggerated in the movie. Ramanujan always knew the proof of his work and
 could state it if he wanted to. But he usually did not.
 
 I enjoyed watching this movie and listening to the perspectives associated with the genius from kumbakonam.
 
 
-.. _Srinivasa Ramanujan: https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
 .. _very popular book: http://www.amazon.com/Man-Who-Knew-Infinity-Ramanujan/dp/B00C7F17OE/
 .. _Olga Holz: http://www.cs.berkeley.edu/~oholtz/
-.. _Richard Borcheds: https://en.wikipedia.org/wiki/Richard_Borcherds
 .. _Ken Ribet: https://math.berkeley.edu/~ribet/
 .. _Magic Squares: https://nrich.maths.org/1380
 .. _notebooks: http://www.amazon.com/Ramanujans-Notebooks-Bruce-C-Berndt/dp/1461270073/

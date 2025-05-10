@@ -8,7 +8,7 @@
 .. type: text
 
 We know of the `Andrew Carnegie`_ as the famous philanthropist who donated huge portions of his wealth  for setting up
-`public libraries across united states`_. What I was not aware was, he as an immigrant and a child laborer who got
+`public libraries across united states: {{% wikipedia article="List_of_Carnegie_libraries_in_the_United_States" %}}`. What I was not aware was, he as an immigrant and a child laborer who got
 benefited from his reading, when one of his boss opened up his library on Saturdays for his workers.
 
 Got to know this from a very tangential post titled `Keep the Internet Open`_
@@ -30,7 +30,7 @@ Got to know this from a very tangential post titled `Keep the Internet Open`_
     said he was going to give it all away to benefit the civilization around him, and actually did it.)
 
 
-.. _public libraries across united states: https://en.wikipedia.org/wiki/List_of_Carnegie_libraries_in_the_United_States
-.. _Andrew Carnegie: https://en.wikipedia.org/wiki/Andrew_Carnegie
+.. _public libraries across united states: {{% wikipedia article="List_of_Carnegie_libraries_in_the_United_States" %}}
+.. _Andrew Carnegie: {{% wikipedia article="Andrew_Carnegie" %}}
 
 .. _Keep the Internet Open: http://blog.samaltman.com/keep-the-internet-open

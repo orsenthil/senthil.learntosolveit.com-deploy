@@ -15,4 +15,6 @@ I earned a `Benjamin Franklin`_ badge.
 
 That was very motivating.
 
+Benjamin Franklin: {{% wikipedia article="Benjamin_Franklin" %}}
+
 .. _Benjamin Franklin: https://en.wikipedia.org/wiki/Benjamin_Franklin

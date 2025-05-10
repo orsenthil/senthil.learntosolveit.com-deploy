@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-Edison had invented phonograph_, a precursor to modern day music player and phone, but he not could get the proper
+Edison had invented {{% wikipedia article="Phonograph" %}}, a precursor to modern day music player and phone, but he not could get the proper
 utility value of his invention immediately. I came across this paragraph in a book called, "Guns, Germs and Steel"
 and felt compelled to note it down.
 
@@ -15,7 +15,3 @@ and felt compelled to note it down.
    :align: center
    :height: 300
    :width: 450
-
-
-
-.. _phonograph: https://en.wikipedia.org/wiki/Phonograph

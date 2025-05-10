@@ -134,7 +134,7 @@ The ban, tries to support itself by giving some examples like this.
     Recent history shows that some of those who have entered the United States
     through our immigration system have proved to be threats to our national security.
 
-The incident is this one: https://en.wikipedia.org/wiki/2010_Portland_car_bomb_plot
+The incident is this one: {{% wikipedia article="2010_Portland_car_bomb_plot" %}}
 
 * The person involved did not have a ground from Somalia. What makes the claim that the entire country is at fault?
 * Why is the 2010 incident being referenced for this Ban? Where are the incidents for other countries?

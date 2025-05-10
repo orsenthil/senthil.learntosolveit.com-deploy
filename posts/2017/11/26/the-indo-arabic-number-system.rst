@@ -47,3 +47,5 @@ and is limitless. And my second reason could be due to a emotional attachment an
     of market dominance. By contrast, the Hindu-Arabic number system gained worldwide acceptance because
     it is far better designed and much more efficient for human usage than any other number system.
 
+Hindu-Arabic numeral system: {{% wikipedia article="Hindu–Arabic_numeral_system" %}}
+

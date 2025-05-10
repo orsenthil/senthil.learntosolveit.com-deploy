@@ -9,7 +9,7 @@ While reading the chapter on "A Simple One-Pass Compiler" in the Book "Compilers
 
 *{{% wikipedia article="Context-free grammar" %}} were introduced by {{% wikipedia article="Noam Chomsky" %}} [1956] as part of a natural languages. Their use in specifying the syntax of programming languages arose independently. While working with a draft of Algol 60, {{% wikipedia article="John Backus" %}}, "hastily adapted [Emil Post's productions[ to that use" (Wexelblat [1981, p.162]). The resulting notation was a variant of context-free grammar. The scholar {{% wikipedia article="Pāṇini" %}} devised an equivalent syntactic notation to specify the rules of Sanskrit grammar between 400 B.C and 200 B.C (Ingerman [1967])*
 
-There is a section in the wikipedia on [Panini's influence on Modern Linguistics](http://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini#P.C4.81.E1.B9.87ini_and_modern_linguistics).
+There is a section in the wikipedia on {{% wikipedia article="Pāṇini#Pāṇini_and_modern_linguistics" %}}.
 
 Chomsky, during his visit to India and had an humble acknowledgment for generative grammar devised by Panini..*"happy to receive the honour in the land where his subject had its origin. "The first generative grammar in the modern sense was Panini's grammar","*
 

@@ -19,7 +19,7 @@ I made copious notes while reading this book, I wanted to preserve it for my fut
 different incidents in Wikipedia while reading this book. Every moment I spent was totally worth it. It will give a
 reader a whole new understanding of the world. This book feels like a Magnum Opus, an experience provided to the reader.
 
-The first captive thing presented to me in this book was `The Battle of Cajamarca`_ which lead to the fall of
+The first captive thing presented to me in this book was {{% wikipedia article="Battle_of_Cajamarca" %}} which lead to the fall of
 the Inca Empire in South American Continent in 1500s.
 
 Here is some data on this Battle. The left hand side is Spanish, and the right side is Inca Empire.

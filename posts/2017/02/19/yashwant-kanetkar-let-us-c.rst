@@ -21,7 +21,7 @@ copy of it, because, as you can imagine, I will cherish it.
 
 .. _article on Yashwant Kanetkar: https://yourstory.com/2017/01/techie-tuesdays-yashavant-kanetkar/
 
-.. _Yashwant Kanetkar: https://en.wikipedia.org/wiki/Yashavant_Kanetkar
+Yashwant Kanetkar: {{% wikipedia article="Yashavant_Kanetkar" %}}
 
 I also watched a short talk by Yaashwant Kanetkar in which he explores his journey, and has some words of advice for
 programmers from India.

@@ -49,4 +49,4 @@ The paper also quoted economic research on difficultly in ensuring fairness.
 
 .. _Dominant Resource Fairness: https://people.eecs.berkeley.edu/~alig/papers/drf.pdf
 .. _Mesos: http://mesos.apache.org/
-.. _Linear Programming: https://en.wikipedia.org/wiki/Linear_programming
+.. _Linear Programming: {{% wikipedia article="Linear_programming" %}}

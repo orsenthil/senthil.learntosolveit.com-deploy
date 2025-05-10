@@ -7,11 +7,9 @@
 .. description:
 .. type: text
 
-When trying to understand the concept of `radians`_, I came across the inventor of the concept `Roger Coats`_
+When trying to understand the concept of radians: {{% wikipedia article="Radian" %}}
+I came across the inventor of the concept Roger Coats: {{% wikipedia article="Roger_Cotes" %}}
 His name is not familiar to many. I understood, he is known for working closely with Isaac Newton by proofreading the
 second edition of his famous book, the Principia, before publication.
 
 Cotes died from a violent fever in Cambridge in 1716 at the early age of 33. Isaac Newton remarked, "If he had lived we would have known something."
-
-.. _radians: https://en.wikipedia.org/wiki/Radian#History
-.. _Roger Coats: https://en.wikipedia.org/wiki/Roger_Cotes

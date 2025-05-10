@@ -13,12 +13,12 @@ for the organization. Please check this out http://spasticssocietyofkarnataka.or
 A bit of history
 ----------------
 
-Let's use `wayback machine`_ to look at how this evolved.
+Let's use {{% wikipedia article="Wayback_Machine" %}} to look at how this evolved.
 
 * When I inherited this project, the `website looked like this in 2004`_. I don't remember the technology, but it was
   done by a volunteer by name Mr. Nagaraj. He transfered the hosting and domain from  Net 4 India to us.
 
-* Then sometime `in 2007 the website started looking like this`_ - I don't remember the technology that I used. It seems
+* Then sometime `in 2007 the website started looking like this`_. I don't remember the technology that I used. It seems
   I was using `open source web design`_  and looks like I hand-coded it.
 
 * In 2008, we moved entirely to `Google Apps for Education`_ - this was a great move. It facilitated online
@@ -48,7 +48,7 @@ Features
 --------
 
 This was a team effort. My friends Avinash and Nivedita got involved. We use Trello.com to track our tasks. From
-school Preethi, and Priya  Madam and Sobha Madam got involved too. The website does not have `bus-factor`_ of 1 and
+school Preethi, and Priya  Madam and Sobha Madam got involved too. The website does not have {{% wikipedia article="Bus_factor" %}} of 1 and
 this is an incredible feature.
 
 The website was mostly done by Avinash. He cannot use his hands, and `uses voice to operate his computer`_ So this
@@ -59,6 +59,9 @@ is convenient to manage.
 
 I believe this change is going to help school further. Given what I have shared above, this project is a living
 entity, and will evolve with times.
+
+wayback machine: {{% wikipedia article="Wayback_Machine" %}}
+bus-factor: {{% wikipedia article="Bus_factor" %}}
 
 .. _wayback machine: https://en.wikipedia.org/wiki/Wayback_Machine
 .. _website looked like this in 2004: https://web.archive.org/web/20040521200831/http://www.spasticssocietyofkarnataka.org
@@ -72,6 +75,5 @@ entity, and will evolve with times.
 .. _Bootstrap: https://getbootstrap.com/
 .. _Nikola: https://getnikola.com/
 .. _built this: http://orsenthil.github.io/sskweb/
-.. _bus-factor: https://en.wikipedia.org/wiki/Bus_factor
 .. _uses voice to operate his computer: https://www.youtube.com/watch?v=bEwO17xd4eU
 

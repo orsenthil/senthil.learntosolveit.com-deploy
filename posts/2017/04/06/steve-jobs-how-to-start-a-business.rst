@@ -23,6 +23,4 @@ Given the team he had, the approach he took, it seems that the result was a succ
     environment, the magazine concluded that "the NeXT Computer is worth every penny of its $6500 market price".
 
 
-- NeXT_Computer_
-
-.. _NeXT_Computer: https://en.wikipedia.org/wiki/NeXT_Computer#Reception
+- NeXT_Computer: {{% wikipedia article="NeXT_Computer" %}}

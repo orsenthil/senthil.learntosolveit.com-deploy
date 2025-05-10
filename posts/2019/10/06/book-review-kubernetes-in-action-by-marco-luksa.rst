@@ -23,5 +23,7 @@ This book explained the concepts behind Kubernetes well.
 It just did keep itself at the level of a book for an operator of Kubernetes and
 went into explaining what is happening underneath quite well.
 
+Kubernetes: {{% wikipedia article="Kubernetes" %}}
+
 
 

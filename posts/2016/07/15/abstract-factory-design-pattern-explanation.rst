@@ -16,7 +16,7 @@ and understand *Abstract Factory* design pattern.
 
 In this post, we will look at "Abstract Factory" and explain it with an
 example. I consulted multiple resources, and ultimately to gain confidence, I
-had to rely upon `The Gang of Four`_ design patterns book.
+had to rely upon {{% wikipedia article="Design_Patterns" %}} design patterns book.
 
 This post is intended as refresher for a reader who has read the **Gang of
 Four** chapter on Abstract Factory. This post presents an example which the
@@ -257,5 +257,3 @@ thoughts in the comments section of this article.
 Thank you for reading!
 
 .. target-notes::
-
-.. _The Gang of Four: https://en.wikipedia.org/wiki/Design_Patterns

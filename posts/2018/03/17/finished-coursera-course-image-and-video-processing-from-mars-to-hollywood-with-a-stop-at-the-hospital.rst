@@ -9,7 +9,7 @@
 
 
 `Image and Video Processing - From Mars to Hollywood with a Stop at the Hospital`_ is the course offered
-by `Guillermo Sapiro`_ at Coursera. After a long time, I voluntarily took a course and finished it. I didn't pay for
+by {{% wikipedia article="Guillermo_Sapiro" %}} at Coursera. After a long time, I voluntarily took a course and finished it. I didn't pay for
 the course and so, I won't get a certificate. But I have this, and the course completion recorded in my
 accomplishments in coursera.
 
@@ -19,5 +19,4 @@ It was wonderful course, I learnt about digital signal processing, and image tra
    :align: center
    :width: 450
 
-.. _Guillermo Sapiro: https://en.wikipedia.org/wiki/Guillermo_Sapiro
 .. _Image and Video Processing - From Mars to Hollywood with a Stop at the Hospital: https://www.coursera.org/learn/image-processing/home/welcome

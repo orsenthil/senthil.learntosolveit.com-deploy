@@ -29,8 +29,8 @@ I was "wow"ed by this book.
 
 Some exciting learning here with this book. I learnt about the following:
 
-* https://en.wikipedia.org/wiki/Cygnus_X-1
+* {{% wikipedia article="Cygnus_X-1" %}}
 * https://www.nasa.gov/mission_pages/chandra/multimedia/cygnusx1.html
-* https://en.wikipedia.org/wiki/Chandra_X-ray_Observatory
-* https://en.wikipedia.org/wiki/Schwarzschild_radius
-* https://en.wikipedia.org/wiki/Karl_Schwarzschild
+* {{% wikipedia article="Chandra_X-ray_Observatory" %}}
+* {{% wikipedia article="Schwarzschild_radius" %}}
+* {{% wikipedia article="Karl_Schwarzschild" %}}

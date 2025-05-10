@@ -13,7 +13,7 @@ Today we visited an ice-cream shop, and after enjoying ice-cream, Siddhartha sai
 
 Siddhartha: I like the ice-cream.
 
-Shalini: Say it in Sourashtra_.
+Shalini: Say it in Sourashtra: {{% wikipedia article="Saurashtra_language" %}}.
 
 Siddhartha: **Ice-cream love-ares.**
 
@@ -28,6 +28,3 @@ It's interesting how close he was in constructing a sentence by intuitively form
 using smaller parts.
 
 I think, adults do this too.
-
-
-.. _Sourashtra: https://en.wikipedia.org/wiki/Saurashtra_language

@@ -36,17 +36,17 @@ These are some important highlights I had noted in this book.
 
 Newton's View:
 
-    Isaac Newton saw God as the “first cause” of everything and argued that He was present in all of space.
+    Isaac Newton saw God as the "first cause" of everything and argued that He was present in all of space.
 
 
 About Goldilocks Condition:
 
 
-    We don’t know what Goldilocks conditions allowed a universe to emerge, and we still can’t explain it any better than novelist Terry Pratchett did when he wrote, “The current state of knowledge can be summarized thus: In the beginning, there was nothing, which exploded.”
+    We don't know what Goldilocks conditions allowed a universe to emerge, and we still can't explain it any better than novelist Terry Pratchett did when he wrote, "The current state of knowledge can be summarized thus: In the beginning, there was nothing, which exploded."
 
 Indian Veda's view on creation of universe:
 
-    Like the “neither non-existence nor existence” of the Indian Vedas, this tension seems to have bootstrapped our universe.
+    Like the "neither non-existence nor existence" of the Indian Vedas, this tension seems to have bootstrapped our universe.
 
 Attempt to recreate the conditions of origin of universe:
 
@@ -57,16 +57,16 @@ Charles Darwin's recognition of Emotions:
     Charles Darwin understood that the emotions are decision-makers that have evolved through natural selection to help organisms survive.
 
 
-Humans interbreeding with `Neanderthals`_:
+Humans interbreeding with {{% wikipedia article="Neanderthal" %}}:
 
     At sites such as the caves of Skhul and Qafzeh in modern Israel, they may have encountered and occasionally interbred with Neanderthals. (We know this because today, most humans who live outside Africa have some Neanderthal genes.)
 
-.. _Neanderthals: https://en.wikipedia.org/wiki/Neanderthal
+Neanderthals: {{% wikipedia article="Neanderthal" %}}
 
 
 On genetic changes as a result of choice of vocation.
 
-    Humans have changed genetically as a result of farming. For example, if you’re descended from people who once herded cattle and consumed cow’s or mare’s milk, you will probably be able to digest their milk even as an adult because you can keep producing lactase, the enzyme that digests lactose (milk sugar). Hunter-gatherers consumed only breast milk till about four years of age, and after childhood, they no longer needed to produce lactase. But where cow’s or mare’s milk became a major food source, humans began to produce lactase into adulthood—a genetic mutation had occurred.
+    Humans have changed genetically as a result of farming. For example, if you're descended from people who once herded cattle and consumed cow's or mare's milk, you will probably be able to digest their milk even as an adult because you can keep producing lactase, the enzyme that digests lactose (milk sugar). Hunter-gatherers consumed only breast milk till about four years of age, and after childhood, they no longer needed to produce lactase. But where cow's or mare's milk became a major food source, humans began to produce lactase into adulthood—a genetic mutation had occurred.
 
 Rise of a new religion, Islam, in 8th century
 
@@ -85,7 +85,7 @@ On Capitalism
 
 First Global Currency
 
-    Mule trains carried silver to the Mexican port of Acapulco, where it was minted into silver pesos, the world’s first global currency.
+    Mule trains carried silver to the Mexican port of Acapulco, where it was minted into silver pesos, the world's first global currency.
 
 
 Relation between Government and Commerce
@@ -105,23 +105,23 @@ Conquest on Silk Road
 
 Indian Railroads
 
-    Even the building of India’s major railroads benefited Britain more than India.
+    Even the building of India's major railroads benefited Britain more than India.
 
     Most of the track and rolling stock was manufactured in Britain, and the huge Indian rail network was designed primarily to move British troops quickly and cheaply, to export cheap Indian raw materials, and to import English manufactured goods
 
 
 Europe view on civilizing the rest of the world
 
-    Europe’s economic, political, and military conquests encouraged a sense of European or Western superiority, and many Europeans began to see their conquests as part of a European or Western mission to civilize and modernize the rest of the world.
+    Europe's economic, political, and military conquests encouraged a sense of European or Western superiority, and many Europeans began to see their conquests as part of a European or Western mission to civilize and modernize the rest of the world.
 
 Increasing Productivity
 
-    Prokaryotes had solved the problem billions of years ago, but Haber and Bosch were the first multicellular organisms to successfully fix atmospheric nitrogen. The Haber-Bosch process uses huge amounts of energy to overcome nitrogen’s reluctance to combine chemically, so it was viable only in a world of fossil fuels. But artificial nitrogen-based fertilizers transformed agriculture, raised the productivity of arable land throughout the world, and made it possible to feed several billion more humans. It turned fossil-fuel energy into food.
+    Prokaryotes had solved the problem billions of years ago, but Haber and Bosch were the first multicellular organisms to successfully fix atmospheric nitrogen. The Haber-Bosch process uses huge amounts of energy to overcome nitrogen's reluctance to combine chemically, so it was viable only in a world of fossil fuels. But artificial nitrogen-based fertilizers transformed agriculture, raised the productivity of arable land throughout the world, and made it possible to feed several billion more humans. It turned fossil-fuel energy into food.
 
 
 Rise of Nationalism
 
-    The governments of revolutionary France and the United States began to mobilize the loyalty of their subjects through democratization, which brought more of the population into the work of government, and through nationalism, which appealed to people’s sense of a shared national community.
+    The governments of revolutionary France and the United States began to mobilize the loyalty of their subjects through democratization, which brought more of the population into the work of government, and through nationalism, which appealed to people's sense of a shared national community.
 
     Some governments, such as the Communist regimes of the Soviet Union and China, attempted to micromanage the entire national economy.
 
