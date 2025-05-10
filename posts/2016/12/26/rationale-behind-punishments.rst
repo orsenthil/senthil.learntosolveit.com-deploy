@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-I stumbled upon a `Explain Like I am Five Story which dealt with the rationale behind punishments`_.  The topic of
+I stumbled upon a {{% wikipedia article="Punishment" %}} which dealt with the rationale behind punishments.  The topic of
 punishments is a complex one and needs balanced thinking. The author elucidated many reasons for which punishments are
 administered in society. We see the trends of those in both online and offline societies.
 

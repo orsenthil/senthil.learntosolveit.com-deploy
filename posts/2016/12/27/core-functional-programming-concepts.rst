@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-Found this introductory post on `core functional programming concepts`_ dealing with the subject succinctly.
+Found this introductory post on {{% wikipedia article="Functional programming" %}} dealing with the subject succinctly.
 It is easy to approach functional programming, if we can recognize the following concepts held true by all the
 functional programs, and languages facilitating them.
 

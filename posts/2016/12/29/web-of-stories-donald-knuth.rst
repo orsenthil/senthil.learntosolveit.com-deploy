@@ -7,11 +7,11 @@
 .. description:
 .. type: text
 
-I am a `Donald Knuth fan`_, and sometimes I strive to understand his `lectures`_. Stumbled upon this website called
+I am a {{% wikipedia article="Donald Knuth" %}} fan, and sometimes I strive to understand his lectures. Stumbled upon this website called
 webofstories.com that feature many scientists and carries *extensive* interviews with them, who reflect upon their
 life, their personal moments, their personal views on their achievements.
 
-I watched the entire `3 hour interview with Donald Knuth`_ and immensely enjoyed it.
+I watched the entire 3 hour interview with Donald Knuth and immensely enjoyed it.
 
 One of the excellent moment was, when he shares his 2nd computer program, which was a learning tic-tac-toe. This was
 written for the IBM 650 Machine having just 10K bytes of memory.

@@ -9,7 +9,7 @@
 
 Looks like Edison used TODO list too.
 
-This `article on openculture`_ has a snapshot of his todo list from year 1888.
+This {{% wikipedia article="Thomas Edison" %}} has a snapshot of his todo list from year 1888.
 
 These were his 108 things he wanted todo.
 

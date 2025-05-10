@@ -12,7 +12,7 @@
 The book's title is that, the concept of "Strong Leader" is a myth.
 According to the book, an effective person works by collaboration, flexibility and never becomes a center point of decision making.
 
-* `Review link`_
+* Review link
 
 .. _Review link: https://www.gatesnotes.com/Books/The-Myth-of-the-Strong-Leader
 

@@ -31,7 +31,7 @@ For e.g, this factorial coconut program, will be translated to a valid python pr
 You can notice the pattern matching style in the above program, which is not a syntax in Python. This program will then
 be converted into a valid python program.
 
-Great many details can be found in the coconut-lang_ website.
+Great many details can be found in the coconut-lang website.
 
 .. _coconut-lang: http://coconut-lang.org/
 
