@@ -1,9 +1,65 @@
 .. title: 2011 in Science
 .. slug: 2011-in-science
 .. date: 2011-12-29 09:26:27
-.. tags: 
-.. description: 
-.. categories: 
+.. tags: science, technology, quantum computing, artificial intelligence, physics
+.. description: A summary of major scientific developments in 2011.
+.. categories: Science
 .. wp-status: publish
 
-<html><body><p>Here are some interesting developments in Science and Technology field that happened in the year <a title="2011 in Science (wikipedia link)" href="http://en.wikipedia.org/wiki/2011_in_science" target="_blank">2011</a>. This is a choice of some random events, but it definitely shows that future is <em><strong>extremely promising!</strong></em></p><p>January </p><ul><li><p>Scientists achieve 10 billion bits of <a href="http://en.wikipedia.org/wiki/Quantum_entanglement">quantum entanglement</a> in <a href="http://en.wikipedia.org/wiki/Silicon">silicon</a>, a significant step in <a href="http://en.wikipedia.org/wiki/Quantum_computing">quantum computing</a>. <a href="http://www.physorg.com/news/2011-01-billion-bits-entanglement-silicon.html">(<em>PhysOrg</em>)</a> <a href="http://dx.doi.org/10.1038/nature09696">(<em>Nature</em>)</a></p></li></ul><p>February</p><ul><li>A significant milestone in <a href="http://en.wikipedia.org/wiki/Artificial_intelligence">artificial intelligence</a> is reached, as the <a href="http://en.wikipedia.org/wiki/Watson_(artificial_intelligence_software)">Watson IBM supercomputer</a> defeats two humans on the <a href="http://en.wikipedia.org/wiki/Jeopardy!"><em>Jeopardy!</em></a> <a href="http://en.wikipedia.org/wiki/Quiz_show">quiz show</a>. <a href="http://www.wired.com/epicenter/2011/02/watson-game-one/">(<em>Wired</em>)</a></li></ul><p> March</p><ul><li><a href="http://en.wikipedia.org/wiki/Swiss">Swiss</a> researchers discover a gene in <a href="http://en.wikipedia.org/wiki/Wasp">wasps</a> that allow them to <a href="http://en.wikipedia.org/wiki/Asexual_reproduction">reproduce asexually</a>. <a href="http://www.physorg.com/news/2011-03-mystery-wasps.html">(<em>PhysOrg)</em></a> <a href="http://dx.doi.org/10.1016/j.cub.2011.01.070">(<em>Curr. Biol.</em>)</a></li></ul><p>April </p><ul><li>Scientists have <a href="http://en.wikipedia.org/wiki/Quantum_teleportation">teleported</a> wave packets of light by destroying them in one location and re-creating them in another. <a href="http://www.physorg.com/news/2011-04-quantum-teleporter-breakthrough.html">(<em>PhysOrg</em>)</a> <a href="http://dx.doi.org/10.1126/science.1201034">(<em>Science</em>)</a></li></ul><p>May </p><ul><li>Experimental data gathered by the <a href="http://en.wikipedia.org/wiki/Gravity_Probe_B">Gravity Probe B</a> satellite <a href="http://en.wikipedia.org/wiki/Tests_of_general_relativity#Frame-dragging_tests">confirms</a> two aspects of the <a href="http://en.wikipedia.org/wiki/General_theory_of_relativity">general theory of relativity</a>, which was published by <a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a> in 1916.<a href="http://www.bbc.co.uk/news/science-environment-13286241">(BBC)</a> <a href="http://arxiv.org/abs/1105.3456">(arXiv)</a> <a href="http://dx.doi.org/10.1103/PhysRevLett.106.221101">(<em>Phys. Rev. Lett.</em>)</a></li></ul><p>June</p><ul><li>The United Nations holds a ceremony in <a href="http://en.wikipedia.org/wiki/Rome">Rome</a>, declaring the once-widespread cattle disease <a href="http://en.wikipedia.org/wiki/Rinderpest">rinderpest</a> to be globally eradicated.</li></ul><p> July</p><ul><li>Researchers have reprogrammed <a href="http://en.wikipedia.org/wiki/Brain_cells">brain cells</a> to become <a href="http://en.wikipedia.org/wiki/Heart">heart</a> cells. <a href="http://www.sciencedaily.com/releases/2011/07/110708160346.htm">(Science Daily)</a></li></ul><p> August</p><ul><li>A computer has learned language by playing <a href="http://en.wikipedia.org/wiki/Strategy_game">strategy games</a>, inferring the meaning of words without human supervision. <a href="http://web.mit.edu/newsoffice/2011/language-from-games-0712.html">(MIT News)</a></li></ul><p>September </p><ul><li> A <a href="http://en.wikipedia.org/wiki/Monkey">monkey</a> sporting a ginger beard and matching fiery red tail, discovered in a threatened region of the <a href="http://en.wikipedia.org/wiki/Brazil">Brazilian</a> <a href="http://en.wikipedia.org/wiki/Amazon_Rainforest">Amazon</a>, is believed to be a species new to science. <a href="http://www.guardian.co.uk/environment/2011/aug/25/new-monkey-species-amazon">(<em>The Guardian</em>)</a></li></ul><div> </div><ul><li>Feeding a <a href="http://en.wikipedia.org/wiki/Supercomputer">supercomputer</a> with news stories could help predict major world events, according to US researchers. <a href="http://www.bbc.co.uk/news/technology-14841018">(BBC)</a></li></ul><p>October </p><ul><li><a href="http://en.wikipedia.org/wiki/Imperial_College_London">Imperial College London</a> researchers have shown <a href="http://en.wikipedia.org/wiki/Logic_gates">logic gates</a> can be built out of <a href="http://en.wikipedia.org/wiki/E._coli"><em>E. coli</em></a> bacteria and <a href="http://en.wikipedia.org/wiki/DNA">DNA</a>. This could be used to make sophisticated diagnostic cells that assess and treat illness in the body. <a href="http://www.kurzweilai.net/scientists-create-computing-building-blocks-from-bacteria-and-dna?utm_source=KurzweilAI+Daily+Newsletter&amp;utm_campaign=39d5d75937-UA-946742-1&amp;utm_medium=email">(KurzweilAI)</a></li></ul><ul><li><a href="http://en.wikipedia.org/wiki/India">India</a>'s <a href="http://en.wikipedia.org/wiki/Minister_of_Health_and_Family_Welfare_(India)">Minister of Health</a>, <a href="http://en.wikipedia.org/wiki/Ghulam_Nabi_Azad">Ghulam Nabi Azad</a>, reports that the country has almost entirely eradicated <a href="http://en.wikipedia.org/wiki/Polio">polio</a> through a <a href="http://en.wikipedia.org/wiki/Polio_vaccine">vaccination</a> program which immunises over 170 million children every year. No new polio cases have been reported in India for over nine months. <a href="http://www.bbc.co.uk/news/world-south-asia-15425852">(BBC)</a> </li></ul><p>November</p><ul><li><a href="http://en.wikipedia.org/wiki/India">India</a> announces plans for a prototype <a href="http://en.wikipedia.org/wiki/Nuclear_power_plant">nuclear power plant</a> that uses <a href="http://en.wikipedia.org/wiki/Thorium">thorium</a> – an innovative, potentially safer nuclear fuel. <a href="http://www.guardian.co.uk/environment/2011/nov/01/india-thorium-nuclear-plant">(<em>The Guardian</em>)</a></li><li>Researchers at <a href="http://en.wikipedia.org/wiki/Washington_State_University">Washington State University</a> develop an artificial bone "scaffold" which can be produced using <a href="http://en.wikipedia.org/wiki/3D_printer">3D printers</a>, potentially allowing doctors to quickly print replacement bone tissue for injured patients. <a href="http://www.bbc.co.uk/news/technology-15963467">(BBC)</a></li></ul><p> December</p><ul><li>Researchers at <a href="http://en.wikipedia.org/wiki/CERN">CERN</a>'s <a href="http://en.wikipedia.org/wiki/Large_Hadron_Collider">Large Hadron Collider</a> (LHC) report the discovery of a new particle, dubbed <a href="http://en.wikipedia.org/wiki/Bottom_quark#Chib.283P.29_particle">Chi<sub>b</sub>(3P)</a>. The discovery marks the LHC's first clear observation of a new particle since it became operational in 2009. <a href="http://www.bbc.co.uk/news/science-environment-16301908">(BBC)</a></li></ul><p>As you can notice from the list, my choice includes an inclination toward computers, physics and a couple of happenings in India. A lot has happened in 2011 throughout the world and you can get a gist of it from this wikipedia article <a href="http://en.wikipedia.org/wiki/2011_in_science" target="_blank">2011 in science</a>.</p></body></html>
+Here are some interesting developments in Science and Technology field that happened in the year {{% wikipedia article="2011 in science" %}}. This is a choice of some random events, but it definitely shows that future is *extremely promising!*
+
+January
+-------
+- Scientists achieve 10 billion bits of {{% wikipedia article="Quantum entanglement" %}} in {{% wikipedia article="Silicon" %}}, a significant step in {{% wikipedia article="Quantum computing" %}}. [(PhysOrg)](http://www.physorg.com/news/2011-01-billion-bits-entanglement-silicon.html) [(Nature)](http://dx.doi.org/10.1038/nature09696)
+
+February
+--------
+- A significant milestone in {{% wikipedia article="Artificial intelligence" %}} is reached, as the {{% wikipedia article="Watson (artificial intelligence software)" text="Watson IBM supercomputer" %}} defeats two humans on {{% wikipedia article="Jeopardy!" %}} {{% wikipedia article="Quiz show" %}}. [(Wired)](http://www.wired.com/epicenter/2011/02/watson-game-one/)
+
+March
+-----
+- {{% wikipedia article="Swiss" %}} researchers discover a gene in {{% wikipedia article="Wasp" text="wasps" %}} that allow them to {{% wikipedia article="Asexual reproduction" text="reproduce asexually" %}}. [(PhysOrg)](http://www.physorg.com/news/2011-03-mystery-wasps.html) [(Curr. Biol.)](http://dx.doi.org/10.1016/j.cub.2011.01.070)
+
+April
+-----
+- Scientists have {{% wikipedia article="Quantum teleportation" text="teleported" %}} wave packets of light by destroying them in one location and re-creating them in another. [(PhysOrg)](http://www.physorg.com/news/2011-04-quantum-teleporter-breakthrough.html) [(Science)](http://dx.doi.org/10.1126/science.1201034)
+
+May
+---
+- Experimental data gathered by the {{% wikipedia article="Gravity Probe B" %}} satellite {{% wikipedia article="Tests of general relativity#Frame-dragging tests" text="confirms" %}} two aspects of the {{% wikipedia article="General theory of relativity" %}}, which was published by {{% wikipedia article="Albert Einstein" %}} in 1916. [(BBC)](http://www.bbc.co.uk/news/science-environment-13286241) [(arXiv)](http://arxiv.org/abs/1105.3456) [(Phys. Rev. Lett.)](http://dx.doi.org/10.1103/PhysRevLett.106.221101)
+
+June
+----
+- The United Nations holds a ceremony in {{% wikipedia article="Rome" %}}, declaring the once-widespread cattle disease {{% wikipedia article="Rinderpest" %}} to be globally eradicated.
+
+July
+----
+- Researchers have reprogrammed {{% wikipedia article="Brain cells" %}} to become {{% wikipedia article="Heart" %}} cells. [(Science Daily)](http://www.sciencedaily.com/releases/2011/07/110708160346.htm)
+
+August
+------
+- A computer has learned language by playing {{% wikipedia article="Strategy game" text="strategy games" %}}, inferring the meaning of words without human supervision. [(MIT News)](http://web.mit.edu/newsoffice/2011/language-from-games-0712.html)
+
+September
+--------
+- A {{% wikipedia article="Monkey" %}} sporting a ginger beard and matching fiery red tail, discovered in a threatened region of the {{% wikipedia article="Brazil" text="Brazilian" %}} {{% wikipedia article="Amazon Rainforest" text="Amazon" %}}, is believed to be a species new to science. [(The Guardian)](http://www.guardian.co.uk/environment/2011/aug/25/new-monkey-species-amazon)
+
+- Feeding a {{% wikipedia article="Supercomputer" %}} with news stories could help predict major world events, according to US researchers. [(BBC)](http://www.bbc.co.uk/news/technology-14841018)
+
+October
+-------
+- {{% wikipedia article="Imperial College London" %}} researchers have shown {{% wikipedia article="Logic gates" %}} can be built out of {{% wikipedia article="E. coli" %}} bacteria and {{% wikipedia article="DNA" %}}. This could be used to make sophisticated diagnostic cells that assess and treat illness in the body. [(KurzweilAI)](http://www.kurzweilai.net/scientists-create-computing-building-blocks-from-bacteria-and-dna)
+
+- {{% wikipedia article="India" %}}'s {{% wikipedia article="Minister of Health and Family Welfare (India)" text="Minister of Health" %}}, {{% wikipedia article="Ghulam Nabi Azad" %}}, reports that the country has almost entirely eradicated {{% wikipedia article="Polio" %}} through a {{% wikipedia article="Polio vaccine" text="vaccination" %}} program which immunises over 170 million children every year. No new polio cases have been reported in India for over nine months. [(BBC)](http://www.bbc.co.uk/news/world-south-asia-15425852)
+
+November
+--------
+- {{% wikipedia article="India" %}} announces plans for a prototype {{% wikipedia article="Nuclear power plant" %}} that uses {{% wikipedia article="Thorium" %}} – an innovative, potentially safer nuclear fuel. [(The Guardian)](http://www.guardian.co.uk/environment/2011/nov/01/india-thorium-nuclear-plant)
+
+- Researchers at {{% wikipedia article="Washington State University" %}} develop an artificial bone "scaffold" which can be produced using {{% wikipedia article="3D printer" text="3D printers" %}}, potentially allowing doctors to quickly print replacement bone tissue for injured patients. [(BBC)](http://www.bbc.co.uk/news/technology-15963467)
+
+December
+--------
+- Researchers at {{% wikipedia article="CERN" %}}'s {{% wikipedia article="Large Hadron Collider" %}} (LHC) report the discovery of a new particle, dubbed {{% wikipedia article="Bottom quark#Chib(3P) particle" text="Chi_b(3P)" %}}. The discovery marks the LHC's first clear observation of a new particle since it became operational in 2009. [(BBC)](http://www.bbc.co.uk/news/science-environment-16301908)
+
+As you can notice from the list, my choice includes an inclination toward computers, physics and a couple of happenings in India. A lot has happened in 2011 throughout the world and you can get a gist of it from this wikipedia article {{% wikipedia article="2011 in science" %}}.

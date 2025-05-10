@@ -5,7 +5,7 @@
 .. category: Science
 .. description: Adding a leap second to synchronize atomic time with the Earth's rotation on New Year's Day 2009.
 
-1 second has been added to this year, according to the official time keepers at http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat
+A {{% wikipedia article="Leap second" %}} has been added to this year, according to the official time keepers at the {{% wikipedia article="International Earth Rotation and Reference Systems Service" %}} (http://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat).
 
 So our clocks at Bangalore should have been:
 
@@ -18,3 +18,5 @@ So our clocks at Bangalore should have been:
 5:29:60 <--- Hurray!
 
 5:30:00
+
+This adjustment helps maintain the synchronization between {{% wikipedia article="Coordinated Universal Time" %}} and the Earth's rotation.

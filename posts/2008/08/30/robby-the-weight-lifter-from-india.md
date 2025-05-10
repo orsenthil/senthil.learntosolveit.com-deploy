@@ -7,4 +7,4 @@
 
 # Robby, the Weight-Lifter from India
 
-This is the entry from [SSK Robotics Club](http://www.spasticssocietyofkarnataka.org) to compete in the [MINDSTORMS NXT Summer Sports Building Challenge](http://mindstorms.lego.com/nxtlog/ProjectDisplay.aspx?id=64069cc3-6ac6-4778-9e14-0b6ecb89ae7f).
+This is the entry from [SSK Robotics Club](http://www.spasticssocietyofkarnataka.org) to compete in the {{% wikipedia article="Lego Mindstorms" %}} NXT Summer Sports Building Challenge. The robot is designed to demonstrate the principles of {{% wikipedia article="Robotics" %}} and {{% wikipedia article="Sports engineering" %}} through the innovative use of LEGO components and programming.

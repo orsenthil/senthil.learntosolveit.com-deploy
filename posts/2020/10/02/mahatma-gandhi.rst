@@ -7,9 +7,8 @@
 .. description:
 .. type: text
 
-We might have heard about Einstein’s Famous quote on Gandhi. Few years ago, I
-discovered that the quote is from a book by Albert Einstein with Title “Essays
-in Humanism”
+We might have heard about {{% wikipedia article="Albert Einstein" %}}'s Famous quote on {{% wikipedia article="Mahatma Gandhi" %}}. Few years ago, I
+discovered that the quote is from a book by Albert Einstein with Title "{{% wikipedia article="Humanism" text="Essays in Humanism" %}}"
 
 ::
 
@@ -21,7 +20,7 @@ in Humanism”
     has always scorned the use of force; a man of wisdom and humility, armed
     with resolve and inflexible consistency, who has devoted all his strength to
     the up lifting of his people and the betterment of their lot; a man who has
-    confronted the brutality of Europe with the dignity of the simple human
+    confronted the brutality of {{% wikipedia article="Europe" %}} with the dignity of the simple human
     being, and thus at all times risen superior.
 
     Generations to come, it may be, will scarce believe that such a one as this

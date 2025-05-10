@@ -1,10 +1,10 @@
 .. title: Finding A Suitable Solution
 .. slug: finding-a-suitable-solution
 .. date: 2010-09-01 05:20:22 UTC-08:00
-.. tags: 
-.. category: 
+.. tags: accessibility, assistive technology, cerebral palsy, dasher
+.. category: Technology
 .. link: 
-.. description: 
+.. description: A journey of finding suitable assistive technology solutions for a person with cerebral palsy.
 .. type: text
 
 This text was first published in `Avinash Sonnad Blog`_
@@ -18,18 +18,17 @@ Presented at the conference by
 *Senthil and Avinash, Spastics Society of Karnataka.*
 
 Avinash was a student with Spastics Society of Karnataka and currently a student
-with Christ University. He has multiple disabilities and suffers from Cerebral
-Palsy. Senthil is a Software Developer working in Bangalore. He knows Avinash
+with Christ University. He has multiple disabilities and suffers from {{% wikipedia article="Cerebral palsy" %}}. Senthil is a Software Developer working in Bangalore. He knows Avinash
 from the time he was in Spastics Society of Karnataka and has been working him
 in identifying a suitable technology for overcome his challenges in
 communication.
 
-Avinash and I started looking out for a suitable Assistive Technology for a long
+Avinash and I started looking out for a suitable {{% wikipedia article="Assistive technology" %}} for a long
 time and we have discovered a number of things with our trial and error
 methods. It was quite clear to me that Assistive Technologies will be useful for
 people like Avinash.
 
-Just after meeting Avinash, I realized, a software called Dasher could be
+Just after meeting Avinash, I realized, a software called {{% wikipedia article="Dasher (software)" %}} could be
 useful to him. So, I went to his house and I remember we started with Dasher.
 We did not know how to use it. I read and studied the documentation and it was
 of no avail. I also realized the limitations of Avinash then. I saw that he was
@@ -37,7 +36,7 @@ able to move only his thumb and the index finger and he had a lot of
 involuntary movements.  I tried different kinds of mouse which he can hold on
 with his two fingers and my search for an Assistive technology device started
 along the lines of finding a suitable mouse device for Avinash. It was four
-years ago, that we also tried Voice Recognition to see if it would be helpful.
+years ago, that we also tried {{% wikipedia article="Speech recognition" %}} to see if it would be helpful.
 Very few people were using Voice Recognition then and I had heard that it
 requires considerable training to use the Voice Recognition. So I started with
 the Voice Recognition training and I soon realized that the software was
@@ -50,16 +49,16 @@ Our First Accessibility Device
 Avinash is an avid reader. I was surprised by the way he used to read his
 books. He used to lie down on his side on bed and his mother used to flip pages
 for him. Reducing his dependency on his Mother to flip pages for him might be
-the first step forward. I knew that Adobe Acrobat reader had the auto-scroll
+the first step forward. I knew that {{% wikipedia article="Adobe Acrobat" %}} reader had the auto-scroll
 option that would help in reading the book.
 
-In his personal laptop with books loaded as PDF documents in the auto-scroll
+In his personal laptop with books loaded as {{% wikipedia article="Portable Document Format" text="PDF" %}} documents in the auto-scroll
 mode, the book will automatically scroll at regular pace set by us, Avinash
 would be able to read the entire book without his mom's help. Viola! This was
 our first accessibility device.
 
-With this feature, he read 5 books completely. He read, "Alice in Wonderland", a
-set of 14 short-stories of Sherlock Holmes and H.G.Well's "First men on Moon".
+With this feature, he read 5 books completely. He read, "{{% wikipedia article="Alice's Adventures in Wonderland" text="Alice in Wonderland" %}}", a
+set of 14 short-stories of {{% wikipedia article="Sherlock Holmes" %}} and {{% wikipedia article="H. G. Wells" text="H.G.Well's" %}} "{{% wikipedia article="The First Men in the Moon" text="First men on Moon" %}}".
 
 The Adobe Acrobat software also has a reader option where the software can read
 the words aloud. However, it was not desirable as it was very mechanical and it
@@ -79,7 +78,7 @@ Second Accessibility Device - Mobile phone
 One of the mobile phones in the market had a stick like pointer in the middle
 and it was very suitable for Avinash. If someone placed that mobile in his
 hands, he was able to control it with the stick interface. So, I got the idea
-of connecting the mobile via blue-tooth to the laptop cursor, so that the
+of connecting the mobile via {{% wikipedia article="Bluetooth" %}} to the laptop cursor, so that the
 scrolling of the book can be controlled. But the mobile which I got was
 slippery and also it required its cover to be removed in order to expose the
 middle stick interface properly. 
@@ -94,7 +93,7 @@ Third Accessibility Device - A very small infra-red mouse
 ---------------------------------------------------------
 
 Given that mobile phone was not suitable, I started looking out for a small
-mouse which could fit into Avinash's palm. I got a Infra-red wireless mouse from
+mouse which could fit into Avinash's palm. I got a {{% wikipedia article="Infrared" text="Infra-red" %}} wireless mouse from
 Staples store at Marathali, Bangalore. This was incidentally the first purchase,
 specifically made for 'trying things out'.
 
@@ -124,8 +123,7 @@ words written by Avinash using the Camera Mouse on Dasher.
 **"Education is the only possible way to enlighten the people's mind to make
 this world a beaieul place to live in. "**
 
-
-It is a from Dr. Kalam's book, "Inspiring thoughts". Avinash was able to write
+It is a from {{% wikipedia article="A. P. J. Abdul Kalam" text="Dr. Kalam's" %}} book, "Inspiring thoughts". Avinash was able to write
 this down with great difficulty. There is a mistake in the sentence, and I left
 it consciously, because it always believe, it is okay to make mistakes.
 
@@ -145,7 +143,7 @@ Meanwhile in the Dasher mailing list, someone had mentioned that he was using
 Voice Recognition in composing the mail and he uses Voice Recognition and
 Dasher simultaneously. I approached him and he suggested that Voice Recognition
 technology has improved a lot in the recent years and suggested that I try with
-the latest version of Microsoft Speech software.
+the latest version of {{% wikipedia article="Microsoft Speech API" %}}.
 
 This required us to upgrade the speech recognition software in the operating
 system. Once we did it, we tried the Voice Recognition training program
@@ -194,7 +192,7 @@ able to write on his computer using Dasher! This required more practise in
 understanding the way Dasher works. Over time, he gained the ability to control
 his computer and dasher together to write sentences effectively.
 
-Avinash still uses on-screen keyboard to click on letters and composing
+Avinash still uses {{% wikipedia article="On-screen keyboard" %}} to click on letters and composing
 words. He takes a long time to compose in this way. However, I believe with his
 speed can be increased significantly using Dasher, which would be as close to
 the average speed of one among us.

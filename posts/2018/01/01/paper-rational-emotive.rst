@@ -7,8 +7,7 @@
 .. description:
 .. type: text
 
-`Brief Introduction to Rational Emotive Behaviour Therapy.`_ by W Froggatt gives an overview of the Rational
-Emotive Behavior Therapy, a Cognitive Behavior Therapy school of though in psychology.
+`Brief Introduction to Rational Emotive Behaviour Therapy.`_ by W Froggatt gives an overview of the {{% wikipedia article="Rational emotive behavior therapy" %}}, a {{% wikipedia article="Cognitive behavioral therapy" text="Cognitive Behavior Therapy" %}} school of though in {{% wikipedia article="Psychology" %}}.
 
 The topic itself is accessible and is easy to read. The paper has suggestion
 on number of books that cover this topic for further reading and study.

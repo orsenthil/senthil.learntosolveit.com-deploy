@@ -8,18 +8,17 @@
 .. type: text
 
 
-Happy Pi Day
-============
+Happy {{% wikipedia article="Pi Day" %}}
 
-I celebrated the Pi day during Covid-19 times with these activities.
+I celebrated the Pi day during {{% wikipedia article="COVID-19 pandemic" text="Covid-19" %}} times with these activities.
 
 * Learning `AWS ML Modelling`_
 
-* Solving an Easy Brilliant.org quiz but getting it wrong.
+* Solving an Easy {{% wikipedia article="Brilliant.org" %}} quiz but getting it wrong.
 
 .. image:: https://i.imgur.com/ZvUKjlw.png
 
-* Reading a little about Thales Theorem  from the `Timeline of Mathematics`_ at Mathigon
+* Reading a little about {{% wikipedia article="Thales's theorem" text="Thales Theorem" %}} from the `Timeline of Mathematics`_ at Mathigon.
 
 .. image:: https://i.imgur.com/xsLzOCV.png
 
