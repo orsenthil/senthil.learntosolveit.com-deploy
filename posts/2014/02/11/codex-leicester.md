@@ -7,13 +7,9 @@
 .. categories: Incredibles
 .. wp-status: publish
 
-Leonardo da Vinci's scientific manuscript, the <a href="https://en.wikipedia.org/wiki/Codex_Leicester">Codex Leicester</a>, holds
+Leonardo da Vinci's scientific manuscript, the {{% wikipedia article="Codex_Leicester" %}}, holds
 the record for the highest sale price of any book. It was purchased by Bill
 Gates for $30,802,500 USD.
-
-
-
- 
 
 
 

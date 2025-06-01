@@ -73,6 +73,3 @@ than his tribe. **It does a great job of giving that answer to Mr. Yali and rest
 .. _Edison and his phonograph: http://xtoinfinity.com/posts/2018/04/16/edison-and-his-phonograph.html
 
 .. _Bill Gates, On Guns, Germs and Steel: https://www.gatesnotes.com/Books/Guns-Germs-and-Steel
-
-.. _The Battle of Cajamarca: https://en.wikipedia.org/wiki/Battle_of_Cajamarca
-

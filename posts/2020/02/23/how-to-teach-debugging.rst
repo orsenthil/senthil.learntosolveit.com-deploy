@@ -9,9 +9,6 @@
 
 .. image:: https://i.imgur.com/Fnh80HC.png
 
-This is from Masterminds of programming. Person sharing the story and the perspective is `Thomas Kurtz`_
-
-.. _Thomas Kurtz: https://en.wikipedia.org/wiki/Thomas_E._Kurtz
-
+This is from Masterminds of programming. Person sharing the story and the perspective is {{% wikipedia article="Thomas_E._Kurtz" %}}
 
 .. image:: https://i.imgur.com/S2mnVEI.png

@@ -5,7 +5,7 @@
 .. category: Science
 .. description: Exploring the mathematical frequency of blue moons and their occurrence rate
 
-[Blue Moon](http://en.wikipedia.org/wiki/Blue_moon) is a name given to an
+{{% wikipedia article="Blue_moon" text="Blue Moon" %}} is a name given to an
 irregularly timed full moon. Most years have twelve full moons which occur
 approximately monthly, but each calendar year contains those twelve full lunar
 cycles plus about eleven days to spare. The extra days accumulate, so that

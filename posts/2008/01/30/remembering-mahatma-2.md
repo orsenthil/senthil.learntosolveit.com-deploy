@@ -15,4 +15,4 @@ There was a small column however there that Mahatma Gandhi was in a village wher
 
 Quote of the day:
 
-"Whatever we do might be insignificant, but it is very important that we do it" - [Gandhi](http://en.wikipedia.org/wiki/Mahatma_Gandhi)
+"Whatever we do might be insignificant, but it is very important that we do it" - {{% wikipedia article="Mahatma_Gandhi" text="Gandhi" %}}

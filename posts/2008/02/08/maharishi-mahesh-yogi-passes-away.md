@@ -5,7 +5,7 @@
 .. category: Reflection
 .. description: Reflecting on Maharishi Mahesh Yogi's passing and my personal journey with Transcendental Meditation
 
-[Maharishi Mahesh Yogi](http://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) was the guru of Transcendental Meditation technique. There are many different meditation techniques in the world. Meditation is a concept for your thoughts, which is similar physical exercise is for body.
+{{% wikipedia article="Maharishi_Mahesh_Yogi" %}} was the guru of Transcendental Meditation technique. There are many different meditation techniques in the world. Meditation is a concept for your thoughts, which is similar physical exercise is for body.
 
 Transcendental Meditation is one of them and Maharishi Mahesh Yogi pioneered it. I learned it when I was in 10th standard, 16 years old and practiced it till my first year at job when I was in tech-support department at Dell, 23 years old. I feel, I had started meditation, because I wanted to improve my marks and achieve big things :-) and pursued it for 7 years intermittently, constantly getting confused with many things, without achieving the purpose of marks and big things. During this time, the Meditation activity also took me into religion and other spiritual activities in the related sphere and I got easily influenced by them also. My interests included, Sri Ramakrishna Mutt, Swami Vivekananda, Osho, temples and various different philosophical reading.
 

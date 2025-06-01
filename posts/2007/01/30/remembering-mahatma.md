@@ -16,8 +16,6 @@
 
 Today, 59 years ago, {{% wikipedia article="Nathuram Godse" %}} bowed before Mahatma Gandhi, wished him well, and then tragically shot him with a {{% wikipedia article="Beretta" %}} pistol.
 
-[Read more on Wikipedia](http://en.wikipedia.org/wiki/Mahatma_Gandhi)
-
 
 ----
 
@@ -123,48 +121,3 @@ Re: You are right
 Thank you, Sir. But u forgot to leave your reference, if I wish to know more about you.
 
 _Senthil_
-
-----
-
-
-Please, help me, brothers!!!
-
-
-
-Hi, my friends. I want to get program X-Rumer 5.07 Palladium for free. Have you any url?
-
-
-
-I'm so need this magic program! It's can break captchas automatically! Activate accounts via email automatically too! Absolutely great software! Help me!
-
-
-
-And did you hear news - price for XRumer 5.0 Palladium will grow up to $540 after 15 may 2009... And XRumer 2.9 and 3.0 - too old versions, it's cant break modern catpchas and cant break modern anti-bot protections. But XRumer 5.0 Palladium CAN!!!!
-
-
-
-So help me for download this great soft for free! Thanks!
-
-_Anonymous_
-
-----
-
-
-again miniature future
-
-
-
-special  proficiency  virtually  territory
-
-_Anonymous_
-
-----
-
-
-NYIP monitoring, listing
-
-
-
-http://besthyiprating.com  Monitoring
-
-_Anonymous_

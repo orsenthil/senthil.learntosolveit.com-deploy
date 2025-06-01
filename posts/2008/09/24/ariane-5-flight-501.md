@@ -5,7 +5,7 @@
 .. category: Software Engineering
 .. description: Analysis of the Ariane 5 Flight 501 failure caused by an arithmetic exception and integer overflow in the ADA program
 
-While listening to an introductory programming class, came across the mention of this this "[Ariane 5 Flight 501](http://en.wikipedia.org/wiki/Ariane_5_Flight_501)" failure incident, which was caused by Arithmetic Exception and Integer overflow resulted from automatic type casting float to integer in the ADA program. Very costly software bug.
+While listening to an introductory programming class, came across the mention of this this "{{% wikipedia article="Ariane_5_Flight_501" %}}" failure incident, which was caused by Arithmetic Exception and Integer overflow resulted from automatic type casting float to integer in the ADA program. Very costly software bug.
 
 [This German article](http://www-aix.gsi.de/~giese/swr/ariane5.html) discusses the issue. Below is the English translation of the same with the help of translate.google.com with *some comments*.
 

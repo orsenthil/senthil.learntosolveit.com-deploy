@@ -7,14 +7,8 @@
 .. description:
 .. type: text
 
-I earned a `Benjamin Franklin`_ badge.
+I earned a {{% wikipedia article="Benjamin_Franklin" %}} badge.
 
 .. image:: https://dl.dropbox.com/s/c4huwavt9q7ttac/Screenshot%202017-03-16%2023.20.32.png?dl=0
    :height: 300
    :width: 650
-
-That was very motivating.
-
-Benjamin Franklin: {{% wikipedia article="Benjamin_Franklin" %}}
-
-.. _Benjamin Franklin: https://en.wikipedia.org/wiki/Benjamin_Franklin

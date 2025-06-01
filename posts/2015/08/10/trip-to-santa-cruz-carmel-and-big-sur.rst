@@ -21,14 +21,14 @@ tourist spots, but in a beautiful small town called Salinas_.
 Using wikipedia and google maps, I noted down the following places that will be
 worth visiting.
 
-* `Pegion Point Light House`_
-* `Mystery Spot`_
-* `Santa Cruz Broad Walk`_
+* {{% wikipedia article="Pigeon_Point_Lighthouse" text="Pegion Point Light House" %}}
+* {{% wikipedia article="Mystery_Spot" text="Mystery Spot" %}}
+* {{% wikipedia article="Santa_Cruz_Beach_Boardwalk" text="Santa Cruz Broad Walk" %}}
 * Piedras Blancas Light Station [cancelled]
-* `Point Sur Light House`_
-* `Monterey Aquarium`_
-* `Mission San Carlos Borroméo del río Carmelo`_
-* `Bixby Creek Bridge`_
+* {{% wikipedia article="Point_Sur_Lighthouse" text="Point Sur Light House" %}}
+* {{% wikipedia article="Monterey_Bay_Aquarium" text="Monterey Aquarium" %}}
+* {{% wikipedia article="Mission_San_Carlos_Borromeo_de_Carmelo" text="Mission San Carlos Borroméo del río Carmelo" %}}
+* {{% wikipedia article="Bixby_Creek_Bridge" text="Bixby Creek Bridge" %}}
 * Hearst Castle [cancelled]
 * `Mt Madonna Hanuman Temple`_
 
@@ -61,14 +61,7 @@ executed mostly on our plans.
 
 Here are some of our `Tour Photos`_.
 
-.. _Pegion Point Light House: https://en.wikipedia.org/wiki/Pigeon_Point_Lighthouse
-.. _Mystery Spot: https://en.wikipedia.org/wiki/Mystery_Spot
 .. _Salinas: http://www.wikiwand.com/en/Salinas,_California
-.. _Santa Cruz Broad Walk: https://en.wikipedia.org/wiki/Santa_Cruz_Beach_Boardwalk
-.. _Point Sur Light House: https://en.wikipedia.org/wiki/Point_Sur_Lighthouse
-.. _Monterey Aquarium: https://en.wikipedia.org/wiki/Monterey_Bay_Aquarium
-.. _Bixby Creek Bridge: https://en.wikipedia.org/wiki/Bixby_Creek_Bridge
-.. _Mission San Carlos Borroméo del río Carmelo: https://en.wikipedia.org/wiki/Mission_San_Carlos_Borromeo_de_Carmelo
 .. _Mt Madonna Hanuman Temple: http://www.yelp.com/biz/sankat-mochan-hanuman-temple-watsonville
 .. _Tour Photos: https://goo.gl/photos/fMz7sEm8kT5pJy3t8
 .. _Y and T: http://www.yandtrocks.com/

@@ -21,7 +21,7 @@ quickly turned into an adventure plot, and before I realized it, excellent
 science was mixed into every element of this fictitious story. It has references
 to Fourier and Poisson, calculations for measuring distances based on sound lag,
 adventures of an Icelandic hiker, a cave explorer, a climber, and even
-biologists encountering a trilobite_! Yes, a trilobite! You will also find all
+biologists encountering a trilobite! Yes, a trilobite! You will also find all
 the pre-historic animals and references to famous explorers, biologists, and
 taxonomists—all present in a single story.
 
@@ -45,10 +45,10 @@ About Poisson:
     demonstrated that if a heat of 360,000 degrees existed in the interior of
     the globe.”
 
-A trilobite_!
+A {{% wikipedia article="Trilobite" %}}!
 
-    “Very well,” said he quietly, “it is the shell of a crustacean, of an
-    extinct species called a trilobite. Nothing more.”
+    "Very well," said he quietly, "it is the shell of a crustacean, of an
+    extinct species called a trilobite. Nothing more."
 
 All these pre-historic animals:
 
@@ -58,9 +58,7 @@ All these pre-historic animals:
 
 And the adventurers:
 
-    “Mr. Milne-Edwards! Ah! Mr. de Quatrefages, how I wish you were standing
-    here at the side of Otto Liedenbrock!”
+    "Mr. Milne-Edwards! Ah! Mr. de Quatrefages, how I wish you were standing
+    here at the side of Otto Liedenbrock!"
 
 This book was a thorough adventure, with so many references to explore further!
-
-.. _trilobite: https://en.wikipedia.org/wiki/Trilobite

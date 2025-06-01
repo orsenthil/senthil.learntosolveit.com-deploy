@@ -32,7 +32,7 @@ but simply a different architecture for conventional computers. Let me go on a
 little tangent here.
 
 Now that we've reached the limits of the {{% wikipedia article="Von Neumann architecture" %}}
-[wikipedia.org], we're starting to see a new wave of innovation in CPU design.
+, we're starting to see a new wave of innovation in CPU design.
 The Cell is part of that, but also the stuff ATI [amd.com] and NVIDIA
 [nvidia.com] are doing is also very interesting. Instead of one monolithic
 processor connected to a giant memory through a tiny bottleneck, processors of

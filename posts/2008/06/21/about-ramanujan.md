@@ -5,7 +5,7 @@
 .. category: Biography
 .. description: Information about the legendary Indian mathematician Srinivasa Ramanujan and his cultural impact
 
-I was looking for some information on [Srinivasa Ramanujan](http://en.wikipedia.org/wiki/Srinivasa_Ramanujan), that I stumbled upon this post at [y! answers](http://in.answers.yahoo.com/question/index?qid=20080522233810AAjZ7Tz).
+I was looking for some information on {{% wikipedia article="Srinivasa_Ramanujan" %}}, that I stumbled upon this post at [y! answers](http://in.answers.yahoo.com/question/index?qid=20080522233810AAjZ7Tz).
 
 Mathematician Ramanujan. The greatest ever.
 

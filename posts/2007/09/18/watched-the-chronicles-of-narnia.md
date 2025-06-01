@@ -5,8 +5,7 @@
 .. category: Entertainment
 .. description: Watching The Chronicles of Narnia movie based on C.S. Lewis's famous fantasy book
 
-Avi, Sanju, and I watched ["The Chronicles of Narnia"](http://en.wikipedia.org/wiki/The_Chronicles_of_Narnia) on DVD. Based on *{{% wikipedia article="The Lion, the Witch and the Wardrobe" %}}* by {{% wikipedia article="C. S. Lewis" %}}, this film is a fairy tale intended for children with a truly happy ending. It is a delightful movie that offers a hopeful reminder that things do end well.
-
+Avi, Sanju, and I watched {{% wikipedia article="The Chronicles of Narnia" %}} on DVD. Based on *{{% wikipedia article="The Lion, the Witch and the Wardrobe" %}}* by {{% wikipedia article="C. S. Lewis" %}}, this film is a fairy tale intended for children with a truly happy ending. It is a delightful movie that offers a hopeful reminder that things do end well.
 
 ----
 

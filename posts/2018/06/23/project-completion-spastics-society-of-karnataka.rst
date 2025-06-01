@@ -63,7 +63,6 @@ entity, and will evolve with times.
 wayback machine: {{% wikipedia article="Wayback_Machine" %}}
 bus-factor: {{% wikipedia article="Bus_factor" %}}
 
-.. _wayback machine: https://en.wikipedia.org/wiki/Wayback_Machine
 .. _website looked like this in 2004: https://web.archive.org/web/20040521200831/http://www.spasticssocietyofkarnataka.org
 .. _in 2007 the website started looking like this: https://web.archive.org/web/20070523104054/http://www.spasticssocietyofkarnataka.org
 .. _open source web design: https://web.archive.org/web/20070523172324/http://www.oswd.org:80/

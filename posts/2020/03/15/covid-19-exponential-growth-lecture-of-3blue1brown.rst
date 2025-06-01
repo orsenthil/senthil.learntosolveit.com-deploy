@@ -127,4 +127,3 @@ the growth. However, "If we are not worried, that's only thing to worry about".
 .. _Explain XKCD: https://www.explainxkcd.com/wiki/index.php/605:_Extrapolating
 .. _logistic curve: https://en.wikipedia.org/wiki/Logistic_function
 .. _"least square regression": https://www.mathsisfun.com/data/least-squares-regression.html
-.. _Covid-19: https://en.wikipedia.org/wiki/Coronavirus_disease_2019
