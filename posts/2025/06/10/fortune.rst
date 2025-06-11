@@ -17,14 +17,14 @@ A minimalist browser extension that displays a new quote in the browser tab. For
 
 ---- 
 
-This extension is named after popular Unix Program `fortune <https://en.wikipedia.org/wiki/Fortune_(Unix)>`_, a command line utility which displays quotes in the shell. The browser with tabs is a modern shell interface of the computer. And this is the fortune program for the browser.
+This extension is named after popular Unix Program {{% wikipedia article="Fortune_(Unix)" %}}, a command line utility which displays quotes in the shell. The browser with tabs is a modern shell interface of the computer. And this is the fortune program for the browser.
 
 Technical Details
 -----------------
 
 I developed this with Python hosted on Google App Engine, and the client side written using Javascript as a browser addon. In the backend there is a database where I keep the quote and author in a table. There is API call that returns the quote and the author in the JSON format. To call the API visit http://quotes-1271.appspot.com/json . This is an unauthenticated API as it read-only GET call, and cannot change the state of the system.
 
-The client side is entirely handled by Javascript, and it displays the quote using simple `DOM <https://en.wikipedia.org/wiki/Document_Object_Model>`_ manipulation.
+The client side is entirely handled by Javascript, and it displays the quote using simple {{% wikipedia article="Document_Object_Model" %}} manipulation.
 
 Get the extension directly from the webstore
 --------------------------------------------
