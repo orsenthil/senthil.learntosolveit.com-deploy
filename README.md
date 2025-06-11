@@ -11,6 +11,4 @@ nikola build
 nikola deploy
 ```
 
-
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/orsenthil/nikola-netlify-cms&stack=cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/orsenthil/senthil.learntosolveit.com&stack=cms)
