@@ -1,4 +1,4 @@
-.. title: teamcity.learntosolveit.com
+.. title: teamcity
 .. slug: 
 .. date: 2025-06-03 12:57:40 UTC-07:00
 .. tags: CI, CD

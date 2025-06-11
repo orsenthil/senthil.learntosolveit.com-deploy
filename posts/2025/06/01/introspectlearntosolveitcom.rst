@@ -1,4 +1,4 @@
-.. title: introspect.learntosolveit.com
+.. title: introspect
 .. slug: introspectlearntosolveitcom
 .. date: 2025-06-01 12:38:57 UTC-07:00
 .. tags: django, react, flask, ai, journaling, rebt

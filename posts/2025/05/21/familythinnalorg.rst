@@ -1,4 +1,4 @@
-.. title: family.thinnal.org
+.. title: family tree
 .. slug: familythinnalorg
 .. date: 2025-05-21 13:33:29 UTC-07:00
 .. tags: projects, family-tree
